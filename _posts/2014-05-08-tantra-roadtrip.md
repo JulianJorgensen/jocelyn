@@ -10,6 +10,4 @@ image: /images/dsc01747.jpg
 
 ![](/uploads/versions/header-3---x----1200-700x---.jpg)
 
-And a bit more here…
-
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/lOlaoIzf6JU" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+And a bit more here...
