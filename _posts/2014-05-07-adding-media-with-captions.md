@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Adding media
-date: 2014-05-09
+post_date: 2014-05-09
 excerpt: "The concept of working with a static site generator using the terminal or console <b>might be new to you</b>, but I'll do my very best to guide you through the process."
 tags:
 image: header-4.jpg
