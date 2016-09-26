@@ -9,17 +9,12 @@ excerpt: Some text here
 gradient: 1
 ---
 
-<div class="summary">
-
-  <p>Well, I guess it's quite obvious that I really enjoy working with Jekyll — <b>with good reasons</b> — so let me just briefly suggest some of the benefits of using a static site generator in favor of a heavy dynamic, database driven content management system. <a href="/why-jekyll.html" title="Continue" class="more">Continue</a></p>
-
+<div class="summary editable">
+ This is some intro text you can edit...
 </div>
-
-<h2>Guides</h2>
-<p>Please follow these guides in order to get a good impression about the themes functionality and how it works.</p>
 
 {% for post in paginator.posts %}
 
   {% include summary.html %}
-  
+
 {% endfor %}
