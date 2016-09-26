@@ -1,33 +1,30 @@
 ---
-
-layout:			default
-title:  		Getting started
-type:			post
-navigation: 	false
-
-date:   		2014-05-09
-excerpt: 		The concept of working with a static site generator using the terminal or console <b>might be new to you</b>, but I'll do my very best to guide you through the process.
-categories:		guides
-gradient: 		1
-image: 			header-4.jpg
-details:		false
-
-author: 		Maximilian Bartel
-bio: 			I'm a freelance web designer who enjoys creating beautiful and standard compliant solutions for my clients from all around the world.
-twitter: 		"http://twitter.com/indiqo"
-facebook: 		"http://facebook.com"
-google: 		"http://google.com"
-linkedin: 		"http://linkedin.com"
-pinterest: 		"http://pinterest.com"
-flickr: 		"http://flickr.com"
-dribbble: 		"http://dribbble.com"
-rss: 			"feed://themeforest.net/feeds/users/indiqo"
-
+layout: default
+title: Tantra Roadtrip
+type: post
+navigation: false
+date: 2014-05-09T00:00:00.000Z
+excerpt: "The concept of working with a static site generator using the terminal or console <b>might be new to you</b>, but I'll do my very best to guide you through the process."
+categories: guides
+gradient: 1
+image: header-4.jpg
+details: false
+author: Maximilian Bartel
+bio: "I'm a freelance web designer who enjoys creating beautiful and standard compliant solutions for my clients from all around the world."
+twitter: 'http://twitter.com/indiqo'
+facebook: 'http://facebook.com'
+google: 'http://google.com'
+linkedin: 'http://linkedin.com'
+pinterest: 'http://pinterest.com'
+flickr: 'http://flickr.com'
+dribbble: 'http://dribbble.com'
+rss: 'feed://themeforest.net/feeds/users/indiqo'
 ---
 
-In order to get started with Jekyll, please have a look at the [official Jekyll website](http://jekyllrb.com) first. 
 
-It basically explains everything you'll need to know how to **install Jekyll on your system** accordingly. 
+In order to get started with Jekyll, please have a look at the [official Jekyll website](http://jekyllrb.com) first.
+
+It basically explains everything you'll need to know how to **install Jekyll on your system** accordingly.
 
 Don't be afraid of the terminal or console by the way, it's really not as difficult as it might seems at first sight. I'll do my very best to guide you through rest of the theme setup process afterwards.
 
@@ -51,11 +48,11 @@ To turn the theme and sample data into a static website now, please **open up yo
 
 {% include media-image.html file="change-directory.jpg" title="Change Directory" caption="Useful hint: Just enter 'cd' into the terminal or console and drag the theme folder into the window before hitting enter — works perfectly at least on OSX" %}
 
-Now let the magic happen and **build the site** by running `jekyll build` or start a local webserver via `jekyll serve`. 
+Now let the magic happen and **build the site** by running `jekyll build` or start a local webserver via `jekyll serve`.
 
 A new folder called `_site` will be created which includes the entire website ready to be pushed to your webserver via FTP for example.
 
-Please keep in mind that Jekyll **sites are meant to run on webservers and not on file systems** which means that links and references are relative. If you open up one of the generated HTML pages locally, they most likely won't be styled at all, images won't show up and links can be broken at least particularly. 
+Please keep in mind that Jekyll **sites are meant to run on webservers and not on file systems** which means that links and references are relative. If you open up one of the generated HTML pages locally, they most likely won't be styled at all, images won't show up and links can be broken at least particularly.
 
 **That's normal and intended so don't panic!**
 
