@@ -1,28 +1,15 @@
 ---
-
-layout:			default
-title:  		Adding media with captions
-navigation: 	false
-
-date:   		2014-05-07
-excerpt: 		Adding <b>images</b>, <b>videos</b> and <b>audio files</b> to a website shouldn't be difficult. That's why <i>Hashtag for Jekyll</i> includes some <b>simple short codes</b> which make it easy to add all of that — even better, you can also add captions and links to each one.
-categories:		guides
-gradient: 		5
-image: 			header-2.jpg
-details:		false
-
-author: 		Maximilian Bartel
-bio: 			I'm a freelance web designer who enjoys creating beautiful and standard compliant solutions for my clients from all around the world.
-twitter: 		"http://twitter.com/indiqo"
-facebook: 		"http://facebook.com"
-google: 		"http://google.com"
-linkedin: 		"http://linkedin.com"
-pinterest: 		"http://pinterest.com"
-flickr: 		"http://flickr.com"
-dribbble: 		"http://dribbble.com"
-rss: 			"feed://themeforest.net/feeds/users/indiqo"
-
+layout: default
+title: Adding media
+navigation: false
+date: 2014-05-09T00:00:00.000Z
+excerpt: "The concept of working with a static site generator using the terminal or console <b>might be new to you</b>, but I'll do my very best to guide you through the process."
+tags:
+  - themeforest
+  - tester
+image: header-4.jpg
 ---
+
 
 *First things first:* You can use the following shortcodes on **every page** and in **every post** as often as you like directly in between of your written contents.
 

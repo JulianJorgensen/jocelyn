@@ -21,16 +21,5 @@ copyright: 		Copyright Jocelyn Lee 2016
 # Build Settings
 permalinks: 	pretty
 
-
-# Collections
 collections:
-  tags:
-    output: true
-
-defaults:
-  -
-    scope:
-      path: ""
-      type: "tags"
-    values:
-      layout: "default"
+  - tags
