@@ -6,6 +6,8 @@ name: 			Hashtag <i>for</i> Jekyll
 description: 	A beautifully contemporary and elegant Jekyll theme
 url: 			"http://localhost:4000"
 
+gems: [jekyll-paginate]
+
 paginate: 		3
 paginate_path: 	"blog/page:num"
 
@@ -15,7 +17,7 @@ email: 			hello@indiqo.eu
 disqus: 		your_disqus_shortname
 analytics: 		UA-XXXXXXX-Y
 
-copyright: 		Copyright 2014 Indiqo.	
+copyright: 		Copyright 2014 Indiqo.
 
 # Build Settings
 permalinks: 	pretty
