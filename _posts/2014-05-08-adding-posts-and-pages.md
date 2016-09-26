@@ -10,7 +10,8 @@ categories:		guides
 gradient: 		2
 image: 			header-3.jpg
 details:		true
-
+tags:
+  - test2
 author: 		Maximilian Bartel
 bio: 			I'm a freelance web designer who enjoys creating beautiful and standard compliant solutions for my clients from all around the world.
 twitter: 		"http://twitter.com/indiqo"

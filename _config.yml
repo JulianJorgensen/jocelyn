@@ -1,23 +1,22 @@
 # Site Settings
 baseurl: 		""
-title: 			Hashtag for Jekyll
+title: 			Jocelyn Lee
 
-name: 			Hashtag <i>for</i> Jekyll
-description: 	A beautifully contemporary and elegant Jekyll theme
-url: 			"http://localhost:4000"
+name: 			Jocelyn Lee
+description: 	Jocelyn Lee blog
 
 gems: [jekyll-paginate]
 
-paginate: 		3
+paginate: 3
 paginate_path: 	"blog/page:num"
 
 twitter: 		indiqo
-email: 			hello@indiqo.eu
+email: 			koichihealing@gmail.com
 
 disqus: 		your_disqus_shortname
-analytics: 		UA-XXXXXXX-Y
+analytics: 		UA-84803515-1
 
-copyright: 		Copyright 2014 Indiqo.
+copyright: 		Copyright Jocelyn Lee 2016
 
 # Build Settings
 permalinks: 	pretty
