@@ -7,7 +7,7 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
-        <title>Getting started</title>
+        <title>Tantra Roadtrip</title>
         <description>&lt;p&gt;In order to get started with Jekyll, please have a look at the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;official Jekyll website&lt;/a&gt; first.&lt;/p&gt;
 
 &lt;p&gt;It basically explains everything you’ll need to know how to &lt;strong&gt;install Jekyll on your system&lt;/strong&gt; accordingly.&lt;/p&gt;
@@ -138,9 +138,9 @@
 
 &lt;p&gt;Just push the contents of the &lt;code class=&quot;highlighter-rouge&quot;&gt;_site&lt;/code&gt; folder to your webserver or start a local one and you’ll see that it works just the way it should. &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt; does that for you as well by the way and you can access it by opening &lt;code class=&quot;highlighter-rouge&quot;&gt;http://localhost:4000&lt;/code&gt; in your browser.&lt;/p&gt;
 </description>
-        <pubDate>Fri, 09 May 2014 00:00:00 -0700</pubDate>
-        <link>/guides/2014/05/09/getting-started.html</link>
-        <guid isPermaLink="true">/guides/2014/05/09/getting-started.html</guid>
+        <pubDate>Thu, 08 May 2014 17:00:00 -0700</pubDate>
+        <link>/guides/2014/05/08/tantra-roadtrip.html</link>
+        <guid isPermaLink="true">/guides/2014/05/08/tantra-roadtrip.html</guid>
       </item>
     
       <item>

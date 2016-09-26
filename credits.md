@@ -5,7 +5,6 @@ title:  		Credits &amp; Sources
 type:			page
 navigation: 	true
 
-date:   		2014-05-09
 excerpt: 		A big thank you to everybody who created the resources listed below — you guys did a fabulous job and the scripts and artwork provided were really useful to create this theme.
 gradient: 		3
 image: 			header-4.jpg
@@ -38,7 +37,7 @@ Due to the fact that I wasn't entirely sure wether it would be permitted to use 
 The [time to read plugin for Jekyll](https://github.com/gjtorikian/jekyll-time-to-read) has been created and released by [Garen J. Torikian](https://github.com/gjtorikian) under the MIT License.
 
 ### JQuery 2.1.1
-The [JQuery library](https://jquery.org) has been released under the [MIT License](jquery.org/license). 
+The [JQuery library](https://jquery.org) has been released under the [MIT License](jquery.org/license).
 
 ### Viewportchecker.js 1.3.2
 [Viewportchecker.js](https://github.com/dirkgroenen/jQuery-viewport-checker) created by [Dirk Groenen](https://github.com/dirkgroenen) and released under the MIT License.
