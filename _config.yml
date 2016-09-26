@@ -20,6 +20,3 @@ copyright: 		Copyright Jocelyn Lee 2016
 
 # Build Settings
 permalinks: 	pretty
-
-collections:
-  - tags
