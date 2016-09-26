@@ -1,14 +1,12 @@
 ---
-
-layout:			default
-title:  		About this Theme
-type:			page
-navigation: 	true
-
-excerpt: 		Don't let yourself be fooled by the <b>minimal and tidy overall appearance</b> of this theme — <i>you might be surprised what's included</i>.
-gradient: 		2
-image: 			header-2.jpg
-
+title: About this Theme
+layout: default
+type: page
+navigation: true
+excerpt: Don't let yourself be fooled by the <b>minimal and tidy overall appearance</b>
+  of this theme — <i>you might be surprised what's included</i>.
+gradient: 2
+image: header-2.jpg
 ---
 
 ## Minimal & Responsive Design

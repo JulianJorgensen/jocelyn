@@ -1,36 +1,23 @@
-# Site Settings
-baseurl: 		""
-title: 			Jocelyn Lee
-
-name: 			Jocelyn Lee
-description: 	Jocelyn Lee blog
-
-gems: [jekyll-paginate]
-
-paginate: 3
-paginate_path: 	"blog/page:num"
-
-twitter: 		jocelynleeblog
-email: 			koichihealing@gmail.com
-
-disqus: 		jocelynleeblog
-analytics: 		UA-84803515-1
-
-copyright: 		Copyright Jocelyn Lee 2016
-
-# Build Settings
-permalinks: 	pretty
-
-# Collections
+---
+title: Jocelyn Lee
+timezone: UTC
 collections:
-  tags:
+  posts:
+    title: Posts
     output: true
-    _hide_content: true
-
+  uploads:
+    title: Uploads
+    output: true
 defaults:
-  -
-    scope:
-      path: ""
-      type: "tags"
-    values:
-      layout: "default"
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: post
+    permalink: "/posts/:title/"
+- scope:
+    path: ''
+    type: pages
+  values:
+    layout: page
+permalink: pretty

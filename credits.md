@@ -1,14 +1,13 @@
 ---
-
-layout:			default
-title:  		Credits &amp; Sources
-type:			page
-navigation: 	true
-
-excerpt: 		A big thank you to everybody who created the resources listed below — you guys did a fabulous job and the scripts and artwork provided were really useful to create this theme.
-gradient: 		3
-image: 			header-4.jpg
-
+title: Credits &amp; Sources
+layout: default
+type: page
+navigation: true
+excerpt: A big thank you to everybody who created the resources listed below — you
+  guys did a fabulous job and the scripts and artwork provided were really useful
+  to create this theme.
+gradient: 3
+image: header-4.jpg
 ---
 
 ## Sources
