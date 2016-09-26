@@ -386,9 +386,9 @@ body > header {
 
 .content article header .scroll:active { bottom: 33px }
 
-/* Article Body */
-.content article .body img { max-width: 100%; }
+.body img { max-width: 100%; }
 
+/* Article Body */
 .content article .body { padding: 68px 0 34px }
 
     .content article .body .more {
