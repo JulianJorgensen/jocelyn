@@ -2,7 +2,6 @@
 
 layout:			default
 title:  		Adding media with captions
-type:			post
 navigation: 	false
 
 date:   		2014-05-07

@@ -2,7 +2,6 @@
 
 layout:			default
 title:  		Adding posts and pages
-type:			post
 navigation: 	false
 
 date:   		2014-05-08
@@ -45,7 +44,7 @@ Essentially, front-matter is written in **YAML** and **starts and ends with thre
 - **title:** The title will be **what you can see on top of each page** as well as in the overview on the homepage.
 - **type:** The type defines the **format of each page** — you can choose between `post`, `page` or `home`, but we'll use `post` for now.
 
-Please feel free to **have a look at the existing posts and pages** shipped with this theme in order to get an idea how it works. 
+Please feel free to **have a look at the existing posts and pages** shipped with this theme in order to get an idea how it works.
 
 Now that the configuration has been done, just **write some Markdown** below the second line of dashes, **hit save**, **open up your terminal or console** again and enter `jekyll build` once again to generate the output.
 
@@ -57,7 +56,7 @@ For example, there's an option which watches your folder for changes and automat
 
 ## Pages
 
-In general, *pages work more or less just like posts* — in fact, they even share the same front-matter. 
+In general, *pages work more or less just like posts* — in fact, they even share the same front-matter.
 
 The only difference might be the layout, because pages usually don't have next or previous pages and so **there's no teaser at the bottom** obviously and **comments are just available for posts**, but aside from that, they're pretty much identical.
 

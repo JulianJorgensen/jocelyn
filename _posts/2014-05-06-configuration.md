@@ -2,7 +2,6 @@
 
 layout:			default
 title:  		Configuration
-type:			post
 navigation: 	false
 
 date:   		2014-05-06

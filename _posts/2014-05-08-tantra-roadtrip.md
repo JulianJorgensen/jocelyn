@@ -1,24 +1,12 @@
 ---
 layout: default
 title: Tantra Roadtrip
-type: post
 navigation: false
 date: 2014-05-09T00:00:00.000Z
 excerpt: "The concept of working with a static site generator using the terminal or console <b>might be new to you</b>, but I'll do my very best to guide you through the process."
-categories: guides
-gradient: 1
+collections:
+  - tags
 image: header-4.jpg
-details: false
-author: Maximilian Bartel
-bio: "I'm a freelance web designer who enjoys creating beautiful and standard compliant solutions for my clients from all around the world."
-twitter: 'http://twitter.com/indiqo'
-facebook: 'http://facebook.com'
-google: 'http://google.com'
-linkedin: 'http://linkedin.com'
-pinterest: 'http://pinterest.com'
-flickr: 'http://flickr.com'
-dribbble: 'http://dribbble.com'
-rss: 'feed://themeforest.net/feeds/users/indiqo'
 ---
 
 
