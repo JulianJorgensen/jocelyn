@@ -10,10 +10,10 @@ gems: [jekyll-paginate]
 paginate: 3
 paginate_path: 	"blog/page:num"
 
-twitter: 		indiqo
+twitter: 		jocelynleeblog
 email: 			koichihealing@gmail.com
 
-disqus: 		your_disqus_shortname
+disqus: 		jocelynleeblog
 analytics: 		UA-84803515-1
 
 copyright: 		Copyright Jocelyn Lee 2016
