@@ -1,7 +1,7 @@
 {% if post %}
   <div class="summary">
 
-    {% if post.image %}
+    <!-- {% if post.image %}
       <div class="media image" data-animation="fadeInUp">
 
         <a href="{{ post.url | prepend: site.baseurl }}" title="{{ post.title }}"><img src="{{ post.image | prepend: '/images/' | prepend: site.baseurl }}" alt="{{ post.title }}" /></a>
@@ -22,7 +22,7 @@
 
       </div>
     {% endif %}
-
+ -->
     {% if post.title %}
       <h2><a href="{{ post.url | prepend: site.baseurl }}" title="{{ post.title }}">{{ post.title }}</a></h2>
     {% endif %}
