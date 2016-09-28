@@ -1,9 +1,9 @@
 ---
-layout: default
 title: Adding media
+date: 2014-05-08 00:00:00 Z
+layout: default
 excerpt: This is some excerpt text here.
 image: "/images/dsc01747.jpg"
-date: 2014-05-08 00:00:00 Z
 ---
 
 *First things first:* You can use the following shortcodes on **every page** and in **every post** as often as you like directly in between of your written contents.
