@@ -1,5 +1,6 @@
 ---
 title: Adding media
+date: 2014-05-07 00:00:00 Z
 layout: default
 post_date: 2014-05-09
 excerpt: The concept of working with a static site generator using the terminal or
