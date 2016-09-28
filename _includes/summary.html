@@ -1,13 +1,13 @@
 {% if post %}
   <div class="summary">
 
-    {% if post.details and post.image %}
+    {% if post.image %}
       <div class="media image" data-animation="fadeInUp">
 
         <a href="{{ post.url | prepend: site.baseurl }}" title="{{ post.title }}"><img src="{{ post.image | prepend: '/images/' | prepend: site.baseurl }}" alt="{{ post.title }}" /></a>
 
         <div class="caption" data-animation="fadeInUp">
-        
+
           <h4>{{ post.date | date: '%b %-d, %Y' | prepend: '<b>' | append: '</b>' }}</h4>
 
           {% if post.author %}
@@ -19,14 +19,14 @@
           {% endif %}
 
         </div>
-      
+
       </div>
     {% endif %}
 
     {% if post.title %}
       <h2><a href="{{ post.url | prepend: site.baseurl }}" title="{{ post.title }}">{{ post.title }}</a></h2>
     {% endif %}
-    
+
     <p>{{ post.excerpt | remove: '<p>' | remove: '</p>' }} <a href="{{ post.url | prepend: site.baseurl }}" title="Read More" class="more">Read More</a></p>
 
   </div>

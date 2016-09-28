@@ -1,23 +1,37 @@
 ---
 title: Jocelyn Lee
 timezone: UTC
+
+name: Jocelyn Lee
+description: A Tantric Journey
+url: "http://localhost:4000"
+
+gems: [jekyll-paginate]
+
+paginate: 3
+paginate_path: "blog/page:num"
+
+twitter: jocelynleeblog
+email: koichihealing@gmail.com
+
+disqus: jocelynleeblog
+analytics: 		UA-84803515-1
+
+copyright: 		Copyright 2016 Jocelyn Lee
+
+# Build Settings
+permalinks: 	pretty
+
+# Collections
 collections:
-  posts:
-    title: Posts
+  tags:
     output: true
-  uploads:
-    title: Uploads
-    output: true
+    _hide_content: true
+
 defaults:
-- scope:
-    path: ''
-    type: posts
-  values:
-    layout: post
-    permalink: "/posts/:title/"
-- scope:
-    path: ''
-    type: pages
-  values:
-    layout: page
-permalink: pretty
+  -
+    scope:
+      path: ""
+      type: "tags"
+    values:
+      layout: "default"
