@@ -1,7 +1,7 @@
 ---
+title: ''
 layout: default
-title: ""
-excerpt: ""
-image: ""
-date: 
+excerpt: ''
+image: ''
 ---
+
