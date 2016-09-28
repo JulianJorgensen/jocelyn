@@ -11,4 +11,6 @@ image: "/images/dsc01747.jpg"
 
 ![](/uploads/versions/header-3---x----1200-700x---.jpg)
 
-And a bit more here...
+And a bit more here…
+
+A bit more here..
