@@ -1,11 +1,13 @@
 ---
 title: The Pursuit of Happiness
-date: 2014-07-01 00:00:00
+date: 2014-07-01 00:00:00 Z
 layout: default
-excerpt: 'I am at peace with myself. I am at peace with my life. I accept all experiences life has to offer. Pain or pleasure, I am at peace knowing these impermanences is being a whole human. Like water, I ebb and flow with the motions that life brings. I am at peace.'
-image: /images/dsc01747.jpg
+excerpt: I am at peace with myself. I am at peace with my life. I accept all experiences
+  life has to offer. Pain or pleasure, I am at peace knowing these impermanences is
+  being a whole human. Like water, I ebb and flow with the motions that life brings.
+  I am at peace.
+image: "/images/dsc01747.jpg"
 ---
-
 
 *First things first:* You can use the following shortcodes on **every page** and in **every post** as often as you like directly in between of your written contents.
 
