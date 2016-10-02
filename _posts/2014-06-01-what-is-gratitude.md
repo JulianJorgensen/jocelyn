@@ -1,14 +1,13 @@
 ---
 title: What is Gratitude?
-date: 2014-06-01 00:00:00 Z
+date: 2014-06-01 00:00:00
 layout: default
-excerpt: I am grateful for all the miracles and mysteries of life and the lessons
-  they provide me; those that vividly present themselves before me as well as those
-  that require me to use my inner wisdom to understand. I am always grateful.
-image: "/uploads/screen-shot-2016-10-01-at-7-57-10-pm.png"
+excerpt: I am grateful for all the miracles and mysteries of life and the lessons they provide me; those that vividly present themselves before me as well as those that require me to use my inner wisdom to understand. I am always grateful.
+image: /uploads/dsc02134.jpg
 ---
 
-![](/uploads/versions/header-3---x----1200-700x---.jpg)
+
+![](/uploads/versions/screen-shot-2016-10-01-at-7-57-10-pm---x31-0-1848-1078-1200-700x---.png)
 
 Gratitude, thankfulness or appreciation can be misguided. Often it is superficially used; for example only expressing it when receiving something, or being thankful out of fear, and the worst is when you express it whole-heartedly one day and the next it’s gone.
 
