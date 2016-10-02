@@ -1,11 +1,12 @@
 ---
 title: What is Gratitude?
-date: 2014-06-01 00:00:00
+date: 2014-06-01 00:00:00 Z
 layout: default
-excerpt: I am grateful for all the miracles and mysteries of life and the lessons they provide me; those that vividly present themselves before me as well as those that require me to use my inner wisdom to understand. I am always grateful.
-image: /uploads/dsc02134.jpg
+excerpt: I am grateful for all the miracles and mysteries of life and the lessons
+  they provide me; those that vividly present themselves before me as well as those
+  that require me to use my inner wisdom to understand. I am always grateful.
+image: "/uploads/dsc02134.jpg"
 ---
-
 
 ![](/uploads/versions/screen-shot-2016-10-01-at-7-57-10-pm---x31-0-1848-1078-1200-700x---.png)
 
