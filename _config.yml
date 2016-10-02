@@ -1,33 +1,36 @@
----
-title: Jocelyn Lee
-timezone: UTC
+# Site Settings
+baseurl: 		""
+title: 			Jocelyn Lee
+
+name: 			Jocelyn Lee
+description: 	Jocelyn Lee blog
+
+gems: [jekyll-paginate]
+
+paginate: 3
+paginate_path: 	"blog/page:num"
+
+twitter: 		jocelynleeblog
+email: 			koichihealing@gmail.com
+
+disqus: 		jocelynlee
+analytics: 		UA-84803515-1
+
+copyright: 		Copyright Jocelyn Lee 2016
+
+# Build Settings
+permalinks: 	pretty
+
+# Collections
 collections:
-  posts:
-    title: Posts
-    output: true
   tags:
-    title: Tags
     output: true
     _hide_content: true
-  uploads:
-    title: Uploads
-    output: true
+
 defaults:
-- scope:
-    path: ''
-    type: tags
-  values:
-    layout: default
-name: Jocelyn Lee
-description: A Tantric Journey
-url: http://localhost:4000
-gems:
-- jekyll-paginate
-paginate: 3
-paginate_path: blog/page:num
-twitter: jocelynleeblog
-email: koichihealing@gmail.com
-disqus: jocelynleeblog
-analytics: UA-84803515-1
-copyright: Copyright 2016 Jocelyn Lee
-permalinks: pretty
+  -
+    scope:
+      path: ""
+      type: "tags"
+    values:
+      layout: "default"
