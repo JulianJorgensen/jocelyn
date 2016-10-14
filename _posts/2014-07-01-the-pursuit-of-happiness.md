@@ -7,3 +7,4 @@ excerpt: '"I am at peace with myself. I am at peace with my life. I accept all e
   to be human. Like water, I ebb and flow with the motions that life brings."'
 image: "/uploads/dsc02088.jpg"
 ---
+
