@@ -1,10 +1,10 @@
 ---
 title: Balancing Your Feminine and Masculine Energies
+date: 2016-10-14 21:09:20.872000000 Z
 layout: default
-excerpt:
-image:
+excerpt: 
+image: 
 ---
-
 
 We are all in a new age of humanity, some call it the Age of Aquarius, the Age of Knowledge, the New World, the 5th Dimension, and some call it total Chaos. I like to believe that it is all true. As it does not matter how you categorize it or label it, they are all expressing the same thing. Change, and that is always good.&nbsp;
 
