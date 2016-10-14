@@ -1,12 +1,13 @@
 ---
 title: Focusing On Your Strengths
-date: 2014-09-01 21:32:00 Z
+date: 2014-09-01 21:32:00
 layout: default
-excerpt: 
-image: 
+excerpt:
+image: /uploads/img-8523.jpg
 ---
 
-​
+
+​![](/uploads/versions/img-7294---x----3888-2592x---.jpg)
 
 A reoccurring theme that has been appearing the last few weeks for me, and those that have had sessions with me, has been the topic of strength vs. weaknesses when trying to grow, change, and improve.
 
