@@ -1,11 +1,12 @@
 ---
 title: Balancing Your Feminine and Masculine Energies
-date: 2014-08-01 21:09:00
+date: 2014-08-01 21:09:00 Z
 layout: default
-excerpt: '"We are all in the process of unifying these polarities, and when you begin to accept and allow this process with gratitude and appreciation, there is no doubt in my heart that you will begin to lead a life with less suffering and more joy."'
-image: /uploads/screen-shot-2016-10-05-at-3-39-12-pm.png
+excerpt: '"We are all in the process of unifying these polarities, and when you begin
+  to accept and allow this process with gratitude and appreciation, there is no doubt
+  in my heart that you will begin to lead a life with less suffering and more joy."'
+image: "/uploads/screen-shot-2016-10-05-at-3-39-12-pm.png"
 ---
-
 
 ![](/uploads/versions/screen-shot-2015-07-06-at-2-05-31-pm---x----553-339x---.png)
 
