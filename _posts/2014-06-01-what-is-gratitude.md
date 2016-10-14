@@ -1,14 +1,15 @@
 ---
 title: What is Gratitude?
-date: 2014-06-01 19:09:00 Z
+date: 2014-06-01 19:09:00
 layout: default
-excerpt: '"I am grateful for all the miracles and mysteries of life and the lessons
-  they provide me; those that vividly present themselves before me as well as those
-  that require me to use my inner wisdom to understand. I am always grateful."'
-image: "/uploads/dsc02134.jpg"
+excerpt: '"I am grateful for all the miracles and mysteries of life and the lessons they provide me; those that vividly present themselves before me as well as those that require me to use my inner wisdom to understand. I am always grateful."'
+image: /uploads/dsc02134.jpg
 ---
 
+
 ![](/uploads/versions/screen-shot-2016-10-01-at-7-57-10-pm---x----1910-1078x---.png)
+
+&nbsp;
 
 Often, gratitude is superficially expressed, lacking a depth that keeps it in our heart and mind. For example, only expressing it when receiving something, or being thankful out of fear, and the worst is when you express it whole-heartedly one day and the next it’s gone.
 
