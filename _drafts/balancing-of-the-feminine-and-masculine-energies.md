@@ -1,18 +1,19 @@
 ---
 title: Balancing Your Feminine and Masculine Energies
-date: 2016-10-14 21:09:20.872000000 Z
+date: 2016-10-14 21:09:20
 layout: default
-excerpt: 
-image: 
+excerpt:
+image:
 ---
 
-We are all in a new age of humanity, some call it the Age of Aquarius, the Age of Knowledge, the New World, the 5th Dimension, and some call it total Chaos. I like to believe that it is all true. As it does not matter how you categorize it or label it, they are all expressing the same thing. Change, and that is always good.&nbsp;
 
-So what is happening? Or more specifically what is changing? ... It is a re-balancing of the Masculine and Feminine energy within all of us, and all in life that has been leaning too far one way or the other. This realignment is everywhere, from the intangible, to the collective, and right in the heart of the individual. You can observe this in the changing political structures (i.e. the constant overthrow of corrupt leaders), corporate structures (i.e. the demand for transparency and social consciousness), social norms (i.e. #YesAllWomen, and other agency of change for gender norms), relationships (i.e. men becoming stay-at-home dads and other role changes), and your own internal desires (i.e. learning to be more compassionate or to be more willful). To recognize the imbalances within yourself, you must understand the difference between the two energies and why they are both imperative to living in this new age with less suffering and more joyful living.
+We are all in a new age of humanity, some call it the Age of Aquarius, the Age of Knowledge, the New World, the 5th Dimension, and some call it ***total chaos***. I like to believe that it is all true. As it does not matter how you categorize it or label it, they are all expressing the same thing. Change, and that is evolution.&nbsp;
+
+So what is happening? Or more specifically what is changing? … It is a re-balancing of the Masculine and Feminine energy within all of us, and all in life that has been leaning too far one way or the other. This realignment is everywhere, from the intangible, to the collective, and right in the heart of the individual. You can observe this in the changing political structures (i.e. the constant overthrow of corrupt leaders), corporate structures (i.e. the demand for transparency and social consciousness), social norms (i.e. #YesAllWomen, and other agency of change for gender norms), relationships (i.e. men becoming stay-at-home dads and other role changes), and your own internal desires (i.e. learning to be more compassionate or to be more willful). To recognize the imbalances within yourself, you must understand the difference between the two energies and why they are both imperative to living in this new age with less suffering and more joyful living.
 
 It's a Man's World:
 
-The masculine and feminine archetype has been examined for ages and by many cultures because they truly exist in this world hand-in-hand, and their purpose has been searched by many. They are fundamental laws of life, and they are "expressed in language and rituals [among many other medium], reflect[ing] ... dark/light, sun/moon, sky/earth. In Oriental traditions, they may be described as yin/yang."(Luck, 2010, p.79). A delicately harmonized ebb and flow of all of life's creation and destruction.
+The masculine and feminine archetype has been examined for ages and by many cultures because they truly exist in this world hand-in-hand, and their purpose has been searched by many. They are fundamental laws of life, and they are "expressed in language and rituals [among many other medium], reflect[ing] … dark/light, sun/moon, sky/earth. In Oriental traditions, they may be described as yin/yang."(Luck, 2010, p.79). A delicately harmonized ebb and flow of all of life's creation and destruction.
 
 Unfortunately, there was a stall in the ascension of our consciousness, as there were those who have tried to maintain power for themselves (and others like them) by abusing the power of the masculine, focusing on the destructive power of life, rather than the creative. As Gareth S. Hill (2013) describes in the book, Masculine and Feminine: The Natural Flow of Opposites in the Psyche, we have had an excess of what he calls the "negative dynamic masculine" characterized by the "willful, determined, and goal-directed at the expense of what is life-giving and natural. It seeks to dominate and does not recognize and acknowledge the claims of any other point of view. The creative thrust is perverted into destructiveness, as expressed in the images of rape, directed violence, paranoia, life-taking technologies, and disregard for nature and the ecological consequences of one's actions."&nbsp;
 
