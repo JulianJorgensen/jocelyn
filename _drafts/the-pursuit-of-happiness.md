@@ -1,10 +1,13 @@
 ---
 title: The Pursuit of Happiness
+date: 2016-10-14 20:53:52.538000000 Z
 layout: default
-excerpt: '"I am at peace with myself. I am at peace with my life. I accept all experience life has to offer, pain or pleasure, I am at peace knowing these impermanences what is means to be human. Like water, I ebb and flow with the motions that life brings. I am at peace."'
-image: /uploads/dsc02088.jpg
+excerpt: '"I am at peace with myself. I am at peace with my life. I accept all experience
+  life has to offer, pain or pleasure, I am at peace knowing these impermanences what
+  is means to be human. Like water, I ebb and flow with the motions that life brings.
+  I am at peace."'
+image: "/uploads/dsc02088.jpg"
 ---
-
 
 ![](/uploads/versions/dsc02084---x----2300-1536x---.jpg)
 
