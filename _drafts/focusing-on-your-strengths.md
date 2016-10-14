@@ -1,11 +1,10 @@
 ---
 title: Focusing On Your Strengths
-date: 2014-09-01 21:32:00
+date: 2014-09-01 21:32:00 Z
 layout: default
-excerpt:
-image:
+excerpt: 
+image: 
 ---
-
 
 ​
 
