@@ -1,21 +1,25 @@
 ---
 title: Over Coming Your Fears
-date: 2016-10-17 23:48:29.516000000 Z
+date: 2016-10-17 23:48:29
 layout: default
-excerpt: I surrender to truth and open my awareness to feelings of fear, I recognize
-  that I am not the embodiment of fear and welcome the feelings to arise with understanding
-  and kindness to be released for acceptance, healing and change. I am the embodiment
-  of love.
-image: 
+excerpt: 'I surrender to truth and open my awareness to feelings of fear, I recognize that I am not the embodiment of fear and welcome the feelings to arise with understanding and kindness to be released for acceptance, healing and change. I am the embodiment of love.'
+image:
 ---
 
-As Halloween approaches, this month we will focus on overcoming our fears... We all have fears, some are life long, some are momentary, some are real and some are not. There are some important points to address regarding my perception of fear.
 
-<br>First, I believe fear does not only look like a scream, a tremble, retaliation or a cry. Fear is also within doubt, anger, hesitancy, indifference, confusion, lack of self confidence and other low-vibrational feelings acting as the front line of protection. And, if what you feel is not stemming from a place of love, there is probably a rooted fear that manifested itself into a defense mechanism (i.e. the doubt, anger, indifference, etc.). Secondly, it is important to note that “I feel afraid,” is very different from “I am afraid.” Changing the adjective to “I feel happy,” and “I am happy” – it is easier to notice the difference, where the first one is a feeling in the present that is more flexible to change, while the latter is a more stable state that is more difficult to change. Thirdly, observing the difference of feeling and being fear, we can learn the necessity of feeling afraid. Feeling fear can be helpful, it gives us a moment to reconsider our situation and whether it is worthwhile for us to face and over come with courage; while being fear is what keeps you from seeing the value in the situation and worth of perseverance. Finally, for many of us our safety and security needs are met and a lot of our fears in this case are very rarely external and physical (i.e. war, famine, etc.), they are more often than not a psychologically developed fear (i.e. being alone, body-image, beliefs of success and happiness, etc.) rather than a real survival threat. It is not to say that they are not real, they very much are so, but they are not outside of us, they are created by us.
+We all have fears, some are life long, some are momentary, some are real and some are not.&nbsp;
+
+Fear does not only look like a scream, a tremble, retaliation or a cry. Fear is also within doubt, anger, hesitancy, indifference, confusion, lack of self confidence and other low-vibrational feelings acting as the front line of protection. And, if what you feel is not stemming from a place of love, there is probably a rooted fear that manifested itself into a defense mechanism (i.e. the doubt, anger, indifference, etc.).
+
+It is important to note that “I feel afraid,” is very different from “I am afraid.” Using “I feel happy,” and “I am happy” – it is easier to notice the difference. The former is a feeling in the present that is flexible to change, while the latter is a static state that is more difficult to change. By observing the difference of feeling and being fear, we can learn the necessity of feeling afraid. Feeling fear can be helpful, it gives us a moment to reconsider our situation and whether it is worthwhile for us to face and over come with courage; while being fear is what keeps you from seeing the value in the situation and worth of perseverance.
+
+For many of us our safety and security needs are met and a lot of our fears in this case are very rarely external and physical (i.e. war, famine, etc.), they are more often than not a psychologically developed fear (i.e. being alone, body-image, beliefs of success and happiness, etc.) rather than a real survival threat. It is not to say that they are not real, they very much are so, but they are not outside of us, they are created by us and within us.
 <br>
-<br>Our minds and their intentions, thoughts and beliefs are directly connected to our emotional, physical and spiritual health (and vice versa). When you think of something you fear it is reflected in emotional distress and impulsive behaviour, or physical symptoms of sweat and increased heart rates; it is all connected. If we truly want to live our lives to the fullest, with complete joy, balance and abundance – we have to begin to address our fears one at a time...
+<br>Our mind and its intentions, thoughts and beliefs are directly connected to our emotional, physical and spiritual health (and vice versa). When you think of something you fear it is reflected in emotional distress and impulsive behaviour, or physical symptoms of sweat and increased heart rates; it is all connected. If we truly want to live our lives to the fullest, with complete joy, balance and abundance – we have to begin to address our fears one at a time…
 
-Fear is a Pattern:
+### &nbsp;
+
+### Fear is a Pattern:
 
 I know fear very well, I know all the shades it reveals within myself. From spiders, financial security, heights, environmental and societal destruction, to fulfilling my dreams and life purpose – I know what I fear because I recognized my pattern of fear and have had to examine it. For example, the latest fear I felt was moving into my new apartment and implementing my new plans for Koi Chi Healing. I had made the goal that once I am there and unpacked, I would pour more of my energy in to nurturing and growing Koi Chi Healing. I decided to defend this fear with determination; I buried my head down and started preparing my to-do list for when we were settled. I had thought of so many beautiful creative ideas and I was just waiting to settle in my new space to begin. But a couple days before the first day of moving, the first signs of fear began to creep in.
 <br>
