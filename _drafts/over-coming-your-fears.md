@@ -1,10 +1,13 @@
 ---
 title: Over Coming Your Fears
+date: 2016-10-17 23:48:29.516000000 Z
 layout: default
-excerpt: 'I surrender to truth and open my awareness to feelings of fear, I recognize that I am not the embodiment of fear and welcome the feelings to arise with understanding and kindness to be released for acceptance, healing and change. I am the embodiment of love.'
-image:
+excerpt: I surrender to truth and open my awareness to feelings of fear, I recognize
+  that I am not the embodiment of fear and welcome the feelings to arise with understanding
+  and kindness to be released for acceptance, healing and change. I am the embodiment
+  of love.
+image: 
 ---
-
 
 As Halloween approaches, this month we will focus on overcoming our fears... We all have fears, some are life long, some are momentary, some are real and some are not. There are some important points to address regarding my perception of fear.
 
