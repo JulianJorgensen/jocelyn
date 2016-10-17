@@ -1,11 +1,13 @@
 ---
 title: Over Coming Your Fears
-date: 2016-10-17 23:48:29
+date: 2016-10-17 23:48:29 Z
 layout: default
-excerpt: 'I surrender to truth and open my awareness to feelings of fear, I recognize that I am not the embodiment of fear and welcome the feelings to arise with understanding and kindness to be released for acceptance, healing and change. I am the embodiment of love.'
-image:
+excerpt: I surrender to truth and open my awareness to feelings of fear, I recognize
+  that I am not the embodiment of fear and welcome the feelings to arise with understanding
+  and kindness to be released for acceptance, healing and change. I am the embodiment
+  of love.
+image: 
 ---
-
 
 We all have fears, some are life long, some are momentary, some are real and some are not.&nbsp;
 
