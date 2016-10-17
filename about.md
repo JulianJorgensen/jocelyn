@@ -3,11 +3,10 @@ title: About
 layout: default
 type: page
 navigation: true
-excerpt: "Spirit Weaver • Tantrika Goddess\_• Shapeshifting Artist"
+excerpt: Spirit Weaver • Tantrika Goddess • Shapeshifting Artist
 gradient: 2
-image: /uploads/jocelyn-marquee.jpg
+image: "/uploads/jocelyn-marquee.jpg"
 ---
-
 
 *I am a multi-dimensional being living in a human body. As a young girl, wise beyond my years, I was often quite lonesome in my own world. A living juxtaposition of an old soul with a child's body. Remembering at 12 years old, asking my teacher: "What is the meaning of life and why does my sister hate me?" It was a reflection of my deep interest and curiosity of the metaphysical world, and at the same time the innocent humanity that resides in me that so wanted to be loved. These two desires spiralled me down a path that has taught me many lessons, given me exciting stories to share and a colourful in-depth perspective on life and it's workings.&nbsp;*
 
