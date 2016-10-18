@@ -1,11 +1,10 @@
 ---
 title: Overcoming Your Fears
-date: 2014-10-01 00:50:00
+date: 2014-10-01 00:50:00 Z
 layout: default
-excerpt:
-image: /uploads/fe0c30-821ed7588c1941e9b144e5b09c1ba7e4.jpg
+excerpt: 
+image: "/uploads/fe0c30-821ed7588c1941e9b144e5b09c1ba7e4.jpg"
 ---
-
 
 ​
 
