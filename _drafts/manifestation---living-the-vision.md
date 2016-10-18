@@ -1,10 +1,11 @@
 ---
 title: Manifestation - Living the Vision
-date: 2016-10-18 00:52:30 Z
+date: 2016-10-18 00:52:30
 layout: default
-excerpt: 
-image: 
+excerpt:
+image:
 ---
+
 
 ​
 
@@ -12,7 +13,11 @@ Manifestation is a principle that you already know, simply put it is the process
 
 It is a thorough clich&eacute; now to not fulfill New Year resolutions, I heard that to call them goals are more effective now. Whatever you’d like to call them, it is more important that you have the right perspective and appropriate tools to manifest what you want:
 
-Right Perspective – I believe a big block that comes with manifestation for most people is deciding what it is you want and how you contextualize it. For example, wanting far-fetched material goods when you are financially unstable and without a pure intention is a goal that is likely to fail or not provide what you truly wanted/expected. A better perspective is to approach what you want as a vision: to not purely see it as one task to be checked off but something that will affect all aspects of your life and therefore you need to be able to visualize how you will be different physically, emotionally, mentally and spiritually.
+&nbsp;
+
+### Soul Aligned Perspective
+
+I believe a big block that comes with manifestation for most people is ensuring that what you desire aligns with your soul and how you contextualize it. For example, wanting far-fetched material goods when you are financially unstable and without a pure intention is a goal that is likely to fail or not provide what you truly wanted/expected. A better perspective is to approach what you want as a vision: to not purely see it as one task to be checked off but something that will affect all aspects of your life and therefore you need to be able to visualize how you will be different physically, emotionally, mentally and spiritually.
 
 Here is an example scenario: You want to change your body, you look at yourself and want the abs and yogini flexibility. You have bad eating habits and have not had the motivation to go work out for a long time.&nbsp; So, you’d like to manifest that ideal body in your mind & say to yourself, “In 2015, my resolution is to work out more, eat better and get that body I want.” This is a pretty succinct and common goal for the new year but often one will slip back into old habits by Spring.&nbsp;
 
@@ -20,9 +25,15 @@ What I would first change about this is the context of the ideal body and what i
 
 Secondly, what are the reasons for not eating better or working out and how exactly are you going to change this in an effective manner so you don’t give up? Have you not been eating well because your self-judgement on your body leads to sadness and food is a comforter? Are you not motivated to work out because you don’t see the results fast enough and you get discouraged by your eating habits which take you back to square one?
 
-These types of questions are a lot to ask yourself when you start your manifestation but this is an important part of the vision, the visualization of what your life will be like overall by this big change. After all, this goal is hard to obtain because it is something that impacts many aspects of your life. &nbsp;So your intentions have to be pure, honest and realistic in order for you to really start to live this change.&nbsp; Switch your perspective from the symptoms you want to change and get to the root cause of why, because the root will affect the fruit of your labour. Once you do, your desire will change and it may sound something more like this: “In 2015, my resolution is to re-align my perspective and relationship of my physical health by allowing myself to be less judgemental of myself & my body, and have more patience for the changes I’m going to make to my work-outs and eating habits. “ In this more detailed and truthful manner, you touch on your whole self (physical, emotional, mental, spiritual) which when aligned will work together much more efficiently to produce the end results you want through fundamentally changing the cause of the current body issue.
+These types of questions are a lot to ask yourself when you start your manifestation but this is an important part of the vision, the visualization of what your life will be like overall by this big change. After all, this goal is hard to obtain because it is something that impacts many aspects of your life. &nbsp;So your intentions have to be pure, honest and realistic in order for you to really start to live this change.&nbsp; Switch your perspective from the symptoms you want to change and get to the root cause of why, because the root will affect the fruit of your labour.
 
-Appropriate Tools – Once you have the right perspective for your desires, the next step is setting yourself up for success with the appropriate tools for manifestation. Here are some of the most subtle and important principles to keep in mind after you’ve decided and proclaimed to the universe what it is you want to manifest:
+Once you do, your desire will change and it may sound something more like this: “In 2015, my resolution is to re-align my perspective and relationship of my physical health by allowing myself to be less judgemental of myself & my body, and have more patience for the changes I’m going to make to my work-outs and eating habits. “ In this more detailed and truthful manner, you touch on your whole self (physical, emotional, mental, spiritual) which when aligned will work together much more efficiently to produce the end results you want through fundamentally changing the cause of the current body issue.
+
+### &nbsp;
+
+### Appropriate Tools
+
+Once you have the right perspective for your desires, the next step is setting yourself up for success with the appropriate tools for manifestation. Here are some of the most subtle and important principles to keep in mind after you’ve decided and proclaimed to the universe what it is you want to manifest:
 
 Vision /Visualization: As mentioned above it is important to properly contextualize what it is that you want to manifest. After that, the vision and visualization process is a powerful tool to help align yourself (body, heart, mind & soul) to receive what you want. There are various ways you can approach this, writing, speaking/sharing, vision boarding, meditation are some of the few ways you can do this. However you want to visualize, find the medium that will resonate and engage you the most as that is when you will sync with your vision. Doing one of the activities that will leave you with a tangible reminder is helpful because you can look at it on days you are losing sight of your vision.&nbsp; And doing this visualization process on a regular basis will boost your spirits, remind you what you are presently working towards and the true and powerful outcome that will result from this process.
 
