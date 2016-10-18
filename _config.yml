@@ -1,23 +1,22 @@
----
-title: Jocelyn Lee
-timezone: UTC
-collections:
-  posts:
-    title: Posts
-    output: true
-  uploads:
-    title: Uploads
-    output: true
-baseurl: ''
-name: Jocelyn Lee
-description: Jocelyn Lee blog
-gems:
-- jekyll-paginate
+# Site Settings
+baseurl: 		""
+title: 			Jocelyn Lee
+
+name: 			Jocelyn Lee
+description: 	Jocelyn Lee blog
+
+gems: [jekyll-paginate]
+
 paginate: 3
-paginate_path: blog/page:num
-twitter: jocelynleeblog
-email: koichihealing@gmail.com
-disqus: jocelynlee
-analytics: UA-84803515-1
-copyright: Copyright Jocelyn Lee 2016
-permalinks: pretty
+paginate_path: 	"blog/page:num"
+
+twitter: 		jocelynleeblog
+email: 			jocelyn@jocelynlee.ca
+
+disqus: 		jocelynleeblog
+analytics: 		UA-84803515-1
+
+copyright: 		Copyright Jocelyn Lee 2016
+
+# Build Settings
+permalinks: 	pretty

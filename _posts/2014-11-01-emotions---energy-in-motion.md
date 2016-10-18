@@ -2,6 +2,7 @@
 title: Emotions - Energy in Motion
 date: 2014-11-01 00:31:00 Z
 layout: default
+tags:
 excerpt: I am a swirling mass of loving energy; made up of my body, mind, heart, and
   soul. With all that exists, everything has a cycle to complete, I give myself permission
   to let go what no longer serves me. To return to a state of harmony and bliss.
