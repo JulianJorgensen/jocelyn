@@ -5,6 +5,8 @@ layout: default
 excerpt: I am a swirling mass of loving energy; made up of my body, mind, heart, and
   soul. With all that exists, everything has a cycle to complete, I give myself permission
   to let go what no longer serves me. To return to a state of harmony and bliss.
+tags:
+  - ' '
 image: "/uploads/fe0c30-23b7fe12fa3d414a83cedb291025bded.jpg"
 ---
 
