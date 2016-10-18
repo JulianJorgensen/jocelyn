@@ -1,11 +1,12 @@
 ---
 title: Subtle Messages
+date: 2016-10-18 00:39:57.549000000 Z
 layout: default
-excerpt: 'I love all aspects of myself, from my powerful strength to overcome great obstacles, to my wise appreciation of the subtleties of life that teach me how to keep my strength to enjoy life.'
-tags:
-image:
+excerpt: I love all aspects of myself, from my powerful strength to overcome great
+  obstacles, to my wise appreciation of the subtleties of life that teach me how to
+  keep my strength to enjoy life.
+image: 
 ---
-
 
 ​
 
