@@ -1,10 +1,12 @@
 ---
 title: Emotions - Energy in Motion
+date: 2016-10-18 00:29:13.850000000 Z
 layout: default
-excerpt: 'I am a swirling mass of loving energy; made up of my body, mind, heart, and soul. With all that exists, everything has a cycle to complete, I give myself permission to let go what no longer serves me. To return to a state of harmony and bliss.'
-image:
+excerpt: I am a swirling mass of loving energy; made up of my body, mind, heart, and
+  soul. With all that exists, everything has a cycle to complete, I give myself permission
+  to let go what no longer serves me. To return to a state of harmony and bliss.
+image: 
 ---
-
 
 During the colder seasons of hibernation, it is easy to cuddle up into a dormant place in our heart and mind to weather the dark clouds. It truly is a wonderful time to curl up and let elements outside harmonize themselves while we watch. However, we must remember to let ourselves do the same, we should avoid being stagnant with our emotions during difficult times.
 <br>
