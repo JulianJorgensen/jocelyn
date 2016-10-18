@@ -2,7 +2,8 @@
 title: The Pursuit of Happiness
 date: 2016-10-17 00:00:00 Z
 layout: default
-excerpt: 
+excerpt:
+tags:
 image: "/uploads/dsc02088.jpg"
 ---
 
