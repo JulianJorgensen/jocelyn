@@ -8,8 +8,6 @@ collections:
   uploads:
     title: Uploads
     output: true
-defaults:
-
 baseurl: ''
 name: Jocelyn Lee
 description: Jocelyn Lee blog
