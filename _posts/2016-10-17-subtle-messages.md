@@ -1,17 +1,19 @@
 ---
 title: Subtle Messages
-layout: default
-excerpt: 'I love all aspects of myself, from my powerful strength to overcome great obstacles, to my wise appreciation of the subtleties of life that teach me how to keep my strength to enjoy life.'
+date: 2016-10-17 00:00:00 Z
 tags:
-  - Ayahuasca
-  - Spirituality
-  - Personal Growth
-  - Breath
-  - Change
-  - Spirit Weaver
-image: /uploads/fe0c30-9e758e10d8304287b6df0173058a6219.jpg
+- Ayahuasca
+- Spirituality
+- Personal Growth
+- Breath
+- Change
+- Spirit Weaver
+layout: default
+excerpt: I love all aspects of myself, from my powerful strength to overcome great
+  obstacles, to my wise appreciation of the subtleties of life that teach me how to
+  keep my strength to enjoy life.
+image: "/uploads/fe0c30-9e758e10d8304287b6df0173058a6219.jpg"
 ---
-
 
 ​
 
