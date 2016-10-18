@@ -1,7 +1,6 @@
 ---
 title: Over Coming Your Fears
 date: 2014-10-01 00:00:00 Z
-tags:
 layout: default
 excerpt: I surrender to truth and open my awareness to feelings of fear, I recognize
   that I am not the embodiment of fear and welcome the feelings to arise with understanding
