@@ -1,6 +1,7 @@
 ---
 title: What is Gratitude?
 date: 2014-06-01 19:09:00 Z
+tags:
 layout: default
 excerpt: '"I am grateful for all the miracles and mysteries of life and the lessons
   they provide me; those that vividly present themselves before me as well as those

@@ -1,6 +1,7 @@
 ---
 title: Balancing Your Feminine and Masculine Energies
 date: 2014-08-01 21:09:00 Z
+tags:
 layout: default
 excerpt: '"We are all in the process of unifying these polarities, and when you begin
   to accept and allow this process with gratitude and appreciation, there is no doubt
