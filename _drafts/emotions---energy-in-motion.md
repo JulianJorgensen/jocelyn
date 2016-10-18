@@ -1,12 +1,14 @@
 ---
 title: Emotions - Energy in Motion
-date: 2016-10-18 00:29:13.850000000 Z
 layout: default
-excerpt: I am a swirling mass of loving energy; made up of my body, mind, heart, and
-  soul. With all that exists, everything has a cycle to complete, I give myself permission
-  to let go what no longer serves me. To return to a state of harmony and bliss.
-image: 
+excerpt: 'I am a swirling mass of loving energy; made up of my body, mind, heart, and soul. With all that exists, everything has a cycle to complete, I give myself permission to let go what no longer serves me. To return to a state of harmony and bliss.'
+image: /uploads/fe0c30-23b7fe12fa3d414a83cedb291025bded.jpg
 ---
+
+
+&nbsp;
+
+![](/uploads/versions/fe0c30-f2f04415b738491495008a1b49473902---x----551-343x---.jpg)
 
 During the colder seasons of hibernation, it is easy to cuddle up into a dormant place in our heart and mind to weather the dark clouds. It truly is a wonderful time to curl up and let elements outside harmonize themselves while we watch. However, we must remember to let ourselves do the same, we should avoid being stagnant with our emotions during difficult times.
 <br>
@@ -18,13 +20,13 @@ During the colder seasons of hibernation, it is easy to cuddle up into a dormant
 
 Whatever negative experience we go through, in order to truly “get over it” we need to complete the process of expressing our low-vibrational emotions.
 <br>
-<br>For example, when we have to cry we should let ourselves do so, fully and completely. It doesn’t matter if it is one tear or 100 tears, we have to let them all flow. It is easy to think “I don’t want to cry right now,” “Crying doesn’t fix anything,” “I’m weak if I cry,” “I don’t want to cry anymore.” This pattern of self-judgement is really doing ourselves a disfavour because these feelings get shelved in a very vulnerable place that we’re afraid to address later. It finds a place under the rug and thus, out of sight out of mind... or so we think. It will come back sooner or later but along with all the other emotional dust bunnies you’ve ignored and it’ll be an overwhelming, perhaps even a confusing experience of trying to make sense of them and addressing them all at once.
+<br>For example, when we have to cry we should let ourselves do so, fully and completely. It doesn’t matter if it is one tear or 100 tears, we have to let them all flow. It is easy to think “I don’t want to cry right now,” “Crying doesn’t fix anything,” “I’m weak if I cry,” “I don’t want to cry anymore.” This pattern of self-judgement is really doing ourselves a disfavour because these feelings get shelved in a very vulnerable place that we’re afraid to address later. It finds a place under the rug and thus, out of sight out of mind… or so we think. It will come back sooner or later but along with all the other emotional dust bunnies you’ve ignored and it’ll be an overwhelming, perhaps even a confusing experience of trying to make sense of them and addressing them all at once.
 <br>
-<br>Do you choose to ignore them and sweep it all under again? That will cause anxiety because now you’ve seen how much you’ve buried. Or, do you routinely do an overhaul of clearing them out all in one go? You’ll probably feel overwhelmed by the work load and end up so exhausted you’ll keep sweeping the next ones under for the next big clearing. Neither options are really healthy or effective. It is better to be present. To cycle through each one as they come; like the waves of the ocean, the feeling will well up, hit a climatic high point and roll back down into stillness until the next wave. Better and easier to move with the motions than fight it. The more you resist, the more it persists. Once it becomes a habit it won’t seem so laborious anymore, in fact the movement will feel natural... be like water. &nbsp;
+<br>Do you choose to ignore them and sweep it all under again? That will cause anxiety because now you’ve seen how much you’ve buried. Or, do you routinely do an overhaul of clearing them out all in one go? You’ll probably feel overwhelmed by the work load and end up so exhausted you’ll keep sweeping the next ones under for the next big clearing. Neither options are really healthy or effective. It is better to be present. To cycle through each one as they come; like the waves of the ocean, the feeling will well up, hit a climatic high point and roll back down into stillness until the next wave. Better and easier to move with the motions than fight it. The more you resist, the more it persists. Once it becomes a habit it won’t seem so laborious anymore, in fact the movement will feel natural… be like water. &nbsp;
 <br>
 <br>We must let ourselves express without judgement, the cycle of emotions from beginning to end are normal, valuable, and a necessity. We are letting ourselves heal through the process; we are giving ourselves permission for it to come to an end.
 <br>
-<br>There are several things you can do to help keep your energy in motion...
+<br>There are several things you can do to help keep your energy in motion…
 
 &nbsp;
 
@@ -46,4 +48,4 @@ When engaged in physical expression (whether dance, walking, biking, yoga, runni
 
 For myself, manually writing is one of the most powerful mediums to express myself. Not only does it allow it to stay private, I get to channel this busy mind (excess energy) through my hand, into a pen and onto the paper – letting my feelings run its course and turning it into beautiful art. Instead of running around in circles in my head, I slow it down in the process of having to write each sentence, each word and each letter consciously. I also then really take the time to write what is the most important information, thought or feeling. This helps me separate what I truly need to address from what I am distracted by, such as worry.
 <br>
-<br>But find your own medium. It could be through music, song, dance, painting, talking, carpentry, engineering, photography, cooking, etc. Whatever it is, it should come with ease and not difficulty. Many people have told me that they feel like writing is laborious, but it doesn’t have to be. You can just write one sentence or even a word that expresses how you feel in the moment, and it can come with great release. Sometimes writing “I feel unappreciated,” is just as powerful as writing three pages of how unappreciated you feel. Do what speaks to you but do it whole heartedly and honestly. You deserve the opportunity to express fully and deeply what you are going through so it can come full circle and cast out into a beautiful creation.
+<br>But find your own medium. It could be through music, song, dance, painting, talking, carpentry, engineering, photography, cooking, etc. Whatever it is, it should come with ease and not difficulty. Many people have told me that they feel like writing is laborious, but it doesn’t have to be. You can just write one sentence or even a word that expresses how you feel in the moment, and it can come with great release. Sometimes writing “I feel unappreciated,” is just as powerful as writing three pages of how unappreciated you feel. Do what speaks to you but do it whole heartedly and honestly. You deserve the opportunity to express fully and deeply what you are going through so it can come full circle and be cast out into a beautiful creation.
