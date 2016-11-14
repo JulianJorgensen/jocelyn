@@ -7,7 +7,7 @@ image: /uploads/screen-shot-2016-11-14-at-2-53-02-pm.png
 ---
 
 
-In my lifetime I have adventured through the spectrum of love in relationships of all kind. I’ve seen the worst understanding of love to the best manifestation of it; I’ve also been the worst manifestation of it and the best understanding of it. I’m sure that you have seen the spectrum of love as well, from family, to friends, pets, God, strangers, nature and romance, or with yourself… did you know that they all originate from unconditional love?
+In my lifetime I have adventured through the spectrum of love in relationships of all kind. I’ve seen the worst understanding of love to the best manifestation of it; I’ve also been the worst manifestation of it and the best understanding of it. I’m sure that you have seen the spectrum of love as well, from family, to friends, pets, God, strangers, nature and romance, or with yourself. Did you know that they all originate from unconditional love?
 
 I could write about romantic love alone but that is not the only great love we should focus on, work on, “find” or maintain. I believe the changing should begin with our relationship to love. For no matter how much we want to be with someone or care for someone, if we don’t know what unconditional love is supposed to look, feel, sound or be like – we are always operating with a faulty manual.
 
