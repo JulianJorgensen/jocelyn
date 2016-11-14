@@ -3,7 +3,7 @@ title: Your Relationship to Love
 layout: default
 excerpt:
 tags:
-image:
+image: /uploads/screen-shot-2016-11-14-at-2-53-02-pm.png
 ---
 
 
@@ -49,7 +49,7 @@ One of the most popular references I give to people is the book&nbsp;*The 5 Love
 Another way to change your relationship to love is to push the boundaries of honesty and compassion. There is honesty and there is bluntness. Honesty should be coupled with compassion, because ultimately your goal is to be in more loving relationships. Compassion is key. So, why self-sabotage yourself by not being your full authentic and loving self, and trusting that beating around the bush or not taking the time to express yourself in the most loving way possible would be a better option? It does not make you stronger, it hinders you from the difficulty of courage in love. The courage to love as much as you can is a character of a strong person.
 <br>&nbsp;
 
-Take the time to redefine your understanding of love. For I see too often the desire to want more out of relationship yet one is unwilling to see how their expectations or settling behaviour limits the expansion love can give. Look to a relationship you have in your life (doesn’t matter if it’s with god, parents, children, nature, pets, etc.), one that is truly unconditional. Where it is mutual, expectation-less but yet it meets all expectations of a full and joyful heart. Take the simple lessons from here and apply them to other parts of your life where you want your loving relationships to improve.
+Take the time to redefine your understanding of love. For I see too often the desire to want more out of relationship yet one is unwilling to see how their expectations or settling behaviour limits the expansion love can give. Look to a relationship you have in your life (doesn’t matter if it’s with god, parents, children, nature, pets, etc.), one that is truly unconditional. Where it is mutual, expectation-less but yet it meets all necessities of a full and joyful heart. Take the simple lessons from here and apply them to other parts of your life where you want your loving relationships to improve.
 <br>&nbsp;
 
-Love yourself. Love. Yourself. This is not about getting the right selfie, or being selfish, or putting yourself on a pedestal above others. This love for yourself is something much deeper. The kind of self love where you are happy with your own company, the kind that understands saying/doing hurtful things to others will hurt yourself. The kind of self-love that does not depend on others for it to be real, if you love yourself in this honest and empathetic way – others who are the same will see that in you from a mile away and you will begin to welcome more loving relationships – of all kind, in your life.&nbsp;
+Love yourself. Love. Yourself. This is not about getting the right selfie, or being selfish, or putting yourself on a pedestal above others. This love for yourself is something much deeper. The kind of self love where you are happy with your own company, the kind that understands saying/doing hurtful things to others will hurt yourself. The kind of self-love that does not depend on others for it to be real, if you love yourself in this honest and compassionate way – others who are the same will see that in you from a mile away and you will begin to welcome more loving relationships – of all kind, into your life.&nbsp;
