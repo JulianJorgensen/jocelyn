@@ -3,7 +3,13 @@ title: "I'm Yin It to Win It!"
 layout: default
 excerpt:
 tags:
-image:
+  - Spirituality
+  - Reiki
+  - Guided Meditations
+  - yoga
+  - yin yoga
+  - Healing
+image: /uploads/yin-post.jpg
 ---
 
 
