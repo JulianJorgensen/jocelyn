@@ -3,7 +3,7 @@ title: 'Living in Micro & Macro Vision'
 layout: default
 excerpt:
 tags:
-image:
+image: /uploads/zooom.jpg
 ---
 
 
@@ -11,13 +11,13 @@ When we are looking at our lives, we tend to look at it in two ways: micro and m
 <br>
 <br>What often happens that leads one to stress is getting stuck in one particular vision. This intense focus or extreme detachment to life events and experiences distorts our vision - it’s like developing near/far-sightedness, one perspective is over-worked and the other is under developed. So first, let us understand what micro and macro vision is, their benefits, their downfalls, and what the significance of both are when we harmoniously integrate them together.
 
-## &nbsp;
+##
 
 ## Micro Vision
 
 When we are in this mode of observing our life, it is the “me” stage, it’s all about your subjective experience. The significance is being able to have discernment in your decisions to know what is for your highest good and what is not; this requires one to know thyself. Therefore, this function is very important - this is YOUR life; and it is a subjective experience.
 
-So when we’re zoomed in, we are taking in the details, we’re appreciating the touch of a loved one, we’re appreciating the cool breeze on a hot summer day, we are experiencing life as it plays in real time. It is the epitome of “stopping to smell the roses.”&nbsp; The benefit of this mode of viewing is that we get to move through life as an individual - collecting information, experiences and memories unique to our own. This subjective point of view allows us to sift through the details so that we can take away what we like, want and need; and which we don’t. This gives us a better opportunity to quickly and accurately discern what will most likely happen in a future similar personal experience. We then can make decisions that are for our highest good as we’ve observed the detailed signs that lead us there and which do not.
+So when we’re zoomed in, we are taking in the details, we’re appreciating the touch of a loved one, we’re appreciating the cool breeze on a hot summer day, we are experiencing life as it plays in real time. It is the epitome of “stopping to smell the roses.”  The benefit of this mode of viewing is that we get to move through life as an individual - collecting information, experiences and memories unique to our own. This subjective point of view allows us to sift through the details so that we can take away what we like, want and need; and which we don’t. This gives us a better opportunity to quickly and accurately discern what will most likely happen in a future similar personal experience. We then can make decisions that are for our highest good as we’ve observed the detailed signs that lead us there and which do not.
 
   For example, if you are on a date - you will be doing your best to be present in this situation, taking in information and experiences physically, mentally, emotionally and spiritually. You are on HD micro vision. In this mode, you are taking in everything you are perceiving and deciding whether you like it or not, whether you need it or not, whether you’d like to extend it or not - the power of discernment is being exercised simultaneously. This is great as it allows you to keep having similar experiences, allowing you to “recreate” positive experiences, while allowing you to avoid experiences that are not pleasant.
 <br>
@@ -26,16 +26,16 @@ So when we’re zoomed in, we are taking in the details, we’re appreciating th
 Depending on your personality and life experiences these are some examples of when you are too zoomed in:
 
 * Unable to incorporate the perspectives of others, and are more concerned about how it affects you
-  <br>&nbsp;
+  <br>
 * You over-emphasize or exaggerate the situation at hand, believing that everything leads back to you
-  <br>&nbsp;
+  <br>
 * You become stressed out about a situation at hand, unable to apply discernment to your choice of resolution as you are afraid of what the outcome may be
-  <br>&nbsp;
+  <br>
 * The present situation has consumed your everyday thoughts and feelings, where it has suddenly become the source of your stress
 
 If you feel like you are here it is extremely important to zoom out of your situation so that you may have a grander understanding of what is happening in your life. Life tends to be made up of many threads of moments, intertwining together - one leading to the next. That is why it is advantageous to view life as a journey - and this journey is not walked alone.
 
-## &nbsp;
+##
 
 ## Macro Vision
 
@@ -43,21 +43,21 @@ In this mode of viewing, it is in the “we” stage. It is not just all about y
 <br>
 <br>So when we are zoomed out, we see our lives as chapters that make up a book. Each micro moment adds and builds up on top of the other, while some moments have a conclusion only to make room for a new one. The micro situations don’t end, and having this third person point of view allows us to see the lesson in the trend of particular experiences. We have milestones in our lives that allow us to do this. For example, when we finish high school we all tend to look back and observe our experience as a whole - often laughing at how seriously we took one test when in retrospect it probably didn’t deserve that late night study cram session. Or when we finally meet the love of our lives, we look back and see how our dysfunctional relationships prior were lessons that allowed ourselves to recognize good love when it came around. Macro vision allows us to appreciate the little moments as part of a whole.
 
- When we’re in macro vision, we also start to incorporate the involvement of others that make up our life experiences. This point of view allows us to see the significant roles people play in our lives, that they too contribute to our experience and it’s not just about how “I” move through the moment, it is also about how they choose to do so as well.&nbsp; When we put ourselves in other people’s shoes, we get a deeper and greater understanding of our situation at hand because it gets expanded into past, present and future experiences. For example, if you are in a relationship with someone and there’s conflict - often people will be consumed with that moment (if they are stuck in micro vision they will probably fight about the same thing and are unable to see why it may have to do with anything else besides their subjective interpretation). But if they are able to zoom out of the moment, they may realize that this conflict has a lot to do with the past - perhaps having to do with their parents and how they fought. It may also be extended to the future, where they may think about how if this pattern or trend doesn’t change their future experience will be ridden with this too - perhaps even to their own children. By observing the bigger picture of and the involvement of others - one can make decisions in the moment (micro vision) that will help change the course of the macro experience.
+ When we’re in macro vision, we also start to incorporate the involvement of others that make up our life experiences. This point of view allows us to see the significant roles people play in our lives, that they too contribute to our experience and it’s not just about how “I” move through the moment, it is also about how they choose to do so as well.  When we put ourselves in other people’s shoes, we get a deeper and greater understanding of our situation at hand because it gets expanded into past, present and future experiences. For example, if you are in a relationship with someone and there’s conflict - often people will be consumed with that moment (if they are stuck in micro vision they will probably fight about the same thing and are unable to see why it may have to do with anything else besides their subjective interpretation). But if they are able to zoom out of the moment, they may realize that this conflict has a lot to do with the past - perhaps having to do with their parents and how they fought. It may also be extended to the future, where they may think about how if this pattern or trend doesn’t change their future experience will be ridden with this too - perhaps even to their own children. By observing the bigger picture of and the involvement of others - one can make decisions in the moment (micro vision) that will help change the course of the macro experience.
 <br>
 <br>However, one can overstay their time in macro vision as well. This is when a person becomes too detached to a situation at hand, unable to experience the significance of a moment because to them, it is just a passing fraction of time in a greater picture. The significance is not in the everyday experience but can be described as the significance in grand achievements. When we are locked in this mode we can become overly stoic, apathetic, un-impressed by the small successes in life, have lack of discernment and be quite un-grounded. A stress that can occur in the macro vision is that nothing occurring momentarily is significant enough, that unless it makes a great impact it is just a passing moment - so when nothing occurs we can end up waiting in anticipation, unable to realize that the small actions lead to great ones. Always looking out to sea waiting for the cruise ship to get off the deserted island, unable to see the little boat right on the shore waiting to be utilized.
 
 Depending on your personality and life experiences these are some examples of when you are too zoomed out:
 
 * Unable to express significance, empathy and compassion to the present moments of your own life or other’s
-  <br>&nbsp;
+  <br>
 * Unwilling to participate in conflict resolution as you see it as pointless or something that will pass on its own without your involvement
-  <br>&nbsp;
+  <br>
 * Lacking value in planning and creating smaller check-points to your greater goals in life
-  <br>&nbsp;
+  <br>
 * Believing that everything will work out fine without your participation. That life will proceed as it’s supposed to without having to be decisive (though there is truth, it is a fine line of allowing life to take its course so that we don’t micro-manage and becoming apathetic to our life choices).
 
-## &nbsp;
+##
 
 ## Become the Zoom
 
