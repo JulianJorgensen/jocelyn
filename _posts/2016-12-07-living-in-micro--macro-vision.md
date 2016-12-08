@@ -3,6 +3,7 @@ title: 'Living in Micro & Macro Vision'
 layout: default
 excerpt:
 tags:
+  - Perspective
 image: /uploads/zooom.jpg
 ---
 
@@ -32,7 +33,7 @@ Depending on your personality and life experiences these are some examples of wh
 
 If you feel like you are here it is extremely important to zoom out of your situation so that you may have a grander understanding of what is happening in your life. Life tends to be made up of many threads of moments, intertwining together - one leading to the next. That is why it is advantageous to view life as a journey - and this journey is not walked alone.
 
-# #
+## &nbsp;
 
 ## Macro Vision
 
@@ -51,7 +52,7 @@ Depending on your personality and life experiences these are some examples of wh
 * Lacking value in planning and creating smaller check-points to your greater goals in life
 * Believing that everything will work out fine without your participation. That life will proceed as it’s supposed to without having to be decisive (though there is truth, it is a fine line of allowing life to take its course so that we don’t micro-manage and becoming apathetic to our life choices).
 
-# #
+## &nbsp;
 
 ## Become the Zoom
 
