@@ -13,6 +13,7 @@ tags:
   - truth
   - Pleasure
   - Humility
+  - Poetry
 image: /uploads/img-2329.JPG
 ---
 
