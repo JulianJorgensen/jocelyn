@@ -1,5 +1,6 @@
 ---
 title: 'Shamballa Reiki: A Teach, A Student, A Friend'
+date: 2000-01-01 00:00:00
 layout: default
 excerpt:
 tags:

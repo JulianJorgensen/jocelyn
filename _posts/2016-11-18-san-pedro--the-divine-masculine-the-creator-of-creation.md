@@ -1,6 +1,7 @@
 ---
 title: 'San Pedro & The Divine Masculine: The Creator of Creation'
 layout: default
+date: 2000-01-01 00:00:00
 excerpt:
 tags:
   - Plant Medicine

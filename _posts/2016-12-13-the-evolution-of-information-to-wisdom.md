@@ -1,6 +1,7 @@
 ---
 title: The Evolution of Information to Wisdom
 layout: default
+date: 2000-01-01 00:00:00
 excerpt:
 tags:
   - Information
