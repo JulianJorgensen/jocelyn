@@ -1,8 +1,9 @@
 ---
-title: ''
-layout: default
-date: ''
-excerpt: ''
+title:
+date:
+description:
+categories:
 tags:
-image: ''
+image:
+author_staff_member:
 ---

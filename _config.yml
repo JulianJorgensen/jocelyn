@@ -1,22 +1,81 @@
-# Site Settings
-baseurl: 		""
-title: 			Jocelyn Lee
+# ----
+# Site
 
-name: 			Jocelyn Lee
-description: 	Jocelyn Lee blog
+title: Jocelyn Lee
+url: "https://brave-submarine.cloudvent.net"
+baseurl:
+google_analytics_key: UA-84803515-1
+google_maps_javascript_api_key:
 
-gems: [jekyll-paginate]
+# Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
+logo: /siteicon.png
+description: Jocelyn Lee blog
+author:
+  name:
+  email:
+  twitter: # twitter username without the @ symbol
+social:
+  name: Frisco Template
+  links:
+    - https://github.com/CloudCannon/frisco-jekyll-template
 
-paginate: 3
-paginate_path: 	"blog/page:num"
+# -----
+# Build
 
-twitter: 		jocelynleeblog
-email: 			jocelyn@jocelynlee.ca
+permalink: pretty
 
-disqus: 		jocelynleeblog
-analytics: 		UA-84803515-1
+gems:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-archives
 
-copyright: 		Copyright Jocelyn Lee 2016
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENCE
 
-# Build Settings
-permalinks: 	pretty
+collections:
+  staff_members:
+    _hide_content: true
+
+paginate: 10
+paginate_path: "/blog/:num/"
+
+jekyll-archives:
+  enabled: ['categories']
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+  -
+    scope:
+      type: "posts"
+    values:
+      layout: "post"
+  -
+    scope:
+      path: "contact-success.html"
+    values:
+      layout: "page"
+
+# -----------
+# CloudCannon
+
+social_icons:
+  - Facebook
+  - Google Plus
+  - Instagram
+  - LinkedIn
+  - Pinterest
+  - YouTube
+  - Email
+
+_comments:
+  description: Text shown when sharing on social media
+  blurb: Short bio or description of this person
