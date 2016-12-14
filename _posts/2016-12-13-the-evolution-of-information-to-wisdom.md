@@ -1,9 +1,25 @@
 ---
-title: Information vs Knowledge vs Wisdom
+title: The Evolution of Information to Wisdom
 layout: default
 excerpt:
 tags:
-image:
+  - Information
+  - Knowledge
+  - Wisdom
+  - Consciousness
+  - Creativity
+  - Compassion
+  - Coaching
+  - Crystals
+  - Spirit Guide
+  - Perspective
+  - Healer
+  - Change
+  - Evolution
+  - Humanity
+  - Personal Growth
+  - Teachers
+image: /uploads/screen-shot-2015-11-02-at-3-34-21-pm.png
 ---
 
 
