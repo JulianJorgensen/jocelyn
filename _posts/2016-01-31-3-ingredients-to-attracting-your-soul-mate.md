@@ -21,10 +21,9 @@ tags:
 image: /uploads/3-ingredients-to-attracting-your-soul-mate.png
 ---
 
+When one dreams of a soul mate, what does one desire? Perhaps a person who is purposeful in their actions, purposeful with deep meaning. They may be a city person with outdoor love and practicality or a country person with city savvy and appreciation. They know when to protect you and when to encourage you to be the strongest version of yourself in any situation when they are absent.
 
-When one dreams of a soul mate, what does one desire? Perhaps a person who is purposeful in their actions, purposeful with deep meaning. They may be a city person with outdoor love and practicality or a country person with city savvy and appreciation. They know when to protect you and when to encourage you to be the strongest version of yourself in any situation when they are absent. &nbsp;
-<br>
-<br>This soul mate is in tune with their intuition and heart desires; they are effortless in expressing themselves and inviting your own feelings to be shared and heard. Your soul mate has the patience and care to learn your creative language so that you can both better create your life together.
+This soul mate is in tune with their intuition and heart desires; they are effortless in expressing themselves and inviting your own feelings to be shared and heard. Your soul mate has the patience and care to learn your creative language so that you can both better create your life together.
 <br>
 <br>This person is grounded and confident in their life and career choices, independent and persistent with their dreams while supportive and respectful of yours. At the very least they will respect your goals; at the very most they will help you build your dreams.
 <br>
