@@ -1,6 +1,6 @@
 ---
 title: 'The Trouble with Idolization: How To Begin To Trust Your Own Wisdom'
-layout: default
+layout: post
 date: 2000-01-01 00:00:00
 excerpt:
 tags:

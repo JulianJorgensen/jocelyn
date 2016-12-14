@@ -8,7 +8,7 @@ tags:
 - Breath
 - Change
 - Spirit Weaver
-layout: default
+layout: post
 excerpt: I love all aspects of myself, from my powerful strength to overcome great
   obstacles, to my wise appreciation of the subtleties of life that teach me how to
   keep my strength to enjoy life.

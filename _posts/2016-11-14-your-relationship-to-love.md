@@ -1,7 +1,7 @@
 ---
 title: Your Relationship to Love
 date: 2000-01-01 00:00:00
-layout: default
+layout: post
 excerpt:
 tags:
 image: /uploads/screen-shot-2016-11-14-at-2-53-02-pm.png

@@ -1,7 +1,7 @@
 ---
 title: Embodying Intentions
 date: 2000-01-01 00:00:00
-layout: default
+layout: post
 excerpt:
 tags:
   - Intention

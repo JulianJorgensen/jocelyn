@@ -1,6 +1,6 @@
 ---
 title: 'The Earth is Changing: From the Depths of Her Core to the Cosmos'
-layout: default
+layout: post
 date: 2000-01-01 00:00:00
 excerpt: '“The world is changed, I feel it in the water, I feel it in the earth. I smell it in the air.“ - Galadriel, Lord of the Rings'
 tags:

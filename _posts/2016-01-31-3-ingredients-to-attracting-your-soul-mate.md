@@ -1,6 +1,6 @@
 ---
 title: 3 Ingredients to Attracting Your Soul Mate
-layout: default
+layout: post
 date: 2016-02-01 00:00:00
 excerpt:
 tags:
