@@ -16,6 +16,8 @@ tags:
   - Love
   - Choice
   - Challenge
+  - Gratitude
+  - Story
 image: /uploads/june-2016.jpg
 ---
 
@@ -52,7 +54,7 @@ So here are 5 ways to thrive in major life transitions:
    <br>&nbsp;
 3. **Learn to see and believe the real opportunities for positive growth and trust in yourself.**
    <br>
-   <br>This is the truth. You can either see your major life change as an opportunity or an obstacle. Depending on which one, you can either rise out of a challenge or suffer in it. Now, to be very clear, it is up to you to decide what those real opportunities are. This means being realistic, honest and looking at the bare bones of the situation and answering these two questions: “At the very least ... and, at the very best…” Then truly accepting this for yourself, because no matter how it actually turns out, you have already defined the opportunities that you can gain. Anything better is icing on the cake!
+   <br>This is the truth. You can either see your major life change as an opportunity or an obstacle. Depending on which one, you can either rise out of a challenge or suffer in it. Now, to be very clear, it is up to you to decide what those real opportunities are. This means being realistic, honest and looking at the bare bones of the situation and answering these two questions: “At the very least … and, at the very best…” Then truly accepting this for yourself, because no matter how it actually turns out, you have already defined the opportunities that you can gain. Anything better is icing on the cake!
    <br>
    <br>You can trust yourself. You can elevate the situation, give yourself enough credit that you’ve come this far and that if life is handing you more lemons it’s because you make a damn good lemonade that is unique to you! Take pride in your journey, have courage to keep going, and believe that whether you can see it or not - you’re guiding yourself to living a life as the person you want to be.
    <br>
@@ -72,8 +74,8 @@ So here are 5 ways to thrive in major life transitions:
    <br>
    <br>To the lazy procrastinators - life is literally going to pass you by if you don’t engage with the situation or the situation will get more challenging while you do nothing to change it. You’ll sit in discomfort and begin comforting yourself with things that are not good for your health. This may appear in a lot of junk food, escaping in drugs or alcohol, Netflix binging or maybe extreme shopping. This will only create a bigger hole for you to climb out of when you are going to have to eventually engage in life - and your physical, mental and emotional departments will be in need of a serious upgrade - creating more work for you. This is a dis-service to your self and your life, ask for help and get support so you can take care of your health. With a sound body, mind, heart and spirit - you’ll be surprised at your ability to thrive.
    <br>
-   <br>For the active folk who feel like they need to fill their time with all these other activities because “there’s so much to do,” “nobody else will do it,” or they “need to get it done.” The only need is to stop, re-evaluate, and ask for help. What are the priorities that actually need to be focused upon in the moment and where do you need to share the load? If you don’t do this you will burn out and you will not be able to focus your energy where it is most needed - on your wellbeing and the major life change you’re going through.
+   <br>For the active folk who feel like they need to fill their time with all these other activities because “T*here’s so much to do*,” “N*obody else will do it*,” or they “*I need to get it done*.” The only need is to stop, re-evaluate, and ask for help. What are the priorities that actually need to be focused upon in the moment and where do you need to share the load? If you don’t do this you will burn out and you will not be able to focus your energy where it is most needed - on your wellbeing and the major life change you’re going through.
    <br>
-   <br>Finding a healthy balance will take time. It’s important to recognize when you need to take a break and have that ice-cream or watch the new show on Netflix. Or when you need to get to bed on time and plan your meals so you are well nourished and energized for a busy day. I’m not perfect at this by any means but the force of hand life has given me recently has taught me to learn to practice the balance now.&nbsp;
+   <br>Finding a healthy balance will take time. It’s important to recognize when you need to take a break and have that ice-cream or watch your favorite show on Netflix. Or when you need to get to bed on time and plan your meals so you are well nourished and energized for a busy day. I’m not perfect at this by any means but the force of hand life has given me recently has taught me to learn to practice the balance now.&nbsp;
 
 Life truly is unpredictable and full of surprises, and we are only able to perceive a very small portion of it - the portion that is uniquely lived by us. You cannot solve the mysterious nature of life, but you can thrive while you live it. Know this is just one chapter in your great story, become the creator of your life and decide how the story goes.
