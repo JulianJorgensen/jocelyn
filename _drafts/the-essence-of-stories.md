@@ -1,6 +1,7 @@
 ---
 title: The Story of Your Life
 layout: default
+date: 2000-01-01 00:00:00
 excerpt:
 tags:
 image: /uploads/fe0c30-08db75dc02f84763ba6074b5c8656607-jpg-650.png
