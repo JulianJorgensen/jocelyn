@@ -2,7 +2,7 @@
 title: The Evolution of Information to Wisdom
 layout: post
 date: 2000-01-01 00:00:00
-excerpt:
+description:
 tags:
   - Information
   - Knowledge

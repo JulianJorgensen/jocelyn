@@ -2,7 +2,7 @@
 title: 'Sustaining & Maintaining Romantic Relationships'
 layout: post
 date: 2000-01-01 00:00:00
-excerpt:
+description:
 tags:
   - Romance
   - Relationships

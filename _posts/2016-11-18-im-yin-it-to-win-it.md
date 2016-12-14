@@ -2,7 +2,7 @@
 title: "I'm Yin It to Win It!"
 date: 2000-01-01 00:00:00
 layout: post
-excerpt:
+description:
 tags:
   - Spirituality
   - Reiki

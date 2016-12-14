@@ -9,7 +9,7 @@ tags:
   - Trauma
   - Love
   - Patience
-excerpt:
+description:
 image: /uploads/fe0c30-c8921c11c5cc419ebb68cc23fab3984a.jpg
 ---
 

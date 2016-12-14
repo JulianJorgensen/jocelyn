@@ -2,7 +2,7 @@
 title: 5 Ways to Thrive in Major Life Transitions
 layout: post
 date: 2016-06-11 00:00:00
-excerpt:
+description:
 tags:
   - Perspective
   - Change

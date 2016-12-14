@@ -2,7 +2,7 @@
 title: Authenticity - How to Find Yourself
 date: 2000-01-01 00:00:00
 layout: post
-excerpt:
+description:
 tags:
   - authenticity
   - truth
