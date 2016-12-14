@@ -15,8 +15,6 @@ description: I love all aspects of myself, from my powerful strength to overcome
 image: "/uploads/fe0c30-9e758e10d8304287b6df0173058a6219.jpg"
 ---
 
-​
-
 ​![](/uploads/versions/fe0c30-b87c3e2bb6d84ed89ef3b10cf35b8915---x----553-319x---.jpg)
 
 We are quite primed to live life to the extreme and very intensely, pushing our limits to the fullest. We go to great lengths to accomplish transient tasks and goals at the expense of our spiritual, mental, emotional and physical health and forget the subtle things that really matter and can make all the difference on our sanity and health. So, I want to highlight the hidden power of the subtle; the subtle messages that play a significant role in our healing, personal growth and awareness.
