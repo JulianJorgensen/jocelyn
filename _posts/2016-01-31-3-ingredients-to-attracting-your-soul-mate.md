@@ -4,7 +4,21 @@ layout: default
 date: 2016-02-01 00:00:00
 excerpt:
 tags:
-image:
+  - Acceptance
+  - authenticity
+  - Couples
+  - Dating
+  - Faith
+  - Heart
+  - Love
+  - Romance
+  - Relationships
+  - Trust
+  - Soul Mate
+  - Family
+  - Lesson
+  - Change
+image: /uploads/3-ingredients-to-attracting-your-soul-mate.png
 ---
 
 
@@ -28,19 +42,17 @@ When one dreams of a soul mate, what does one desire? Perhaps a person who is pu
 <br>
 <br>I have been asked, “Well, I have learned these qualities and I express them with the people I meet, how come I have not yet attracted my soul mate?” I believe there are several important reasons:
 
-Right timing. Everything natural and “meant to be” has it’s natural timing in life. There is no need to rush this process as the person will appear in your life when you are ready to welcome them into it.  If you feel like you already have no time in a week for yourself, where do you have space and time for another person?
-<br>
-<br>It would be wise to reflect upon your life and see if you have left room for this opportunity to exist, before the chance to even grow it.
-<br>&nbsp;
-
-If you are rushing or worrying about when this will happen, then you are operating from a place of fear. This fear is occupying your heart and mind, leaving no room for love to take precedent when you are connecting with others. Setting expectations is a sure way to dissapoint yourself.
-<br>
-<br>  I would then advise you to reflect upon your intention for wanting to meet someone by a certain time and your expectations, as that answer may be providing you the real blockage you need to first tend to. Often it is the belief that you have run out of time and that you are obliged to have a family by a certain age or with a specific type of person. Meeting your soul mate is not like impulsively buying the shirt you want before the sale is over; what is this love worth to you?&nbsp;
-<br>&nbsp;
-
-And the most important possible reason is, that you will not attract your soul mate that will compliment your desires if you are not whole unto yourself with infinite love, compassion and trust.
-<br>
-<br>This means you are willing to accept the possibility of fully being alone while also knowing and believing that you will meet that person, whether it be a short time or a life time. It means you accept that love is not given to you by another, but one you cultivate yourself and is enhanced by others. And that you have always been worthy of this love, because you are worth it to yourself. If you cannot see in yourself what is worth loving infinitely and unconditionally, you will have a difficult time accepting this love from another because you do not believe you are lovable.
+1. **Right timing.** Everything natural and “meant to be” has it’s natural timing in life. There is no need to rush this process as the person will appear in your life when you are ready to welcome them into it.     If you feel like you already have no time in a week for yourself, where do you have space and time for another person?
+   <br>
+   <br>It would be wise to reflect upon your life and see if you have left room for this opportunity to exist, before the chance to even grow it.
+   <br>&nbsp;
+2. **Don't rush into it.** If you are rushing or worrying about when this will happen, then you are operating from a place of fear. This fear is occupying your heart and mind, leaving no room for love to take precedent when you are connecting with others. Setting expectations is a sure way to disappoint yourself.
+   <br>
+   <br>I would then advise you to reflect upon your intention for wanting to meet someone by a certain time and your expectations, as that answer may be providing you the real blockage you need to first tend to. Often it is the belief that you have run out of time and that you are obliged to have a family by a certain age or with a specific type of person.    Meeting your soul mate is not like impulsively buying the shirt you want before the sale is over; what is this love worth to you?&nbsp;
+   <br>&nbsp;
+3. **Love yourself first.** This is the most important reason. You will not attract your soul mate that will compliment your desires if you are not whole unto yourself with infinite love, compassion and trust.
+   <br>
+   <br>This means you are willing to accept the possibility of fully being alone while also knowing and believing that you will meet that person, whether it be a short time or a life time. It means you accept that love is not given to you by another, but one you cultivate yourself and is enhanced by others. And that you have always been worthy of this love, because you are worth it to yourself. If you cannot see in yourself what is worth loving infinitely and unconditionally, you will have a difficult time accepting this love from another because you do not believe you are lovable.
 
 Did no.3 sound like a load of gibberish to you? Remember, a soul mate as described may not be in your life forever and they may only be passing for a moment in time. So it is imperative to understand that loving yourself enough to be fully content alone is the ultimate lesson with love and a soul mate. They are here to help you grow into a whole, authentic and loving being - even if you may walk the earth alone most of your life. So if no.3 sounded unpleasant to you or raised some uncomfortable feelings, it may very well be where you need to reflect upon the most.
 
