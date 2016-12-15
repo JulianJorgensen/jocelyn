@@ -3,7 +3,5 @@ title:
 date:
 description:
 categories:
-categories:
 image:
-author_staff_member:
 ---

@@ -2,7 +2,7 @@
 title: 5 Ways to Thrive in Major Life Transitions
 layout: post
 date: 2016-06-11 00:00:00
-excerpt: '... how you choose to respond to life is your greatest gift and power. It is important to use it wisely during these challenging times, as life is asking you to decide who you are going to be...'
+description: '... how you choose to respond to life is your greatest gift and power. It is important to use it wisely during these challenging times, as life is asking you to decide who you are going to be...'
 categories:
   - Perspective
   - Change
@@ -20,7 +20,6 @@ categories:
   - Story
 image: /uploads/june-2016.jpg
 ---
-
 
 Sometimes, you will be punch blind-sided in the face by an unknown force that will knock you off your feet and on to your backside. It doesn’t matter what you may have known before, but after one of these, it is without a doubt that when you get back up your perspective and life as you know it will never be the same.&nbsp;
 
