@@ -3,7 +3,7 @@ title: "I'm Yin It to Win It!"
 date: 2000-01-01 00:00:00
 layout: post
 description:
-tags:
+categories:
   - Spirituality
   - Reiki
   - Guided Meditations

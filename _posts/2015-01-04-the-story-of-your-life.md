@@ -3,7 +3,7 @@ title: The Story of Your Life
 layout: post
 date: 2015-01-05 00:00:00
 description:
-tags:
+categories:
   - Story
   - Experience
   - Life

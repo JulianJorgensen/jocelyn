@@ -3,7 +3,7 @@ title: Do You Speak Nature?
 layout: post
 date: 2000-01-01 00:00:00
 description:
-tags:
+categories:
   - Nature
   - Gaia
   - Patience

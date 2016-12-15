@@ -2,7 +2,7 @@
 title: Healing vs. Healed
 date: 2015-01-31 00:52:00
 layout: post
-tags:
+categories:
   - Change
   - Spirituality
   - Healing

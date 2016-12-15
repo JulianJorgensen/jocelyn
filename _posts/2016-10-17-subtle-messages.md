@@ -1,7 +1,7 @@
 ---
 title: Subtle Messages
 date: 2016-10-17 00:00:00 Z
-tags:
+categories:
 - Ayahuasca
 - Spirituality
 - Personal Growth

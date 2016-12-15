@@ -3,7 +3,7 @@ title: 'When You’ve Out Grown Your Pond: The Cycles of Friendship'
 layout: post
 date: 2000-01-01 00:00:00
 description:
-tags:
+categories:
   - Friends
   - authenticity
   - Evolution

@@ -3,7 +3,7 @@ title: 'Living in Micro & Macro Vision'
 layout: post
 date: 2000-01-01 00:00:00
 description:
-tags:
+categories:
   - Perspective
 image: /uploads/zooom.jpg
 ---

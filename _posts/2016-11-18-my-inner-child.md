@@ -3,7 +3,7 @@ title: '"My Inner Child"'
 date: 2000-01-01 00:00:00
 layout: post
 description:
-tags:
+categories:
   - Poetry
   - Intuition
   - Inner Child
