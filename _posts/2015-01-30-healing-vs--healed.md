@@ -9,25 +9,27 @@ image: /uploads/fe0c30-c8921c11c5cc419ebb68cc23fab3984a.jpg
 ---
 
 
-Healing…  When is it over? How does it look, feel, sound; when do you know you’ve moved from healing to healed? These are some questions that arise when we go through painful and traumatic experiences. Whether we are asking ourselves or others are asking us, it is hard to give someone one all-encompassing answer. And the truth is you can’t.
+Healing…&nbsp; When is it over? How does it look, feel, sound; when do you know you’ve moved from healing to healed? These are some questions that arise when we go through painful and traumatic experiences. Whether we are asking ourselves or others are asking us, it is hard to give someone one all-encompassing answer. And the truth is you can’t.
 
 In my life I have gone through much healing, and I have been healed many times, by my own efforts and the efforts of others. There are common threads between it all – as I’m sure you know through your own experiences and those you have encountered with a similar life story – because we are all human. If you are in a process of healing currently, I hope that my words of personal experience and realizations can provide you some guidance, support, relatability and a starting point for you to begin to heal yourself…
 
-###
+## &nbsp;
 
-### 3 Fundamental Principles to be Aware of Regarding the Process of Healing:
+## 3 Fundamental Principles to be Aware of Regarding the Process of Healing:
 
-First, there is no singular way to heal – truly each individual has so many unique and personal factors (personality, past experiences, desires, fears, environment, relationships, etc.) that it is difficult to give someone a formula on how to deal with traumatic and painful events. So, when healing yourself, **only you**have the ability to gauge what is appropriate for you to become healed, and to remember to be patient with yourself. Some days you may feel great and some days you will not, life is a constant cyclical expression – allow yourself to feel what you need to. But be wary of getting locked into it, over identifying with it.  Also, I don’t believe that everyone cries, but crying is a natural process of releasing pain, you needn’t force yourself but at the very least do not prevent yourself if you feel like crying.
+First, there is no singular way to heal – truly each individual has so many unique and personal factors (personality, past experiences, desires, fears, environment, relationships, etc.) that it is difficult to give someone a formula on how to deal with traumatic and painful events. So, when healing yourself, **only you**have the ability to gauge what is appropriate for you to become healed, and to remember to be patient with yourself. Some days you may feel great and some days you will not, life is a constant cyclical expression – allow yourself to feel what you need to. But be wary of getting locked into it, over identifying with it. &nbsp;Also, I don’t believe that everyone cries, but crying is a natural process of releasing pain, you needn’t force yourself but at the very least do not prevent yourself if you feel like crying.
 
 Second, one seemingly simple or singular trauma/fear/pain can have many, many layers and facets to it. For example, a fear of security does not just stem in the financial or work realm, it permeates the home, your confidence, your future dreams, your relationships, how you feed your body, etc. – and, in each one it can evolve into a monopoly of fear if left unaddressed. Again, be patient with yourself – and humble. To honour the healing journey and to grapple with the deep rooted wounds will give you the confidence, skill and awareness on how to healthily heal in future events.
 
 Finally, healing is a life long journey for a majority of us. Whether it is from a traumatic past, or a fresh scrapped knee – we are human and not yet immortal. Healing is a part of being human, when you have healed some of the deepest of your wounds, you will want to help heal others – because you know they can. Your healing may not just be of this life or your own, past life traumas can surface – karmic ties to be settled in this life time. You may also have to help heal an ancestral wound – seen in Indigenous communities or those from a lineage of abuse. To repeat myself again, be patient – especially if there is a learning curve. For myself, healing the spirit, heart and mind are processes I am very familiar with and have found my own way of cycling the healing much quicker. However, I have had to really start from the foundations of learning to listen to the wisdom of my body again. In accepting this, I know it will be longer than what I am used to, but fundamental to reinforcing my immunity to physical trauma.
 
-In bringing these three things into awareness, there is one fundamental truth that will always transcend all differences. It  plays an ultimate and significant role in healing for all of humanity, that is part of the healing formula… and it is **LOVE.**
+In bringing these three things into awareness, there is one fundamental truth that will always transcend all differences. It &nbsp;plays an ultimate and significant role in healing for all of humanity, that is part of the healing formula… and it is **LOVE.**
 
 Love is the ingredient for healing. Love for yourself. Love for others. Love for the painful experience. Love for the lessons and process of healing. Love for the Earth. Love for life… It is not to say that you will not feel sadness, grief, anger, shame or other low vibrational energy – after all they also make up life – but when you learn how to heal yourself and see life as healing, your pain’s natural cycle will flow much quicker and love will take its place, reminding you that all is well… if we allow ourselves to see it, accept it and be grateful for it. Life will always continue.
 
-### From Healing to Healed:
+### &nbsp;
+
+## From Healing to Healed:
 
 The fundamental principles of healing as I’ve mentioned above suggest that you are always healing! That is the bigger picture on a whole life span and life spans beyond. And we are one humanity, each time we heal we help it for all. I believe we can be healed in our current life time, many, many times. Just like when we break our bones, they can grow to be stronger… yet no matter how aware we are - we can still stump our toes from time to time!
 
