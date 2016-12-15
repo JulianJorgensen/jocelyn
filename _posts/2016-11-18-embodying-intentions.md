@@ -12,7 +12,7 @@ categories:
   - Energy
   - Manifestation
   - Personal Growth
-image: /uploads/fe0c30-5d3dacfac1554cefaa3f75b9ee01d97a.png
+image: /uploads/fe0c30-5d3dacfac1554cefaa3f75b9ee01d97a.jpg
 ---
 
 

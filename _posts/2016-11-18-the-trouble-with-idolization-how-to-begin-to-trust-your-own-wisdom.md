@@ -21,7 +21,7 @@ categories:
   - Evolution
   - Change
   - Faith
-image: /uploads/fe0c30-56f77744066c46dcaff96514dcd3fe39.png
+image: /uploads/fe0c30-56f77744066c46dcaff96514dcd3fe39.jpg
 ---
 
 
