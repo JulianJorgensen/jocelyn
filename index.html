@@ -10,14 +10,14 @@ bottom_image: /images/DSC01999.jpg
 		<div class="hero-text-container">
 			<h1 class="editable">Joyfullee</h1>
 			<p class="subtext editable">If there's one thing I know how to do, it's to live joyfullee!<br />&bull; spirituality &bull; sexuality &bull; artistry &bull;&nbsp;</p>
-			<div class="cta button alt editable"><a href="/blog/">Read more</a></div>
+			<div class="cta button alt editable"><a href="/about/">My Journey</a></div>
 		</div>
 	</div>
 	<div class="learn-more"><a href="#learn-more">Learn more <span class="arrow">&#x25BC;</span></a></div>
 </section>
 
 <div class="content">
-	<section>
+	<section id="learn-more">
 		<div class="text-container">
 			<ul class="blog-posts">
 				{% for post in site.posts limit:3 %}
@@ -27,7 +27,7 @@ bottom_image: /images/DSC01999.jpg
 		</div>
 	</section>
 
-	<section class="hero" style="background-image: url({% include relative-src.html src=page.bottom_image %})">
+	<section class="hero hero-footer" style="background-image: url({% include relative-src.html src=page.bottom_image %})">
 		<div class="inner-hero text-container">
 			<div class="hero-text-container">
 				<h2 class="editable">"Follow your joy. You will always make the right decisions, and you life will be full of light."</h2>
@@ -36,7 +36,7 @@ bottom_image: /images/DSC01999.jpg
 		</div>
 	</section>
 
-	<section class="info" id="learn-more">
+	<section id="footer-about">
 		<div class="container flex">
 			<div class="image">
 				<img class="editable" alt="Screenshot" id="cms-identifiable-1966" data-cms-cid="1966" src="/uploads/versions/bruha1---x516-0-1596-3192-650-1300x---.jpg" />
