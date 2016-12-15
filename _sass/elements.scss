@@ -60,3 +60,10 @@ p, address, ul, ol {
 	line-height: 1.6em;
 	font-family: 'Lato', sans-serif;
 }
+
+p{
+	margin-top: 0;
+	@media #{$desktop} {
+		margin-top: 10px;
+	}
+}

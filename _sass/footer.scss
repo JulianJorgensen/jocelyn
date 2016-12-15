@@ -102,3 +102,17 @@ footer {
 		margin: 0;
 	}
 }
+
+#footer-about{
+	h2{
+		margin-bottom: 10px;
+	}
+	.image{
+		text-align: left;
+		padding: 0;
+
+		@media #{$desktop} {
+			margin-right: 20px;
+		}
+	}
+}

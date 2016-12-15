@@ -28,7 +28,7 @@ image: https://source.unsplash.com/MqJX_8EaStM/2000x1322?a=.png
 					<a href="{{ site.baseurl }}{{ paginator.previous_page_path }}" class="previous btn">&larr; Newer posts</a>
 				{% endif %}
 
-				<span class="page_number ">{{ paginator.page }} of {{ paginator.total_pages }}</span>
+				<span class="page_number">Page <strong>{{ paginator.page }}</strong> of <strong>{{ paginator.total_pages }}</strong></span>
 
 				{% if paginator.next_page %}
 					<a href="{{ site.baseurl }}{{ paginator.next_page_path }}" class="next btn">Older posts &rarr;</a>
