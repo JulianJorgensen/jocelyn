@@ -14,7 +14,9 @@ layout: default
 <section>
 	<div class="text-container">
 		<ul class="blog-posts">
-			{% include list-posts.html posts=page.posts %}
+			{% for post in page.posts %}
+				{% include post.html %}
+			{% endfor %}
 		</ul>
 	</div>
 </section>

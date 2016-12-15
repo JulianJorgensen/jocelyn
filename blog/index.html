@@ -17,7 +17,9 @@ image: https://source.unsplash.com/MqJX_8EaStM/2000x1322?a=.png
 	<div class="text-container">
 		<p class="editor-link"><a href="cloudcannon:collections/_posts" class="btn"><strong>&#9998;</strong> Add Post</a></p>
 		<ul class="blog-posts">
-			{% include list-posts.html posts=paginator.posts %}
+			{% for post in paginator.posts %}
+				{% include post.html %}
+			{% endfor %}
 		</ul>
 
 		{% if paginator.total_pages > 1 %}

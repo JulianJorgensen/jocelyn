@@ -30,6 +30,16 @@ bottom_image: /images/DSC01999.jpg
 		</div>
 	</section>
 
+	<section>
+		<div class="text-container">
+			<ul class="blog-posts">
+				{% for post in site.posts limit:3 %}
+					{% include post.html %}
+				{% endfor %}
+			</ul>
+		</div>
+	</section>
+
 	<section class="hero" style="background-image: url({% include relative-src.html src=page.bottom_image %})">
 		<div class="inner-hero text-container">
 			<div class="hero-text-container">
