@@ -2,8 +2,9 @@
 title: The Story of Your Life
 layout: post
 date: 2015-01-05 00:00:00
-description:
+description: 'That is why so many wisdoms of our elders are simple, true and timeless. At the end of a human story, you take away the essence of the story.'
 categories:
+  - Spirituality
 image: /uploads/fe0c30-08db75dc02f84763ba6074b5c8656607-jpg-650.png
 ---
 
@@ -24,9 +25,9 @@ Do not be burdened by this perspective, it doesn’t mean that you will be endur
 
 Everything you experience, ‘good’ and ‘bad’ will all become stories of a larger One. Some will be carried forward by people after you, some will just fade and stay in that place and time. Nothing more and nothing less.
 
-Let that sit with you for a minute.
+**Let that sit with you for a minute.**
 
-How does that make you feel?
+*How does that make you feel?*
 
 Do you feel insignificant because it would seem like none of which you experience or do will matter in the end, if it can be forgotten? Maybe, you feel like you are constantly swept away in a story in which you can never get out of?
 

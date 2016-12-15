@@ -1,22 +1,19 @@
 ---
 title: Subtle Messages
-date: 2016-10-17 00:00:00 Z
+date: 2016-10-17 00:00:00
 categories:
-- Spirituality
+  - Spirituality
 layout: post
-description: I love all aspects of myself, from my powerful strength to overcome great
-  obstacles, to my wise appreciation of the subtleties of life that teach me how to
-  keep my strength to enjoy life.
-image: "/uploads/fe0c30-9e758e10d8304287b6df0173058a6219.jpg"
+description: A common perspective about life in general is that we must go through suffering or have intense experiences in order to see our lives as they truly are and where change is required.
+image: /uploads/fe0c30-9e758e10d8304287b6df0173058a6219.jpg
 ---
 
-​![](/uploads/versions/fe0c30-b87c3e2bb6d84ed89ef3b10cf35b8915---x----553-319x---.jpg)
 
-We are quite primed to live life to the extreme and very intensely, pushing our limits to the fullest. We go to great lengths to accomplish transient tasks and goals at the expense of our spiritual, mental, emotional and physical health and forget the subtle things that really matter and can make all the difference on our sanity and health. So, I want to highlight the hidden power of the subtle; the subtle messages that play a significant role in our healing, personal growth and awareness.
+​We are quite primed to live life to the extreme and very intensely, pushing our limits to the fullest. We go to great lengths to accomplish transient tasks and goals at the expense of our spiritual, mental, emotional and physical health and forget the subtle things that really matter and can make all the difference on our sanity and health. So, I want to highlight the hidden power of the subtle; the subtle messages that play a significant role in our healing, personal growth and awareness.
 
 ### &nbsp;
 
-### BIGGER is better:
+## BIGGER is Better:
 
 A common perspective about life in general is that we must go through suffering or have intense experiences (i.e. shock, adrenaline, rude awakenings) in order to see our lives as they truly are and where change is required. And, yes in many moments this important wake-up call really get our core values shaken up to be re-evaluated. However, there are also the subtle occurrences in life that often get overlooked, ignored, dismissed or get negatively compared to the intense moments in life. I call these subtle aspects “the mundane” – moments in our life we take for granted and have become so accustomed to that we forget that growth and change here is just as necessary and significant as the wake-up calls of life.
 
@@ -24,7 +21,7 @@ An example of this would be a recent experience regarding my desire to receive g
 
 ### &nbsp;
 
-### Why Did I Let it Get This Far?
+## Why Did I Let it Get This Far?
 
 In a recent Ayahuasca ceremony, I thought I would receive a very powerful and intense experience that would quite literally “show” me what was wrong that needed to be healed or changed. I was ready for the intense journey Ayahuasca could bring and in many ways expected and looked forward to it. But in the silence of the night, I felt like I received nothing – no visions, no emotional or physical release, no new cognitive epiphanies – I only heard my mind I went in to the ceremony with. I did not feel her medicine as strongly before, and in many moments through the night I wondered if I was in an altered state at all; it was not till morning and the few days that followed in which I understood the lesson was to look to the subtle. In this situation, Ayahuasca came to me as the voice of my own mind – showing me the subtleties of my thoughts, vocabulary and expectations that greatly contribute to my dis-ease.
 
@@ -34,7 +31,7 @@ The “subtle” or “mundane” is where we can also make powerful changes tha
 
 ### &nbsp;
 
-### Resuscitate Your Life:
+## Resuscitate Your Life:
 
 Breathing life back into the mundane literally requires you to breathe. When we are in a rush or moving so intently through life we become deaf and blind to the subtle qualities and messages in life that are trying to communicate with us. We are only aware to the loud and bold. So, bring it back to the foundational moments in life – breathing – a natural process that people forget to do and that changes our quality of life. A very simple and subtle act – yet the most important mundane action that gives us life. A way to train your awareness to the subtle is learning how to regularly and actively breathe fully again.
 
@@ -44,6 +41,5 @@ Breathing life back into the mundane literally requires you to breathe. When we 
 * Slowly & deeply exhale all your air, pushing from the bottom of your belly to the top of your lungs, near your collar bone
 * Pause for a few seconds and observe the space here – are there any emotions, thoughts, sensations rising?
 * Do this for at the very least for 5 minutes a day for a couple weeks and reflect on what you experience, what little changes or realizations that occur.
-
 
 Breathe in life, breath out excess.&nbsp;
