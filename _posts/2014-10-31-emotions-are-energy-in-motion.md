@@ -9,8 +9,6 @@ image: /uploads/fe0c30-23b7fe12fa3d414a83cedb291025bded.jpg
 ---
 
 
-&nbsp;
-
 During the colder seasons of hibernation, it is easy to cuddle up into a dormant place in our heart and mind to weather the dark clouds. It truly is a wonderful time to curl up and let elements outside harmonize themselves while we watch. However, we must remember to let ourselves do the same, we should avoid being stagnant with our emotions during difficult times.
 <br>
 <br>In sunny and warm weather it is easier to brush off negative experiences, situations and people as we’re reminded to embrace the weather and have a good time outside! But when the shift comes to the cold (especially here in Vancouver, B.C.) we have less energy to do so and we’re mostly stuck inside. Often we’ll just sit with our low-vibrational feelings, synchronizing with the weather outside. Thus, giving us an excuse to do so! And we've associated it with being normal – the “winter blues.” So let us break this limiting normalcy and let’s focus on keeping our emotion as “energy in motion” so that we allow our emotional experiences to come full circle. In doing so we can maintain balance in these darker days.
