@@ -3,12 +3,7 @@ title: Healing vs. Healed
 date: 2015-01-31 00:52:00
 layout: post
 categories:
-  - Change
   - Spirituality
-  - Healing
-  - Trauma
-  - Love
-  - Patience
 description:
 image: /uploads/fe0c30-c8921c11c5cc419ebb68cc23fab3984a.jpg
 ---

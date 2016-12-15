@@ -4,14 +4,7 @@ date: 2000-01-01 00:00:00
 layout: post
 description:
 categories:
-  - Poetry
-  - Divine Feminine
-  - fearless
-  - Intuition
   - Spirituality
-  - Warrior
-  - Goddess
-  - Peace
 image: /uploads/fe0c30-e5016c21221c4a6a9597337a12059146.jpg
 ---
 

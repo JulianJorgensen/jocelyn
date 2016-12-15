@@ -4,14 +4,6 @@ date: 2000-01-01 00:00:00
 layout: post
 description:
 categories:
-  - Intention
-  - Mind
-  - Soul Retrieval
-  - Higher Self
-  - Grounding
-  - Energy
-  - Manifestation
-  - Personal Growth
 image: /uploads/fe0c30-5d3dacfac1554cefaa3f75b9ee01d97a.jpg
 ---
 

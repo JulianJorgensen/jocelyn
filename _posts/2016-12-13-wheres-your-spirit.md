@@ -5,20 +5,6 @@ date: 2000-01-01 00:00:00
 description:
 categories:
   - Spirituality
-  - Religion
-  - Awakening
-  - Poetry
-  - Jesus
-  - Quan Yin
-  - Ego
-  - Consciousness
-  - Connection
-  - Compassion
-  - Love
-  - God
-  - Life
-  - authenticity
-  - Humanity
 image: /uploads/where-is-your-spirit.jpg
 ---
 

@@ -4,20 +4,6 @@ layout: post
 date: 2016-02-01 00:00:00
 description:
 categories:
-  - Acceptance
-  - authenticity
-  - Couples
-  - Dating
-  - Faith
-  - Heart
-  - Love
-  - Romance
-  - Relationships
-  - Trust
-  - Soul Mate
-  - Family
-  - Lesson
-  - Change
 image: /uploads/3-ingredients-to-attracting-your-soul-mate.png
 ---
 

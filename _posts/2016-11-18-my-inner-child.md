@@ -4,9 +4,6 @@ date: 2000-01-01 00:00:00
 layout: post
 description:
 categories:
-  - Poetry
-  - Intuition
-  - Inner Child
   - Spirituality
 image: /uploads/fe0c30-e756df1955d04a31840f22f3de8d9349.jpg
 ---

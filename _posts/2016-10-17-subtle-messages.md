@@ -2,12 +2,7 @@
 title: Subtle Messages
 date: 2016-10-17 00:00:00 Z
 categories:
-- Ayahuasca
 - Spirituality
-- Personal Growth
-- Breath
-- Change
-- Spirit Weaver
 layout: post
 description: I love all aspects of myself, from my powerful strength to overcome great
   obstacles, to my wise appreciation of the subtleties of life that teach me how to

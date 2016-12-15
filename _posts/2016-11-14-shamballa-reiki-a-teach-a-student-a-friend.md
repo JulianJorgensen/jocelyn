@@ -4,12 +4,6 @@ date: 2000-01-01 00:00:00
 layout: post
 description:
 categories:
-  - Ayahuasca
-  - Shamballa
-  - Reiki
-  - Reiki Master
-  - Student
-  - Healer
 image: /uploads/fe0c30-8b3ee2a5cead44ea95010453e9d7dfc6.jpg
 ---
 

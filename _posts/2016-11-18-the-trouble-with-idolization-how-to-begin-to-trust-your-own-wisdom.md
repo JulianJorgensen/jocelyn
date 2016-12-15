@@ -4,23 +4,7 @@ layout: post
 date: 2000-01-01 00:00:00
 description:
 categories:
-  - Idolize
-  - authenticity
-  - Jesus
-  - Gandhi
-  - Wisdom
-  - Buddha
-  - Humanity
-  - Gurus
-  - Sages
-  - Teachers
   - Spirituality
-  - Personal Growth
-  - Higher Self
-  - God
-  - Evolution
-  - Change
-  - Faith
 image: /uploads/fe0c30-56f77744066c46dcaff96514dcd3fe39.jpg
 ---
 

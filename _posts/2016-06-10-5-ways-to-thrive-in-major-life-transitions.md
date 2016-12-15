@@ -4,20 +4,7 @@ layout: post
 date: 2016-06-11 00:00:00
 description: '... how you choose to respond to life is your greatest gift and power. It is important to use it wisely during these challenging times, as life is asking you to decide who you are going to be...'
 categories:
-  - Perspective
-  - Change
-  - Relationships
-  - Experience
-  - Friends
-  - Purpose
-  - Life
   - Spirituality
-  - Awakening
-  - Love
-  - Choice
-  - Challenge
-  - Gratitude
-  - Story
 image: /uploads/june-2016.jpg
 ---
 

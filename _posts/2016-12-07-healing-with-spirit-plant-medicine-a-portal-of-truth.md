@@ -4,25 +4,6 @@ layout: post
 date: 2000-01-01 00:00:00
 description:
 categories:
-  - Plant Medicine
-  - Healing
-  - Awakening
-  - Iboga
-  - Mushrooms
-  - Ayahuasca
-  - San Pedro
-  - Cannabis
-  - LSD
-  - Spirit Plant Medicine
-  - Spirit Guide
-  - Psychedelics
-  - Expansion
-  - Consciousness
-  - Change
-  - Evolution
-  - Illusions
-  - Perspective
-  - Multi-Dimensional
 image: /uploads/screen-shot-2016-12-07-at-11-21-42-pm.png
 ---
 

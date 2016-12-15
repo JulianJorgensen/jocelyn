@@ -4,13 +4,6 @@ layout: post
 date: 2000-01-01 00:00:00
 description:
 categories:
-  - Plant Medicine
-  - San Pedro
-  - Divine Masculine
-  - Divine Feminine
-  - Healing
-  - Personal Growth
-  - Trauma
 image: /uploads/fe0c30-8b1bfd0716964ef0b8bab09818189f21.jpg
 ---
 

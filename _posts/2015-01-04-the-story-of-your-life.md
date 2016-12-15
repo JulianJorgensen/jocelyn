@@ -4,19 +4,6 @@ layout: post
 date: 2015-01-05 00:00:00
 description:
 categories:
-  - Story
-  - Experience
-  - Life
-  - Generations
-  - Friends
-  - Joy
-  - Peace
-  - Essence
-  - Lesson
-  - Challenge
-  - Humanity
-  - Shadow
-  - Perspective
 image: /uploads/fe0c30-08db75dc02f84763ba6074b5c8656607-jpg-650.png
 ---
 

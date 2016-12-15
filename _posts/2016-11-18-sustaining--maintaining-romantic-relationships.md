@@ -4,13 +4,6 @@ layout: post
 date: 2000-01-01 00:00:00
 description:
 categories:
-  - Romance
-  - Relationships
-  - Couples
-  - Dating
-  - Honesty
-  - Love
-  - truth
 image: /uploads/whatsapp-image-2016-08-22-at-11-14-45-am.jpeg
 ---
 

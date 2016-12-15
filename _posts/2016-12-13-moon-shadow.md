@@ -4,18 +4,6 @@ layout: post
 date: 2000-01-01 00:00:00
 description:
 categories:
-  - Poetry
-  - Shadow
-  - Moon
-  - 'Yin & Yang'
-  - Light
-  - Breath
-  - Water
-  - fearless
-  - PIsces
-  - Acceptance
-  - Patience
-  - Trust
 image: /uploads/screen-shot-2016-12-13-at-5-04-47-am.png
 ---
 

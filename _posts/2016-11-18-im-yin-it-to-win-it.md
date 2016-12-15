@@ -5,11 +5,6 @@ layout: post
 description:
 categories:
   - Spirituality
-  - Reiki
-  - Guided Meditations
-  - yoga
-  - yin yoga
-  - Healing
 image: /uploads/yin-post.jpg
 ---
 

@@ -4,19 +4,7 @@ layout: post
 date: 2000-01-01 00:00:00
 description:
 categories:
-  - Initiation
-  - Evolution
-  - Dreams
-  - Manifestation
-  - truth
-  - Wisdom
   - Spirituality
-  - Dreamer
-  - Divine Feminine
-  - Reiki
-  - Reiki Master
-  - Spirit Plant Medicine
-  - Spirit Weaver
 image: /uploads/screen-shot-2016-12-11-at-12-23-50-am.png
 ---
 

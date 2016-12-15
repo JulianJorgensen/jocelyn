@@ -4,15 +4,6 @@ layout: post
 date: 2000-01-01 00:00:00
 description:
 categories:
-  - Friends
-  - authenticity
-  - Evolution
-  - Compassion
-  - Relationships
-  - Acceptance
-  - Change
-  - Expansion
-  - Cycles
 image: /uploads/august-1st-2015-photo.jpg
 ---
 

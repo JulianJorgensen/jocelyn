@@ -4,16 +4,6 @@ layout: post
 date: 2000-01-01 00:00:00
 description:
 categories:
-  - Poetry
-  - Moon
-  - Pleasure
-  - Inner Child
-  - Breath
-  - Gratitude
-  - Crying
-  - Emotions
-  - Change
-  - Evolution
 image: /uploads/screen-shot-2016-12-13-at-5-11-29-am.png
 ---
 

@@ -4,17 +4,6 @@ layout: post
 date: 2000-01-01 00:00:00
 description:
 categories:
-  - Receive
-  - Acceptance
-  - Breath
-  - Healing
-  - Honesty
-  - Manifestation
-  - Personal Growth
-  - truth
-  - Pleasure
-  - Humility
-  - Poetry
 image: /uploads/img-2329.JPG
 ---
 
