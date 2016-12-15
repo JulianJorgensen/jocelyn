@@ -2,10 +2,11 @@
 title: 3 Ingredients to Attracting Your Soul Mate
 layout: post
 date: 2016-02-01 00:00:00
-description:
+description: A soul mate may only be passing for a moment in time. So it is imperative to understand that loving yourself enough to be fully content alone is the ultimate lesson with love and a soul mate.
 categories:
 image: /uploads/3-ingredients-to-attracting-your-soul-mate.png
 ---
+
 
 When one dreams of a soul mate, what does one desire? Perhaps a person who is purposeful in their actions, purposeful with deep meaning. They may be a city person with outdoor love and practicality or a country person with city savvy and appreciation. They know when to protect you and when to encourage you to be the strongest version of yourself in any situation when they are absent.
 
@@ -27,13 +28,15 @@ This soul mate is in tune with their intuition and heart desires; they are effor
 <br>
 <br>I have been asked, “Well, I have learned these qualities and I express them with the people I meet, how come I have not yet attracted my soul mate?” I believe there are several important reasons:
 
-1. **Right timing.** Everything natural and “meant to be” has it’s natural timing in life. There is no need to rush this process as the person will appear in your life when you are ready to welcome them into it.     If you feel like you already have no time in a week for yourself, where do you have space and time for another person?
+1. **Right timing.** Everything natural and “meant to be” has it’s natural timing in life. There is no need to rush this process as the person will appear in your life when you are ready to welcome them into it.      If you feel like you already have no time in a week for yourself, where do you have space and time for another person?
    <br>
    <br>It would be wise to reflect upon your life and see if you have left room for this opportunity to exist, before the chance to even grow it.
+   <br>
    <br>&nbsp;
 2. **Don't rush into it.** If you are rushing or worrying about when this will happen, then you are operating from a place of fear. This fear is occupying your heart and mind, leaving no room for love to take precedent when you are connecting with others. Setting expectations is a sure way to disappoint yourself.
    <br>
-   <br>I would then advise you to reflect upon your intention for wanting to meet someone by a certain time and your expectations, as that answer may be providing you the real blockage you need to first tend to. Often it is the belief that you have run out of time and that you are obliged to have a family by a certain age or with a specific type of person.    Meeting your soul mate is not like impulsively buying the shirt you want before the sale is over; what is this love worth to you?&nbsp;
+   <br>I would then advise you to reflect upon your intention for wanting to meet someone by a certain time and your expectations, as that answer may be providing you the real blockage you need to first tend to. Often it is the belief that you have run out of time and that you are obliged to have a family by a certain age or with a specific type of person.     Meeting your soul mate is not like impulsively buying the shirt you want before the sale is over; what is this love worth to you?&nbsp;
+   <br>
    <br>&nbsp;
 3. **Love yourself first.** This is the most important reason. You will not attract your soul mate that will compliment your desires if you are not whole unto yourself with infinite love, compassion and trust.
    <br>
