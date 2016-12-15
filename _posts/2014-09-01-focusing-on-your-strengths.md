@@ -1,16 +1,12 @@
 ---
 title: Focusing On Your Strengths
-date: 2014-09-01 21:32:00 Z
+date: 2014-09-01 21:32:00
 layout: post
 categories:
-description: '"There is a fine line between knowing your self-worth, and defending an
-  insecurity of your assumed strengths."'
-image: "/uploads/img-8523.jpg"
+description: '"There is a fine line between knowing your self-worth, and defending an insecurity of your assumed strengths."'
+image: /uploads/img-8523.jpg
 ---
 
-​![](/uploads/versions/img-7294---x----3888-2592x---.jpg)
-
-&nbsp;
 
 A reoccurring theme that has been appearing the last few weeks for me, and those that have had sessions with me, has been the topic of strength vs. weaknesses when trying to grow, change, and improve.
 
@@ -27,9 +23,10 @@ What does a person sound, behave, or feel like when they focus on their negative
 **Focusing on our strengths for real improvement requires several things:**
 
 1. It requires honesty with oneself. Humility is a praised trait and it can be difficult for one to acknowledge their strengths without feeling like they are conceited. There is a fine line between knowing your self-worth, and defending an insecurity of your assumed strengths.
+   <br>&nbsp;
 2. Acknowledging yourself and your strengths requires true appreciation of your abilities – this means to really see the value in what you are already good at – even if you feel like it is small or insignificant to your overall success. Every bit of your capabilities count and accumulates to make up your amazing self.
+   <br>&nbsp;
 3. Putting this realization into practice is what will actually allow you to understand and accept all this to be true. Some use positive affirmations, some write it down in a gratitude journal (which I highly recommend), others remind themselves by practicing their strengths everyday. Ultimately, you need to make a conscious choice of effort, commitment and understanding to erase old patterns and instill a new habit on celebrating and appreciating your strengths! This will require time, patience, persistence and perseverance – it is easy to fall back into our old ways and to overcome ourselves is the greatest obstacle. But remember your determination to do so is already a strength, and have an end goal in mind each time you improve!
-
 
 ### &nbsp;
 
