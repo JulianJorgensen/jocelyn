@@ -18,7 +18,7 @@ layout: page
 					<div class="button cta prev"><a href="{% include relative-src.html src=page.previous.url %}">{{ page.previous.title }} &raquo;</a></div>
 				{% endif %}
 			</div>
-
+{{ page.url | prepend: site.url }}
 			{% if site.disqus_shortname %}
 				<div id="disqus_thread"></div>
 				<script>
