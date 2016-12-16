@@ -11,13 +11,15 @@ google_maps_javascript_api_key:
 logo: /siteicon.png
 description: Jocelyn Lee blog
 author:
-  name:
-  email:
+  name: Jocelyn Lee
+  email: jocelyn@jocelynlee.ca
   twitter: # twitter username without the @ symbol
 social:
-  name: Frisco Template
+  name: Jocelyn Lee
   links:
-    - https://github.com/CloudCannon/frisco-jekyll-template
+    - http://jocelynlee.ca
+    - http://elevatesex.com
+    - http://julianjorgensen.com
 disqus_shortname: jocelynlee
 
 # -----
@@ -66,10 +68,7 @@ defaults:
 
 social_icons:
   - Facebook
-  - Google Plus
   - Instagram
-  - LinkedIn
-  - Pinterest
   - YouTube
   - Email
 
