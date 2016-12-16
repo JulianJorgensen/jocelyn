@@ -31,7 +31,8 @@
 		event.preventDefault();
 
 		$("html, body").animate({
-			scrollTop: $(this.hash).offset().top
+			scrollTop: ($(this.hash).offset().top - $('#mainHeader').outerHeight())
 		}, 500);
 	});
+
 })();

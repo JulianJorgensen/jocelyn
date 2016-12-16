@@ -44,7 +44,7 @@ header {
 		text-shadow: none;
 
 		a {
-			color: #333;
+			color: $brand-color;
 			@media #{$mid-point} {
 				&:hover {
 					border-bottom-color: rgba(80, 80, 80,.3);
@@ -166,13 +166,14 @@ blockquote:before {
 	text-align: center;
 }
 
-.learn-more {
+.read-on {
 	position: absolute;
 	left: 0;
 	bottom: 30px;
 	text-align: center;
 	font-size: 1.4em;
 	width: 100%;
+	z-index: 999;
 
 	a {
 		text-decoration: none;
