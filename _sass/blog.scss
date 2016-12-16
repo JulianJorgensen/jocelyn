@@ -29,9 +29,6 @@
 	}
 
 	.separator{
-		padding: 60px 0;
-		opacity: 0.5;
-		text-align: center;
 		&:last-child{
 			display: none;
 		}
@@ -155,10 +152,10 @@
 
 	@media #{$desktop} {
 		.prev {
-			float: left;
+			float: right;
 		}
 		.next {
-			float: right;
+			float: left;
 		}
 	}
 }
