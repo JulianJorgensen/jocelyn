@@ -27,12 +27,6 @@
 
 		}
 	}
-
-	.separator{
-		&:last-child{
-			display: none;
-		}
-	}
 }
 
 .blog-post {
@@ -108,7 +102,35 @@
 }
 
 .pagination {
+	position: relative;
 	text-align: center;
+	padding: 0 0 40px;
+
+	.button{
+		visibility: hidden;
+		&.visible{
+			visibility: visible;
+		}
+	}
+
+	@media #{$desktop} {
+		.newer-posts {
+			float: left;
+		}
+		.older-posts {
+			float: right;
+		}
+	}
+
+	.page_number{
+		position: absolute;
+		left: 50%;
+		margin-left: -100px;
+		width: 200px;
+		font-size: 1.4em;
+		line-height: 50px;
+		color: $brand-color;
+	}
 }
 
 .blog-filter {
@@ -158,14 +180,6 @@
 			float: left;
 		}
 	}
-}
-
-.pagination {
-	padding: 30px
-}
-
-.page_number{
-	padding: 0 20px;
 }
 
 #disqus_thread{

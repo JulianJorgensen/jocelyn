@@ -25,15 +25,17 @@ image: https://source.unsplash.com/MqJX_8EaStM/2000x1322?a=.png
 
 		{% if paginator.total_pages > 1 %}
 			<div class="pagination">
-				{% if paginator.previous_page %}
-					<a href="{{ site.baseurl }}{{ paginator.previous_page_path }}" class="previous btn">&larr; Newer posts</a>
-				{% endif %}
+				<div class="button newer-posts {% if paginator.previous_page %}visible{% endif %}">
+					<a href="{{ site.baseurl }}{{ paginator.previous_page_path }}">&larr; Newer posts</a>
+				</div>
 
 				<span class="page_number">Page <strong>{{ paginator.page }}</strong> of <strong>{{ paginator.total_pages }}</strong></span>
 
-				{% if paginator.next_page %}
-					<a href="{{ site.baseurl }}{{ paginator.next_page_path }}" class="next btn">Older posts &rarr;</a>
-				{% endif %}
+				<div class="button older-posts {% if paginator.next_page %}visible{% endif %}">
+					<a href="{{ site.baseurl }}{{ paginator.next_page_path }}">Older posts &rarr;</a>
+				</div>
+
+				<div class="clear"></div>
 			</div>
 		{% endif %}
 	</div>
