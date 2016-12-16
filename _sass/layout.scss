@@ -227,9 +227,21 @@ blockquote:before {
 
 #site-author{
 	background-color: black;
-	padding: 15px;
-	color: white;
+	padding: 20px;
+	color: #C5A963;
+	text-align: center;
+
+	svg{
+		display: inline-block;
+		position: relative;
+		margin-bottom: -5px;
+		width: 22px;
+		height: 20px;
+		&, path{
+			fill: #C5A963;
+		}
+	}
 	a{
-		color: white;
+		color: #C5A963;
 	}
 }
