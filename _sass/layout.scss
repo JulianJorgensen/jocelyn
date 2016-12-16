@@ -51,6 +51,10 @@ header {
 					border-bottom-width: 5px;
 				}
 			}
+
+			&.active {
+				border-bottom-color: $brand-color;
+			}
 		}
 
 		.dark-logo {
