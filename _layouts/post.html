@@ -10,6 +10,15 @@ layout: page
 		<div class="post-content">
 			{{ content }}
 
+			<div class="blog-navigation">
+				{% if page.next %}
+					<div class="button cta next"><a href="{% include relative-src.html src=page.next.url %}">&laquo; {{ page.next.title }}</a></div>
+				{% endif %}
+				{% if page.previous %}
+					<div class="button cta prev"><a href="{% include relative-src.html src=page.previous.url %}">{{ page.previous.title }} &raquo;</a></div>
+				{% endif %}
+			</div>
+
 			{% if site.disqus_shortname %}
 				<div id="disqus_thread"></div>
 				<script>
@@ -28,16 +37,6 @@ layout: page
 				</script>
 				<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
 			{% endif %}
-
-
-			<div class="blog-navigation">
-				{% if page.next %}
-					<div class="button cta next"><a href="{% include relative-src.html src=page.next.url %}">&laquo; {{ page.next.title }}</a></div>
-				{% endif %}
-				{% if page.previous %}
-					<div class="button cta prev"><a href="{% include relative-src.html src=page.previous.url %}">{{ page.previous.title }} &raquo;</a></div>
-				{% endif %}
-			</div>
 
 			<div class="separator">
 				<img src="/images/separator.png" />
