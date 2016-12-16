@@ -23,7 +23,7 @@ disqus_shortname: jocelynlee
 # -----
 # Build
 
-permalink: pretty
+permalink: /blog/:categories/:title/
 
 gems:
   - jekyll-sitemap
