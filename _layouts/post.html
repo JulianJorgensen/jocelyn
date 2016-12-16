@@ -1,7 +1,6 @@
 ---
 layout: page
 ---
-
 <section>
 	<div class="blog-post text-container">
 		<p class="editor-link"><a href="cloudcannon:collections/{{ page.path }}" class="btn"><strong>&#9998;</strong> Edit Post</a></p>
@@ -10,6 +9,13 @@ layout: page
 		<div class="post-content">
 			{{ content }}
 
+			{% include fb-cta.html %}
+
+			<div class="separator">
+				<img src="/images/separator.png" />
+			</div>
+
+			<h3 class="post-cta-header">More posts by Jocelyn</h3>
 			<div class="blog-navigation">
 				{% if page.next %}
 					<div class="button cta next"><a href="{% include relative-src.html src=page.next.url %}">&laquo; {{ page.next.title }}</a></div>
@@ -19,6 +25,11 @@ layout: page
 				{% endif %}
 			</div>
 
+			<div class="separator">
+				<img src="/images/separator.png" />
+			</div>
+
+			<h3 class="post-cta-header">Comment on this post</h3>
 			{% if site.disqus_shortname %}
 				<div id="disqus_thread"></div>
 				<script>

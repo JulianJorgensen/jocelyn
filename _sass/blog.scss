@@ -55,12 +55,6 @@
 		}
 	}
 
-	h2 {
-		text-align: left;
-		font-size: 2.6em;
-		margin: 0;
-	}
-
 	.post-details {
 		border-bottom: 1px solid #eee;
 		font-size: .9em;
@@ -182,6 +176,20 @@
 	}
 }
 
+.post-cta-header{
+	text-align: center;
+	font-size: 2em;
+	font-weight: 100;
+}
+
 #disqus_thread{
-	padding: 60px 0 0;
+}
+
+.facebook-cta-wrapper{
+	background-color: lighten($brand-color, 70%);
+	padding: 30px 0;
+	.facebook-cta{
+		margin: 0 auto;
+		width: 260px;
+	}
 }
