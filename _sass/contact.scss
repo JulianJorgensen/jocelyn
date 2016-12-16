@@ -29,10 +29,17 @@
 		.contact-details-social{
 			padding-left: 0;
 			margin-left: 0;
+			a{
+				text-decoration: none;
+			}
 			svg{
 				height: 80px;
 				width: 80px;
 				fill: $brand-color;
+				transition: fill 0.2s ease;
+				&:hover{
+					fill: lighten($brand-color, 50%);
+				}
 			}
 		}
 	}

@@ -52,35 +52,35 @@ footer {
 				}
 
 				&:hover svg {
-					fill: #fff;
+					fill: lighten($brand-color, 50%);
 				}
 
 				&.twitter-icon:hover svg {
-					fill: #55acee;
+					fill: lighten($brand-color, 50%);
 				}
 
 				&.google-plus-icon:hover svg {
-					fill: #db4437;
+					fill: lighten($brand-color, 50%);
 				}
 
 				&.youtube-icon:hover svg {
-					fill: #cd201f;
+					fill: lighten($brand-color, 50%);
 				}
 
 				&.instagram-icon:hover svg {
-					fill: #f167f5;
+					fill: lighten($brand-color, 50%);
 				}
 
 				&.linkedin-icon:hover svg {
-					fill: #0077b5;
+					fill: lighten($brand-color, 50%);
 				}
 
 				&.pinterest-icon:hover svg {
-					fill: #bd081c;
+					fill: lighten($brand-color, 50%);
 				}
 
 				&.rss-icon:hover svg {
-					fill: #f26522;
+					fill: lighten($brand-color, 50%);
 				}
 			}
 		}
