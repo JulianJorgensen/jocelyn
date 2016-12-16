@@ -115,4 +115,17 @@ footer {
 			margin-right: 20px;
 		}
 	}
+
+	.text{
+		font-size: 0.8em;
+		.cta.button{
+			margin-top: 10px !important;
+			a{
+				padding: 12px 30px;
+			}
+		}
+		p{
+			margin-bottom: 0;
+		}		
+	}
 }
