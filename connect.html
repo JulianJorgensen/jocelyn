@@ -21,20 +21,26 @@ image: https://source.unsplash.com/WNAO036c6FM/2000x1322?a=.png
 			<input type="text" name="_gotcha" style="display: none;">
 
 			<label for="name">Name</label>
-			<input type="text" name="name" id="name" placeholder="Enter your name...">
+			<input type="text" name="name" id="name" placeholder="I'm Jocelyn, who are you?" tabindex="1">
 
 			<label for="email">Email Address</label>
-			<input type="email" name="email" id="email" placeholder="Enter your email..." required>
+			<input type="email" name="email" id="email" placeholder="What's your email?" tabindex="2" required>
 
 			<label for="message">Message</label>
-			<textarea name="message" id="message" placeholder="Enter your message..."></textarea>
+			<textarea name="message" id="message" placeholder="How can I serve?" tabindex="3"></textarea>
 
-			<input type="submit" value="Send Message">
+			<input type="submit" value="Send Message" tabindex="4">
 		</form>
 
 		<div class="contact-details">
-			<h3>Email</h3>
-			<p class="editable"><a href="mailto:support@example.com">support@example.com</a></p>
+			<ul class="contact-details-social">
+				{% for link in site.data.footer.right_links %}
+					<a {% if link.new_window %}target="_blank"{% endif %} href="{% include relative-src.html src=link.link %}" {% if link.social_icon %}class="{{ link.social_icon | slugify }}-icon"{% endif %}>
+						{% if link.social_icon %}{% include social-icon.html icon=link.social_icon %}{% endif %}
+						{{ link.name }}
+					</a>
+				{% endfor %}
+			</ul>
 		</div>
 	</div>
 </section>

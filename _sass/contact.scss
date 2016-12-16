@@ -22,7 +22,18 @@
 	}
 
 	.contact-details {
+		text-align: center;
 		font-size: .9em;
 		margin-top: 60px;
+
+		.contact-details-social{
+			padding-left: 0;
+			margin-left: 0;
+			svg{
+				height: 80px;
+				width: 80px;
+				fill: $brand-color;
+			}
+		}
 	}
 }
