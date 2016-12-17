@@ -1,5 +1,5 @@
 footer {
-	font-size: 1em;
+	font-size: 0.8em;
 	position: relative;
 	background: $brand-color;
 	color: #fff;
@@ -11,7 +11,7 @@ footer {
 
 	a {
 		text-decoration: none;
-		padding: 0 10px 0 0;
+		padding: 0 25px 0 0;
 
 		&:hover {
 			color: #fff;
@@ -19,6 +19,7 @@ footer {
 	}
 
 	ul {
+		font-family: "Rubik", sans-serif;
 		padding: 0;
 		margin: 0;
 
@@ -35,11 +36,10 @@ footer {
 
 		li {
 			list-style: none;
-			margin: 30px auto;
+			margin: 15px auto;
 			display: inline-block;
 
 			a {
-
 				&:hover {
 					text-decoration: none;
 				}

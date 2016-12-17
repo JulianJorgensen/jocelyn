@@ -1,9 +1,9 @@
 left_links:
-  - name: Blog
+  - name: BLOG
     link: /blog/
-  - name: My Journey
+  - name: MY JOURNEY
     link: /my-journey/
-  - name: Connect
+  - name: CONNECT
     link: /connect/
 right_links:
   - name:
