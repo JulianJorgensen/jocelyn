@@ -6,7 +6,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<meta name="generator" content="Jekyll v{{ jekyll.version }}">
 
-		<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lato:300, 500|Rubik:300,400, 700">
+		<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lato:300, 500|Rubik:300, 400, 700">
 		<link rel="stylesheet" href="{{ site.baseurl }}/css/screen.css">
 		<link rel="apple-touch-icon" href="{{ site.baseurl }}/apple-touch-icon.png">
 		<link rel="icon" type="image/png" href="{{ site.baseurl }}/touch-icon.png" sizes="192x192">
@@ -41,12 +41,7 @@
 
 		<header id="mainHeader">
 			<div class="container">
-				<div class="company-name">
-					<a href="{{ site.baseurl }}/">
-						<span class="dark-logo"><img width="104" height="38" src="{{ site.baseurl }}/images/logo/dark.svg" alt="dark frisco logo"></span>
-						<span class="light-logo"><img width="104" height="38" src="{{ site.baseurl }}/images/logo/light.svg" alt="light frisco logo"></span>
-					</a>
-				</div>
+				<a href="{{ site.baseurl }}/" class="site-logo {% if page.url == '/' %}active{% endif %}">{% include jocelyn-lee-logo.svg %}</a>
 				{% include navigation.html %}
 				<p class="editor-link"><a style="display:inline;" href="cloudcannon:collections/_data/navigation.yml" class="btn"><strong>&#9998;</strong> Edit navigation</a></p>
 			</div>

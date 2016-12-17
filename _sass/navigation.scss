@@ -21,21 +21,24 @@ nav {
 	font-size: 1.2em;
 	width: 100%;
 	position: relative;
-	top: -7px;
+	top: -14px;
 	text-shadow: none;
 	font-weight: 300;
 
 	@media #{$mid-point} {
-		padding: 0 20px;
+		padding: 0;
 		display: inline;
 	}
 
-
 	a {
 		margin: 0 3px;
-		padding: 14px 10px;
+		padding: 12px 10px;
 		border: 0;
 		display: none;
+
+		&:hover{
+			color: white;
+		}
 
 		@media #{$mid-point} {
 			display: inline;
@@ -64,7 +67,8 @@ nav {
 	}
 
 	a.active {
-		border-bottom: 5px solid rgba(255, 255, 255, 0.8);
+		border-bottom: 3px solid rgba(255, 255, 255, 1);
+		color: white;
 	}
 
 }

@@ -26,7 +26,7 @@ section {
 
 header {
 	color: #fff;
-	padding: 15px 0;
+	padding: 5px 0;
 	position: fixed;
 	width: 100%;
 	z-index: 9999;
@@ -43,12 +43,12 @@ header {
 		transition: background-color 0.2s ease;
 		text-shadow: none;
 
-		a {
+		nav a {
 			color: $brand-color;
 			@media #{$mid-point} {
 				&:hover {
 					border-bottom-color: rgba(80, 80, 80,.3);
-					border-bottom-width: 5px;
+					border-bottom-width: 3px;
 				}
 			}
 
@@ -57,12 +57,33 @@ header {
 			}
 		}
 
-		.dark-logo {
-			display: inline;
+		.site-logo{
+			&, &:hover, &.active{
+				&, path{
+					fill: $brand-color;
+				}
+			}
 		}
+	}
 
-		.light-logo {
-			display: none;
+	.site-logo{
+		display: inline-block;
+		svg{
+			width: 78px;
+			height: 43px;
+			-ms-transform: rotate(-90deg); /* IE 9 */
+	    -webkit-transform: rotate(-90deg); /* Chrome, Safari, Opera */
+	    transform: rotate(-90deg);
+			&, path{
+				fill: rgba(255,255,255,.8);
+			}
+		}
+		&:hover, &.active{
+			svg{
+				&, path{
+					fill: white;
+				}
+			}
 		}
 	}
 
@@ -83,16 +104,6 @@ header {
 
 		&:hover {
 			text-decoration: none;
-		}
-	}
-
-	.company-name {
-		font-size: 1.7em;
-		display: inline-block;
-
-		img {
-			height: 30px;
-			width: auto;
 		}
 	}
 }
