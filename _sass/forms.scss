@@ -1,7 +1,6 @@
 .button a, input[type=submit] {
 	color: $brand-color;
-	font-family: 'Rubik', sans-serif;
-	font-weight: bold;
+	font-weight: 700;
 	text-decoration: none;
 	border: 2px solid $brand-color;
 	transition: .2s ease-in-out;
@@ -51,14 +50,15 @@ textarea {
 }
 
 label {
-	margin: 30px 0 5px 0;
+	font-size: 1.2em;
+	margin: 30px 0 8px 0;
 	color: $brand-color;
 	font-weight: bold;
 }
 
 input, textarea {
 	padding: 10px;
-	font-size: 1em;
+	font-size: 1.2em;
 }
 
 input, textarea {
