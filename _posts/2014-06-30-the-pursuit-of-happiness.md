@@ -23,7 +23,7 @@ This leads to my proposal of a new perspective - changing our ideal human state 
 
 # &nbsp;
 
-# **Happiness VS. Peace -What's the Difference?**
+## **Happiness VS. Peace -What's the Difference?**
 
 The most basic definition, which does not encompass the entirety of what both mean, on Dictionary.com is:
 
