@@ -6,6 +6,9 @@
 
 .text-container {
 	max-width: 750px;
+	@media #{$large} {
+		max-width: 900px;
+	}
 }
 
 .container {
@@ -32,6 +35,10 @@ header {
 	z-index: 9999;
 	line-height: 0;
 
+	@media #{$large} {
+		padding: 20px 0;
+	}
+
 	.container {
 		line-height: 0;
 	}
@@ -49,6 +56,11 @@ header {
 				&:hover {
 					border-bottom-color: rgba(80, 80, 80,.3);
 					border-bottom-width: 3px;
+				}
+			}
+			@media #{$large} {
+				&:hover {
+					border-bottom-width: 5px;
 				}
 			}
 
@@ -76,6 +88,11 @@ header {
 	    transform: rotate(-90deg);
 			&, path{
 				fill: rgba(255,255,255,.8);
+			}
+
+			@media #{$large} {
+				width: 100px;
+				height: 55px;
 			}
 		}
 		&:hover, &.active{

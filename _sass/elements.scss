@@ -9,6 +9,9 @@ html, body {
 
 body {
 	font-family: 'Lato', sans-serif;
+	@media #{$large} {
+		font-size: 22px;
+	}
 }
 
 a {
@@ -37,10 +40,13 @@ h1 {
 
 h2 {
 	font-weight: 700;
-	font-size: 2em;
+	font-size: 1.6em;
 	margin: 0 0 10px 0;
 	line-height: 1.2em;
 	color: $brand-color;
+	@media #{$mid-point} {
+		font-size: 2em;
+	}
 }
 
 h3 {
@@ -83,11 +89,17 @@ p{
 }
 
 .separator{
-	padding: 60px 0;
+	padding: 20px 0;
 	opacity: 0.5;
 	text-align: center;
 	&:last-child{
-		// display: none;
+		display: none;
+	}
+	@media #{$mid-point} {
+		padding: 60px 0;
+		&:last-child{
+			display: block;
+		}
 	}
 }
 

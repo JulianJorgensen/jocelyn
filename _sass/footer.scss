@@ -1,12 +1,21 @@
 footer {
-	font-size: 0.8em;
+	padding: 0 25px;
+	font-size: 0.8rem;
 	position: relative;
 	background: $brand-color;
 	color: #fff;
 
+	@media #{$large} {
+		font-size: 1.4rem;
+	}
+
 	&,
 	a {
 		color: #fff;
+	}
+
+	li:last-child a{
+		padding-right: 0;
 	}
 
 	a {
@@ -48,6 +57,11 @@ footer {
 					vertical-align: middle;
 					width: 30px;
 					height: 30px;
+
+					@media #{$large} {
+						width: 3rem;
+						height: 3rem;
+					}
 				}
 
 				&:hover svg {
