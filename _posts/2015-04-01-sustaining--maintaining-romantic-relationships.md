@@ -1,16 +1,18 @@
 ---
 title: 'Sustaining & Maintaining Romantic Relationships'
 layout: post
-date: 2000-01-01 00:00:00
-description:
+date: 2015-04-02 00:00:00
+description: 'There are many ways to be engaged in a loving relationship, there are certain aspects and qualities that need to be in place in order for a loving relationship to be healthy.'
 categories:
+  - Spirituality
+  - Sexuality
 image: /uploads/whatsapp-image-2016-08-22-at-11-14-45-am.jpeg
 ---
 
 
 It is not always clear on how to sustain and maintain a loving union, there are so many dated paradigms, beliefs, expectations and fears in this part of our life that often, people just settle with an idea of what a loving relationship is instead of trying to create and experience a loving relationship.
 
-There are many ways to be engaged in a loving relationship, but I personally feel there are certain aspects and qualities that need to be in place in order for a loving relationship to be healthy. So below are brief explanations of my thoughts and perspectives on a loving relationship around the idea of honesty, sustenance and maintenance in a relationship. Each topic could be a book on its own!
+There are many ways to be engaged in a loving relationship, there are certain aspects and qualities that need to be in place in order for a loving relationship to be healthy. So below are brief explanations of my thoughts and perspectives on a loving relationship around the idea of honesty, sustenance and maintenance in a relationship. Each topic could be a book on its own!
 
 Let what resonates you encourage and support you, and let what rubs you the wrong way be a moment to consider for yourself why it makes you feel that way. Perhaps it will solidify something that you’ve felt or it may change something that you believed.
 
@@ -24,7 +26,7 @@ Too often, individuals will lie to themselves about being happy and stay with th
 
 These reasons do not have a loving foundation to it, they are that layer of icing used to fill in cracked concrete; it will melt and leave a mess eventually or you’ll be out of icing to use. Sugar coating does nobody any good, not the person who is thinking these thoughts, nor the person oblivious to it.
 
-When you are honest, you give yourself and the other person a chance to develop trust, and an opportunity for them to choose to want to overcome obstacles with you; to nurture and grow your relationship and love for one another. For you see, even if one is destined to be together, we all make a conscious choice to be together every second of everyday. For at any moment it could come to an end; from a choice to leave to a tragic accident – the other person could just not be there anymore. Would you want to spend the time you do have together in a lie, or holding thoughts and feelings in? Would it not be worth it to put everything on the line that holds you two together and move through life together embracing all that comes with the person you love?... it is a question for you to answer.
+When you are honest, you give yourself and the other person a chance to develop trust, and an opportunity for them to choose to want to overcome obstacles with you; to nurture and grow your relationship and love for one another. For you see, even if one is destined to be together, we all make a conscious choice to be together every second of everyday. For at any moment it could come to an end; from a choice to leave to a tragic accident – the other person could just not be there anymore. Would you want to spend the time you do have together in a lie, or holding thoughts and feelings in? Would it not be worth it to put everything on the line that holds you two together and move through life together embracing all that comes with the person you love?… it is a question for you to answer.
 
 ### &nbsp;
 
