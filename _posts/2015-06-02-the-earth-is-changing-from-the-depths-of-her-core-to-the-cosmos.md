@@ -1,14 +1,14 @@
 ---
 title: 'The Earth is Changing: From the Depths of Her Core to the Cosmos'
 layout: post
-date: 2000-01-01 00:00:00
+date: 2015-06-03 00:00:00
 description: '“The world is changed, I feel it in the water, I feel it in the earth. I smell it in the air.“ - Galadriel, Lord of the Rings'
 categories:
 image: /uploads/fe0c30-07e0c683d531478ca90a9bab69a596b3.jpg
 ---
 
 
-Humanity is unfolding itself right now, revealing the vast potential that people have as beings of Earth. The potential for great harm; the potential for great evolution. Have you noticed the profound changes occurring right now? ... not just the ones meant to cause fear of our potential - but the change that reveals to us our higher calling and evolutionary path.
+Humanity is unfolding itself right now, revealing the vast potential that people have as beings of Earth. The potential for great harm; the potential for great evolution. Have you noticed the profound changes occurring right now? … not just the ones meant to cause fear of our potential - but the change that reveals to us our higher calling and evolutionary path.
 
 I am constantly in awe of all the worldly events that are emerging in my lifetime, I find it challenging to not view these events as the process for something bigger and better. Many would disagree; they point to the notions of viral public beheadings, the inevitable demise of humanity by nature, the financial system failing us, the education system crumbling, or that we still are looking out for ourselves and not the good of all. To many, we are stagnant, regressing and un-evolved.
 
@@ -28,11 +28,7 @@ For a moment, think about all the amazing things occurring in the world, made by
   <br>&nbsp;
 * On a more cosmic level, our Earth is also evolving, as you can feel her shifting her body and rising her tides - she is changing. And she wants us to come for the ride, but she cannot protect us from our own choices. Our galaxy, the Milky Way, is merging with Andromeda (though it is not for a very long time) and this is just a reminder that the Earth itself is not stagnant. It is ever evolving. As our planetary position shifts our whole world will too, it is inevitable. If this is hard to believe - the moon, the closest object in space to us, affects our tides and moods when it moves around Earth. Geomagnetic storms, which is a worldwide disturbance of Earth’s magnetic field is linked to the sun’s solar activities. We are much more affected by the outside cosmos than we are aware of.
 
-### &nbsp;
-
-The Earth is changing. It is changed.
-
-&nbsp;
+***The Earth is changing. It is changed.***
 
 Of course even in these moments of human triumph - it is not perfect. That is not what this article is meant to imply. It is meant simply to awaken within you a hope, a faith and a determination to be a part of life’s creation process - to find what it is you can do to be the change that betters the world. As no one has the absolute answer, we are all in the process finding what it is that we can do to make it better and that requires us to find our calling and connection to life. From redefining the way you view femininity to wanting to be the first to make extraterrestrial contact - all of these beautiful actions are propelling humanity forward and upwards in our evolution.
 
