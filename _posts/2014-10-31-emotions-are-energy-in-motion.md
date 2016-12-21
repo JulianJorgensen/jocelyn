@@ -5,7 +5,7 @@ layout: post
 categories:
   - Spirituality
 description: 'Since our emotions are connected to our thoughts and body, then in the conscious act of breathing, we can breathe out our emotional and mental toxins as well!'
-image: /uploads/fe0c30-23b7fe12fa3d414a83cedb291025bded.jpg
+image: /uploads/fe0c30-f2f04415b738491495008a1b49473902.jpg
 ---
 
 
@@ -13,7 +13,7 @@ During the colder seasons of hibernation, it is easy to cuddle up into a dormant
 <br>
 <br>In sunny and warm weather it is easier to brush off negative experiences, situations and people as we’re reminded to embrace the weather and have a good time outside! But when the shift comes to the cold (especially here in Vancouver, B.C.) we have less energy to do so and we’re mostly stuck inside. Often we’ll just sit with our low-vibrational feelings, synchronizing with the weather outside. Thus, giving us an excuse to do so! And we've associated it with being normal – the “winter blues.” So let us break this limiting normalcy and let’s focus on keeping our emotion as “energy in motion” so that we allow our emotional experiences to come full circle. In doing so we can maintain balance in these darker days.
 
-### &nbsp;
+###
 
 ## Experience, Express & Let Go:
 
@@ -27,21 +27,21 @@ Whatever negative experience we go through, in order to truly “get over it” 
 <br>
 <br>There are several things you can do to help keep your energy in motion…
 
-### &nbsp;
+###
 
 ## Breathe Consciously, Fully and Deeply:
 
-The way we breathe is directly related to our emotions/thoughts. We see this with anxiety, our heart rate rise and our breathing becomes short and quick. &nbsp;So what we can do to aid in letting our emotional changes come full circle is to simply breathe consciously, fully and deeply. Breathing detoxifies our body, exhaling about 70% of our body’s toxins! Since our emotions are connected to our thoughts and body, then in the conscious act of breathing, we can breathe out our emotional and mental toxins as well!
+The way we breathe is directly related to our emotions/thoughts. We see this with anxiety, our heart rate rise and our breathing becomes short and quick.  So what we can do to aid in letting our emotional changes come full circle is to simply breathe consciously, fully and deeply. Breathing detoxifies our body, exhaling about 70% of our body’s toxins! Since our emotions are connected to our thoughts and body, then in the conscious act of breathing, we can breathe out our emotional and mental toxins as well!
 <br>
 <br>All you have to do is focus on taking the time to fill your whole body with air – from the belly to the top of your lungs and exhaling all the air out fully. To ensure you do this, you can breathe through your nose and exhale our of your mouth. Do this at the very least 3-5 times – inhaling and exhaling at a slow and calm pace and you will notice very quickly a drastic change in your ability to process your emotions and thoughts with ease all while accomplishing the task of letting it go, by letting it flow. If you re-train yourself to be a conscious full and deep breather, you’ll be able to go through the motions with more ease and grace each time a difficulty arises.
 
-### &nbsp;
+###
 
 ## Literally, Be in Motion:
 
 When engaged in physical expression (whether dance, walking, biking, yoga, running, etc.) it engages our mind and emotions together as well, because it requires us to be present in the activity. In doing so, we can work through our emotional stagnation by literally being in motion! When you’re feeling low, go for a walk outside, you’ll notice in conversation with yourself or with others that you can process your thoughts and emotions much better. You’re getting that stagnant energy in your head and heart to be release through physical means – that energy is being “burned” so to speak. Each breath exhaled, you lighten your body. And of course if we step outside to be active the fresh air can bring fresh perspectives to our situation. When we physically feel better we are more willing and capable to address our emotional and mental issues.
 
-### &nbsp;
+###
 
 ## Express Yourself Through a Comfortable Medium:
 
