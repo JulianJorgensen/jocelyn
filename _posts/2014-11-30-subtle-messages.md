@@ -1,6 +1,6 @@
 ---
 title: Subtle Messages
-date: 2016-10-17 00:00:00
+date: 2014-12-01 00:00:00
 categories:
   - Spirituality
 layout: post
@@ -11,15 +11,15 @@ image: /uploads/fe0c30-9e758e10d8304287b6df0173058a6219.jpg
 
 ​We are quite primed to live life to the extreme and very intensely, pushing our limits to the fullest. We go to great lengths to accomplish transient tasks and goals at the expense of our spiritual, mental, emotional and physical health and forget the subtle things that really matter and can make all the difference on our sanity and health. So, I want to highlight the hidden power of the subtle; the subtle messages that play a significant role in our healing, personal growth and awareness.
 
-### &nbsp;
+###
 
 ## BIGGER is Better:
 
 A common perspective about life in general is that we must go through suffering or have intense experiences (i.e. shock, adrenaline, rude awakenings) in order to see our lives as they truly are and where change is required. And, yes in many moments this important wake-up call really get our core values shaken up to be re-evaluated. However, there are also the subtle occurrences in life that often get overlooked, ignored, dismissed or get negatively compared to the intense moments in life. I call these subtle aspects “the mundane” – moments in our life we take for granted and have become so accustomed to that we forget that growth and change here is just as necessary and significant as the wake-up calls of life.
 
-An example of this would be a recent experience regarding my desire to receive great change in my life – through a dramatic theatrical experience that would allow me to realize the drastic changes I needed to make. I thought I needed (and in many ways wanted) to face major difficulties and obstacles in order to receive the knowledge of change. We make this intention all the time whether it is surrounding career (i.e. the belief of having to “pay-your-dues”), love (i.e. meeting someone new in order to leave a relationship), family (i.e. sacrifice without loving reciprocation), spirituality (i.e. life-threatening sickness in order to believe in something more), or physical appearance (i.e. fainting from pushing our bodies beyond its limit), and etc. We start to believe this is normal (looking and waiting for the proverbial billboard sized signs to tell us the lessons of life) and in many ways we believe it is necessary for us to evolve to our full potential. This may be true, if you haven't learn to listen to the subtle messages.&nbsp;
+An example of this would be a recent experience regarding my desire to receive great change in my life – through a dramatic theatrical experience that would allow me to realize the drastic changes I needed to make. I thought I needed (and in many ways wanted) to face major difficulties and obstacles in order to receive the knowledge of change. We make this intention all the time whether it is surrounding career (i.e. the belief of having to “pay-your-dues”), love (i.e. meeting someone new in order to leave a relationship), family (i.e. sacrifice without loving reciprocation), spirituality (i.e. life-threatening sickness in order to believe in something more), or physical appearance (i.e. fainting from pushing our bodies beyond its limit), and etc. We start to believe this is normal (looking and waiting for the proverbial billboard sized signs to tell us the lessons of life) and in many ways we believe it is necessary for us to evolve to our full potential. This may be true, if you haven't learn to listen to the subtle messages.
 
-### &nbsp;
+###
 
 ## Why Did I Let it Get This Far?
 
@@ -29,7 +29,7 @@ Sounds so simple, yet, why did I feel like I had to go through an extreme situat
 
 The “subtle” or “mundane” is where we can also make powerful changes that affect our true and real everyday lives and it can prevent these dramatic and intense moments that often turn our whole world upside down. If you begin to shift your awareness and energy to the subtle issues, you can gain great traction everyday that accumulates to something grand. There shouldn’t be any extreme situation that we had to endure to be regretful of, but we should ask ourselves, do we need to let it get that far? And the answer is, we don’t – start by bringing your awareness and efforts into the subtle and mundane moments of your life – breathe life back into them and you won’t have to catch your breath as much.
 
-### &nbsp;
+###
 
 ## Resuscitate Your Life:
 
@@ -42,4 +42,4 @@ Breathing life back into the mundane literally requires you to breathe. When we 
 * Pause for a few seconds and observe the space here – are there any emotions, thoughts, sensations rising?
 * Do this for at the very least for 5 minutes a day for a couple weeks and reflect on what you experience, what little changes or realizations that occur.
 
-Breathe in life, breath out excess.&nbsp;
+Breathe in life, breath out excess.
