@@ -3,6 +3,7 @@ title: Over Coming Your Fears
 date: 2014-10-01 00:00:00
 layout: post
 categories:
+  - Spirituality
 description: 'It is important to note that “I feel afraid,” is very different from “I am afraid.”'
 image: /uploads/fe0c30-821ed7588c1941e9b144e5b09c1ba7e4.jpg
 ---
@@ -18,7 +19,7 @@ For many of us our safety and security needs are met and a lot of our fears in t
 <br>
 <br>Our mind and its intentions, thoughts and beliefs are directly connected to our emotional, physical and spiritual health (and vice versa). When you think of something you fear it is reflected in emotional distress and impulsive behaviour, or physical symptoms of sweat and increased heart rates; it is all connected. If we truly want to live our lives to the fullest, with complete joy, balance and abundance – we have to begin to address our fears one at a time…
 
-## &nbsp;
+##
 
 ## Fear is a Pattern:
 
@@ -26,15 +27,15 @@ I know fear very well, I am aware of the shades it has revealed within myself. F
 <br>
 <br>For me, it begins with self-doubt. I notice I begin to think of obstacles more than solutions, “Is there enough space? Are you going to be able to get people to come? Can you even do this, will it even work? How will you have time? Other things are more important!” I had to make a choice, and instinctively how I used to deal with fear was to ignore it, not because I believed it was irrational but because I was too afraid to even let those ideas rise to the surface to be understood and released. It made perfect sense to push those ideas back as that is how you can “stop thinking like that.” However, I have made this mistake many times and now I am aware now of the consequences of ignoring fear.
 
-## &nbsp;
+##
 
 ## Turning a Blind Eye:
 
 When you ignore fear by turning a blind eye you have eliminated clarity, and in turn you may make choices and actions that do not positively contribute to your life and reflect your joy. You have chosen to not look a certain direction in fear of what the possibilities are – fearing that the possibility may only be negative, you rationalize it is better to never walk down that path. Now, this may be true regarding real life-threatening events, but when it comes to the fears we create within ourselves I promise you it is better to face them or you will never rid yourself of that shadow. It is important to note, however, that for success it is imperative that the choice to face them is made by you and that you have support in this process. It is not an easy journey but a necessary one in order to meet our full potential and happiness.
 
-By choosing to ignore it, the fear can manifest various consequences. For some, they may never even take the first steps to what they desire because of fear. For others the fear spreads to other aspects of life: they may become cynical about the world, hopeless about themselves, anxiety ridden in every action or thought – unknown to how these fears began in the first place or that they exist in general, because they ignored them long ago or so many times – they just believe that is how they are.&nbsp; Applying this to my situation: I would be able to still move forward with my idea, “blissfully ignorant” to my fear, but I know that I would continue to have hesitancy, doubt, confusion regarding each step I took, creeping in from the shadows. Similar to the feeling of knowing someone is watching you – because ultimately I was inherently fearful of all of it. And so, I had to do something about it.
+By choosing to ignore it, the fear can manifest various consequences. For some, they may never even take the first steps to what they desire because of fear. For others the fear spreads to other aspects of life: they may become cynical about the world, hopeless about themselves, anxiety ridden in every action or thought – unknown to how these fears began in the first place or that they exist in general, because they ignored them long ago or so many times – they just believe that is how they are.  Applying this to my situation: I would be able to still move forward with my idea, “blissfully ignorant” to my fear, but I know that I would continue to have hesitancy, doubt, confusion regarding each step I took, creeping in from the shadows. Similar to the feeling of knowing someone is watching you – because ultimately I was inherently fearful of all of it. And so, I had to do something about it.
 
-## &nbsp;
+##
 
 ## Speak Your Truth:
 
