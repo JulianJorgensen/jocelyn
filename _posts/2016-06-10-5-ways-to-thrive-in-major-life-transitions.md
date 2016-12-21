@@ -8,6 +8,7 @@ categories:
 image: /uploads/june-2016.jpg
 ---
 
+
 Sometimes, you will be punch blind-sided in the face by an unknown force that will knock you off your feet and on to your backside. It doesn’t matter what you may have known before, but after one of these, it is without a doubt that when you get back up your perspective and life as you know it will never be the same.&nbsp;
 
 In the last two months, I’ve been dealt first hand, a major deck of intense change: the end of one relationship and the beginning of another, moving out of an apartment in the city and moving by ferry to a cabin in the woods, my first real experience of a dear friend passing away suddenly, a new work position and re-evaluation of my business, and new perceptions of my identity and purpose in life. Through all this, I can confidently say that I am thriving during this time, and these experiences have taught me a thing or two.
@@ -19,6 +20,8 @@ However, how you choose to respond to life is your greatest gift and power. It i
 Whatever you choose, some will help you thrive and rise during these transitions, and some will cause you more discomfort and may even drag you into suffering.&nbsp;
 
 So here are 5 ways to thrive in major life transitions:
+
+&nbsp;
 
 1. **Take everything in strides, be present and go with the flow!**
    <br>
