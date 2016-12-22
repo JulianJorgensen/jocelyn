@@ -1,9 +1,10 @@
 ---
 title: The Evolution of Information to Wisdom
 layout: post
-date: 2000-01-01 00:00:00
-description:
+date: 2015-11-02 00:00:00
+description: 'We are well passed the information age with the collective consciousness readily available at our finger tips, easily tapped, clicked and downloaded.'
 categories:
+  - Spirituality
 image: /uploads/screen-shot-2015-11-02-at-3-34-21-pm.png
 ---
 
@@ -14,7 +15,7 @@ We are well passed the information age with the collective consciousness readily
 <br>
 <br>And so I would like to lightly share my perspectives of what I think are the differences between information, knowledge and wisdom - and what the truths and realities of providing guidance is like.
 
-## &nbsp;
+##
 
 ## Information - “Google It.”
 
@@ -24,7 +25,7 @@ Loosely stated, information is then readily available to all and one does not ha
 
 This leads to the transformation of information into knowledge.
 
-## &nbsp;
+##
 
 ## Knowledge - “What do you know?”
 
@@ -38,7 +39,7 @@ Knowledge is power, as we have all heard. We respect experts who have the abilit
 <br>
 <br>So then what is wisdom?
 
-## &nbsp;
+##
 
 ## Wisdom - “Patience is a Virtue.”
 
@@ -48,6 +49,6 @@ Wisdom to me is the transcendence of knowledge into an understanding that is not
 <br>
 <br>A more simple example would be knowing when to keep silent and simply listen, to not sway the discovery of another because you see it one way. Again as inspired by shaman Jhaimy, it is not about what you know (and whether the other person is aware of this knowing or not in themselves), it is about how you turn your knowledge into a wise expression that will help guide the other into their own wisdom. Not an easy task to do I can assure you, but it is the wise thing to do.
 <br>
-<br>Wisdom, often associated with growing old, is something one acquires at the end of a life to be passed on to the timeless future. It is the essences of life that we hold dear to us that we know to be true. What better expression can we leave with others than the wisdom we have cultivated with deep reverence for life? This is where I strive to be with my guidance. Though I am young and ripe with vitality I challenge myself to be a great healer, teacher and empowerment coach through nurtured wisdom, as I see this being the best I can offer to all who cross my path.&nbsp;
+<br>Wisdom, often associated with growing old, is something one acquires at the end of a life to be passed on to the timeless future. It is the essences of life that we hold dear to us that we know to be true. What better expression can we leave with others than the wisdom we have cultivated with deep reverence for life? This is where I strive to be with my guidance. Though I am young and ripe with vitality I challenge myself to be a great healer, teacher and empowerment coach through nurtured wisdom, as I see this being the best I can offer to all who cross my path.
 <br>
 <br>You have information readily available around you, knowledge deep within you wanting to guide you and help you, wisdom that is taking shape and form - become your own healer, teacher and coach. I believe in you and am there to help you in this being.
