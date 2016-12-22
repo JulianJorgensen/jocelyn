@@ -1,9 +1,10 @@
 ---
 title: Embodying Intentions
-date: 2000-01-01 00:00:00
+date: 2015-05-01 00:00:00
 layout: post
-description:
+description: 'I needed to feel it in my body, my wants needed to be felt in my muscles, my bones, my blood, and in my cells. The body is what brings the intangible into the tangible, I learned to honour the body as an integral tool to my intentions and my spiritual journey.'
 categories:
+  - Spirituality
 image: /uploads/fe0c30-5d3dacfac1554cefaa3f75b9ee01d97a.jpg
 ---
 
@@ -14,7 +15,7 @@ How often have you heard, “the mind is everything,” your thoughts is what cr
 <br>
 <br>In the last part of the soul retrieval, you ask your Higher Self to come down into your body, to anchor this energy of your most beloved version of yourself. I had not seen my Higher Self before, I had never asked to; during sessions for others I ask their Higher Selves to come through - and so I was moved by the image of myself. I looked like an ancient Chinese noble/princess sitting in the cosmic stars, my hair was pulled back in a fashion that allowed my face to breathe, I had a slight smile on my face, my robes took the shape of a sphere, where white silk with cherry blossom embroidery all over. The robes were floating and flowing as if it were a life of its own, she was the most beautiful version of myself.
 <br>
-<br>I was asked to draw her down through my crown chakra and into my body, so that she would be anchored in this body, on this Earth to help me guide my way with more clarity, confidence and love. So in my mind’s eye and heart I imagined her floating down, through my crown chakra which was opened into a lotus, and then residing in my heart, filling it with golden light... I thought to myself, that was done and I felt good about it ... but my healer informed me that it was not done, and that I needed to really pull her down with the silver cord that connected us; I thought to myself, “I thought I did.”
+<br>I was asked to draw her down through my crown chakra and into my body, so that she would be anchored in this body, on this Earth to help me guide my way with more clarity, confidence and love. So in my mind’s eye and heart I imagined her floating down, through my crown chakra which was opened into a lotus, and then residing in my heart, filling it with golden light… I thought to myself, that was done and I felt good about it … but my healer informed me that it was not done, and that I needed to really pull her down with the silver cord that connected us; I thought to myself, “I thought I did.”
 <br>
 <br>My healer said that I needed to convince her almost, to really connect with my Higher Self and communicate with her my real deep and core desire to have her integrate with my being. It was then my healer said something that clicked, “Say to her that you are ready for the changes that she will bring.” I began to understand the missing piece to my intention.
 <br>
