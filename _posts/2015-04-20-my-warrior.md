@@ -1,10 +1,11 @@
 ---
 title: '"My Warrior"'
-date: 2000-01-01 00:00:00
+date: 2015-04-21 00:00:00
 layout: post
 description:
 categories:
   - Spirituality
+  - Artistry
 image: /uploads/fe0c30-e5016c21221c4a6a9597337a12059146.jpg
 ---
 
