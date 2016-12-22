@@ -15,7 +15,7 @@ We are well passed the information age with the collective consciousness readily
 <br>
 <br>And so I would like to lightly share my perspectives of what I think are the differences between information, knowledge and wisdom - and what the truths and realities of providing guidance is like.
 
-##
+## &nbsp;
 
 ## Information - “Google It.”
 
@@ -25,7 +25,7 @@ Loosely stated, information is then readily available to all and one does not ha
 
 This leads to the transformation of information into knowledge.
 
-##
+&nbsp;
 
 ## Knowledge - “What do you know?”
 
@@ -39,7 +39,7 @@ Knowledge is power, as we have all heard. We respect experts who have the abilit
 <br>
 <br>So then what is wisdom?
 
-##
+## &nbsp;
 
 ## Wisdom - “Patience is a Virtue.”
 
