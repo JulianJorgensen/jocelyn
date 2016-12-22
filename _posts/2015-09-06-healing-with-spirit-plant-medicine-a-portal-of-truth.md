@@ -1,15 +1,13 @@
 ---
 title: 'Healing with Spirit Plant Medicine: A Portal of Truth'
 layout: post
-date: 2000-01-01 00:00:00
-description:
+date: 2015-09-07 00:00:00
+description: 'If we allow ourselves to experience the radiating joyful truth that plant medicine can share with us, our ability to process and heal from our pain, traumas and sufferings can be experienced with that much more light.'
 categories:
+  - Spirituality
 image: /uploads/screen-shot-2016-12-07-at-11-21-42-pm.png
 ---
 
-
-*[This was written with the intention to be an expression of personal experience and opinion. It was not written to give any medical advice or to promote certain behaviour; those seeking help and advice for clinical disorders should seek professional guidance from your health care professional.]*
-<br>&nbsp;
 
 Plant medicine, along with various other alternative healing methods, are becoming more and more sought after as a source of healing and path of conscious awakening. You may have heard of such sacred processes with Iboga, Psilocybin (Magic) Mushrooms, Ayahuasca or San Pedro (both which I have written about before) and even more common and prolific - Cannabis. These methods have helped heal various issues including, physical pain, grief, depression, trauma and with Iboga it has even healed addiction as strong as heroin. These are not new nor necessarily alternative, they have been available to us for as long as they have been used by their Indigenous keepers.
 <br>
@@ -32,3 +30,7 @@ These are all very earthly expansive experiences that allows us to see how inter
 If we allow ourselves to experience the radiating joyful truth that plant medicine can share with us, our ability to process and heal from our pain, traumas and sufferings can be experienced with that much more light. It will be difficult for the finite and logical mind to comprehend this vast significance and connection to light and life itself, as difficult as it is for us to comprehend the dark that exists in our world as well. What plant medicine brings is beyond logic, beyond the mind, it brings a dimension into reality that can only be fully experienced by our hearts. I now follow my heart fully in life.  It is one my life goals to bring to light the powerful medicine readily available to us, made by Mother Nature herself to help us on our individual journeys through life. I’d like to help others see themselves fully by realizing how grand we truly are, simply because we are connected to everything. I’d like them to have a tangible experience of expansion in perception and awareness. I’d also like for our wounds to be healed in a powerfully loving way. And I know it is possible, because it happened to me.
 <br>
 <br>Journeying with earth’s plant medicine is a journey through a portal of truth. All will be revealed, before it can be healed. May my personal experiences and opinion provide a different perspective or a spark of curiosity in you; create your own path to truth.
+
+&nbsp;
+
+*[This was written with the intention to be an expression of personal experience and opinion. It was not written to give any medical advice or to promote certain behaviour; those seeking help and advice for clinical disorders should seek professional guidance from your health care professional.]*
