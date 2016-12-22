@@ -1,9 +1,11 @@
 ---
 title: Womb Speak
 layout: post
-date: 2000-01-01 00:00:00
-description:
+date: 2015-09-28 00:00:00
+description: My womb and I have had a challenging relationship. A continuous role reversal of one playing the light and one the dark.
 categories:
+  - Spirituality
+  - Artistry
 image: /uploads/screen-shot-2016-12-13-at-5-16-15-am.png
 ---
 
