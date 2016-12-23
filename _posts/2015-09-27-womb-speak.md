@@ -6,6 +6,7 @@ description: My womb and I have had a challenging relationship. A continuous rol
 categories:
   - Spirituality
   - Artistry
+video: 
 image: /uploads/screen-shot-2016-12-13-at-5-16-15-am.png
 ---
 

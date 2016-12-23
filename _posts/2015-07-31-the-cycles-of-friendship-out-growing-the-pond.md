@@ -5,6 +5,7 @@ date: 2015-08-01 00:00:00
 description: 'Simply put, you may notice as you widen your awareness and perspectives there are situations and people in your life that you may not want to maintain your friendship with.'
 categories:
   - Spirituality
+video: 
 image: /uploads/august-1st-2015-photo.jpg
 ---
 

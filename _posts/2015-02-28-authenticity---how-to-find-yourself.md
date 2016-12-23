@@ -5,6 +5,7 @@ layout: post
 description: 'Love the rebel, the sweetheart, the cute side, the rough side, the mistakes and the successes, the fool and the genius, the humble one and the confident one. For when you do, you realize that you are much more than the negative things you may see of yourself – you are all the amazing and beautiful things as well, and then the awareness will set in. You can choose to be these beautiful things, you can choose to live authentically.'
 categories:
   - Spirituality
+video: 
 image: /uploads/fe0c30-e3c8a299901b4aae9fbc28869b665875.jpg
 ---
 

@@ -5,6 +5,7 @@ date: 2015-10-08 00:00:00
 description: “We are not human beings having a spiritual experience. We are spiritual beings having a human experience.” - Pierre Teilhard de Chardin.
 categories:
   - Spirituality
+video: 
 image: /uploads/where-is-your-spirit.jpg
 ---
 

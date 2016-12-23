@@ -6,6 +6,7 @@ description: 'I am a Pisces, I need to evolve, I need to change, I need to live 
 categories:
   - Spirituality
   - Artistry
+video: 
 image: /uploads/screen-shot-2016-12-13-at-5-04-47-am.png
 ---
 

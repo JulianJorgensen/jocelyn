@@ -5,6 +5,7 @@ date: 2015-04-03 00:00:00
 description: 'I adopted a very twisted notion of masculinity; one of dominance, force, aggression, ego and competition.'
 categories:
   - Spirituality
+video: 
 image: /uploads/fe0c30-8b1bfd0716964ef0b8bab09818189f21.jpg
 ---
 

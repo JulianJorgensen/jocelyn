@@ -6,6 +6,7 @@ description: 'I was so grateful… so grateful, I was so grateful I smiled when 
 categories:
   - Spirituality
   - Artistry
+video: 
 image: /uploads/screen-shot-2016-12-13-at-5-11-29-am.png
 ---
 

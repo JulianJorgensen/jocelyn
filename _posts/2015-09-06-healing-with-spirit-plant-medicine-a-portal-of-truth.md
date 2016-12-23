@@ -5,6 +5,7 @@ date: 2015-09-07 00:00:00
 description: 'If we allow ourselves to experience the radiating joyful truth that plant medicine can share with us, our ability to process and heal from our pain, traumas and sufferings can be experienced with that much more light.'
 categories:
   - Spirituality
+video: 
 image: /uploads/screen-shot-2016-12-07-at-11-21-42-pm.png
 ---
 

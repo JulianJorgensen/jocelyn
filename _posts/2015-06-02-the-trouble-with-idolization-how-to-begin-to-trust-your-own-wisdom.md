@@ -5,6 +5,7 @@ date: 2015-06-03 00:00:00
 description: 'When we put someone on a pedestal, it creates this illusion that they are better, that we are below their mastery. Perhaps they do have more answers to questions than you have, but that does not mean it is absolute.'
 categories:
   - Spirituality
+video: 
 image: /uploads/fe0c30-56f77744066c46dcaff96514dcd3fe39.jpg
 ---
 

@@ -6,6 +6,7 @@ description: 'There are many ways to be engaged in a loving relationship, there 
 categories:
   - Spirituality
   - Sexuality
+video: 
 image: /uploads/whatsapp-image-2016-08-22-at-11-14-45-am.jpeg
 ---
 

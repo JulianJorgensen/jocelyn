@@ -6,6 +6,7 @@ description: 'I am ready to reclaim my freedom in this life, too many moons have
 categories:
   - Spirituality
   - Artistry
+video: 
 image: /uploads/screen-shot-2016-12-11-at-12-23-50-am.png
 ---
 

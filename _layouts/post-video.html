@@ -7,6 +7,11 @@ layout: page
 		{% include post-title.html post=page %}
 
 		<div class="post-content">
+
+			<div id="post-video-container">
+				<iframe id="post-video" width="560" height="315" src="https://www.youtube.com/embed/{{ page.video }}" frameborder="0" allowfullscreen></iframe>
+			</div>
+
 			{{ content }}
 
 			{% include post-footer.html %}

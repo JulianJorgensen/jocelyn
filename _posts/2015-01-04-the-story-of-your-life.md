@@ -5,6 +5,7 @@ date: 2015-01-05 00:00:00
 description: 'That is why so many wisdoms of our elders are simple, true and timeless. At the end of a human story, you take away the essence of the story.'
 categories:
   - Spirituality
+video: 
 image: /uploads/fe0c30-08db75dc02f84763ba6074b5c8656607-jpg-650.png
 ---
 

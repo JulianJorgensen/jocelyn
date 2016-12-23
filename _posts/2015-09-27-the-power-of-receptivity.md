@@ -6,6 +6,7 @@ description: 'I take a deep breath in, and I say “Thank you, I very much appre
 categories:
   - Spirituality
   - Artistry
+video: 
 image: /uploads/img-2329.JPG
 ---
 

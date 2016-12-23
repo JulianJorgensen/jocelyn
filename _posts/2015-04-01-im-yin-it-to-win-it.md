@@ -5,6 +5,7 @@ layout: post
 description: 'This practice has impacted my life so much that I decided to become certified to teach Yin Yoga! I love holding space for you to go deep into yourself.'
 categories:
   - Spirituality
+video: 
 image: /uploads/yin-post.jpg
 ---
 

@@ -5,6 +5,7 @@ date: 2015-11-02 00:00:00
 description: 'We are well passed the information age with the collective consciousness readily available at our finger tips, easily tapped, clicked and downloaded.'
 categories:
   - Spirituality
+video: 
 image: /uploads/screen-shot-2015-11-02-at-3-34-21-pm.png
 ---
 

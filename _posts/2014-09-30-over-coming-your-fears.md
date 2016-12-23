@@ -5,6 +5,7 @@ layout: post
 categories:
   - Spirituality
 description: 'It is important to note that “I feel afraid,” is very different from “I am afraid.”'
+video: 
 image: /uploads/fe0c30-821ed7588c1941e9b144e5b09c1ba7e4.jpg
 ---
 
