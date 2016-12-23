@@ -6,6 +6,7 @@ categories:
   - Spirituality
   - Sexuality
 description: 'It is a re-balancing of the masculine and feminine energy within all of us. This realignment is everywhere, from the intangible, to the collective, and right in the heart of the individual.'
+video: 
 image: /uploads/screen-shot-2016-10-05-at-3-39-12-pm.jpg
 ---
 

@@ -4,6 +4,7 @@ date: 2014-09-01 21:32:00
 layout: post
 categories:
 description: '"There is a fine line between knowing your self-worth, and defending an insecurity of your assumed strengths."'
+video: 
 image: /uploads/img-8523.jpg
 ---
 

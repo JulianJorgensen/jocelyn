@@ -5,6 +5,7 @@ layout: post
 categories:
   - Spirituality
 description: 'Since our emotions are connected to our thoughts and body, then in the conscious act of breathing, we can breathe out our emotional and mental toxins as well!'
+video: 
 image: /uploads/fe0c30-23b7fe12fa3d414a83cedb291025bded.jpg
 ---
 
