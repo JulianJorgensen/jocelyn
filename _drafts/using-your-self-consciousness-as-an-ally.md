@@ -3,6 +3,8 @@ title: Using Your Self Consciousness as an Ally
 date:
 description:
 categories:
-video:
+video: HI717aHjUvE
 image:
 ---
+
+
