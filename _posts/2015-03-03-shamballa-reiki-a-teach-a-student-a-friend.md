@@ -1,9 +1,10 @@
 ---
 title: 'Shamballa Reiki: A Teach, A Student, A Friend'
-date: 2000-01-01 00:00:00
+date: 2015-03-04 00:00:00
 layout: post
-description:
+description: 'When I first learned Shamballa Reiki, I was told that "my life will never be the same," it is completely true. I had been opened and expanded in a way I never knew was liveable.'
 categories:
+  - Spirituality
 image: /uploads/fe0c30-8b3ee2a5cead44ea95010453e9d7dfc6.jpg
 ---
 

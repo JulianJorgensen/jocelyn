@@ -8,6 +8,7 @@ categories:
 image: /uploads/june-2016.jpg
 ---
 
+
 Sometimes, you will be punch blind-sided in the face by an unknown force that will knock you off your feet and on to your backside. It doesn’t matter what you may have known before, but after one of these, it is without a doubt that when you get back up your perspective and life as you know it will never be the same.&nbsp;
 
 In the last two months, I’ve been dealt first hand, a major deck of intense change: the end of one relationship and the beginning of another, moving out of an apartment in the city and moving by ferry to a cabin in the woods, my first real experience of a dear friend passing away suddenly, a new work position and re-evaluation of my business, and new perceptions of my identity and purpose in life. Through all this, I can confidently say that I am thriving during this time, and these experiences have taught me a thing or two.
@@ -19,6 +20,8 @@ However, how you choose to respond to life is your greatest gift and power. It i
 Whatever you choose, some will help you thrive and rise during these transitions, and some will cause you more discomfort and may even drag you into suffering.&nbsp;
 
 So here are 5 ways to thrive in major life transitions:
+
+&nbsp;
 
 1. **Take everything in strides, be present and go with the flow!**
    <br>
@@ -62,6 +65,6 @@ So here are 5 ways to thrive in major life transitions:
    <br>
    <br>For the active folk who feel like they need to fill their time with all these other activities because “T*here’s so much to do*,” “N*obody else will do it*,” or they “*I need to get it done*.” The only need is to stop, re-evaluate, and ask for help. What are the priorities that actually need to be focused upon in the moment and where do you need to share the load? If you don’t do this you will burn out and you will not be able to focus your energy where it is most needed - on your wellbeing and the major life change you’re going through.
    <br>
-   <br>Finding a healthy balance will take time. It’s important to recognize when you need to take a break and have that ice-cream or watch your favorite show on Netflix. Or when you need to get to bed on time and plan your meals so you are well nourished and energized for a busy day. I’m not perfect at this by any means but the force of hand life has given me recently has taught me to learn to practice the balance now.&nbsp;
+   <br>Finding a healthy balance will take time. It’s important to recognize when you need to take a break and have that ice-cream or watch your favourite show on Netflix. Or when you need to get to bed on time and plan your meals so you are well nourished and energized for a busy day. I’m not perfect at this by any means but the force of hand life has given me recently has taught me to learn to practice the balance now.&nbsp;
 
 Life truly is unpredictable and full of surprises, and we are only able to perceive a very small portion of it - the portion that is uniquely lived by us. You cannot solve the mysterious nature of life, but you can thrive while you live it. Know this is just one chapter in your great story, become the creator of your life and decide how the story goes.

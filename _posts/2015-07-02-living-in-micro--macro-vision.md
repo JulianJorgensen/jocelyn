@@ -1,9 +1,10 @@
 ---
 title: 'Living in Micro & Macro Vision'
 layout: post
-date: 2000-01-01 00:00:00
-description:
+date: 2015-07-03 00:00:00
+description: 'When we are looking at our lives, we tend to look at it in two ways: micro and macro vision. One is more about immediacy, details and present situations while the latter is learning how to see the big picture and the connections between micro events. Both are important functions that we should all have, as they provide a well rounded and multi-dimensional perspective of our lives. Each one has it’s own purpose and together they work like the lens of a camera, helping you zoom in and out of life’s moments.'
 categories:
+  - Spirituality
 image: /uploads/zooom.jpg
 ---
 
@@ -27,8 +28,11 @@ So when we’re zoomed in, we are taking in the details, we’re appreciating th
 Depending on your personality and life experiences these are some examples of when you are too zoomed in:
 
 * Unable to incorporate the perspectives of others, and are more concerned about how it affects you
+  <br>&nbsp;
 * You over-emphasize or exaggerate the situation at hand, believing that everything leads back to you
+  <br>&nbsp;
 * You become stressed out about a situation at hand, unable to apply discernment to your choice of resolution as you are afraid of what the outcome may be
+  <br>&nbsp;
 * The present situation has consumed your everyday thoughts and feelings, where it has suddenly become the source of your stress
 
 If you feel like you are here it is extremely important to zoom out of your situation so that you may have a grander understanding of what is happening in your life. Life tends to be made up of many threads of moments, intertwining together - one leading to the next. That is why it is advantageous to view life as a journey - and this journey is not walked alone.
@@ -48,8 +52,11 @@ In this mode of viewing, it is in the “we” stage. It is not just all about y
 Depending on your personality and life experiences these are some examples of when you are too zoomed out:
 
 * Unable to express significance, empathy and compassion to the present moments of your own life or other’s
+  <br>&nbsp;
 * Unwilling to participate in conflict resolution as you see it as pointless or something that will pass on its own without your involvement
+  <br>&nbsp;
 * Lacking value in planning and creating smaller check-points to your greater goals in life
+  <br>&nbsp;
 * Believing that everything will work out fine without your participation. That life will proceed as it’s supposed to without having to be decisive (though there is truth, it is a fine line of allowing life to take its course so that we don’t micro-manage and becoming apathetic to our life choices).
 
 ## &nbsp;

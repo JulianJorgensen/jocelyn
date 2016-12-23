@@ -1,10 +1,11 @@
 ---
 title: Initiation
 layout: post
-date: 2000-01-01 00:00:00
-description:
+date: 2015-09-21 00:00:00
+description: 'I am ready to reclaim my freedom in this life, too many moons have past where I believed life had to be lived in a certain way, governed by limited expectations.'
 categories:
   - Spirituality
+  - Artistry
 image: /uploads/screen-shot-2016-12-11-at-12-23-50-am.png
 ---
 

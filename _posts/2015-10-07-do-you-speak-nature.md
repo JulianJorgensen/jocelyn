@@ -1,9 +1,11 @@
 ---
 title: Do You Speak Nature?
 layout: post
-date: 2000-01-01 00:00:00
-description:
+date: 2015-10-08 00:00:00
+description: 'As an artist I had begun to understand what a muse was. The Ocean is my muse… Yemanja, Oshun, Poseidon, mermaids to surfers - I was enraptured by the emotions and archetypes of Gaia.'
 categories:
+  - Spirituality
+  - Artistry
 image: /uploads/do-you-speak-nature.jpg
 ---
 

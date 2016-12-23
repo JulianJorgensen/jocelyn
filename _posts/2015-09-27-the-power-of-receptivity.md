@@ -1,9 +1,11 @@
 ---
 title: The Power of Receptivity
 layout: post
-date: 2000-01-01 00:00:00
-description:
+date: 2015-09-28 00:00:00
+description: 'I take a deep breath in, and I say “Thank you, I very much appreciate it.”'
 categories:
+  - Spirituality
+  - Artistry
 image: /uploads/img-2329.JPG
 ---
 

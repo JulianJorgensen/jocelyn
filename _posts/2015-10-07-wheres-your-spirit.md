@@ -1,8 +1,8 @@
 ---
 title: "Where's Your Spirit?"
 layout: post
-date: 2000-01-01 00:00:00
-description:
+date: 2015-10-08 00:00:00
+description: “We are not human beings having a spiritual experience. We are spiritual beings having a human experience.” - Pierre Teilhard de Chardin.
 categories:
   - Spirituality
 image: /uploads/where-is-your-spirit.jpg

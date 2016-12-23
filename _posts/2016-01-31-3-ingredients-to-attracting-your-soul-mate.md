@@ -4,6 +4,8 @@ layout: post
 date: 2016-02-01 00:00:00
 description: A soul mate may only be passing for a moment in time. So it is imperative to understand that loving yourself enough to be fully content alone is the ultimate lesson with love and a soul mate.
 categories:
+  - Spirituality
+  - Sexuality
 image: /uploads/3-ingredients-to-attracting-your-soul-mate.png
 ---
 
@@ -27,6 +29,8 @@ This soul mate is in tune with their intuition and heart desires; they are effor
 <br>To begin attracting your soul mate, you must realize that this person will not come to light until you are trusting enough to believe that this person truly exists, and that you deserve it. This is because the energy you put out is what you will attract. If you are only willing to see and believe in failing relationships; every relationship you observe will be ridden with traits of failure. If the words and behaviour that you share are expressions of complaint or disdain to love and romance, you are less than likely to attract someone who will want to share romantic words and gestures with you. If you want love in life, become loving; if you want romance, learn to be romantic… When you learn the qualities you desire in another, you will easily recognize those qualities when they appear before you.
 <br>
 <br>I have been asked, “Well, I have learned these qualities and I express them with the people I meet, how come I have not yet attracted my soul mate?” I believe there are several important reasons:
+
+&nbsp;
 
 1. **Right timing.** Everything natural and “meant to be” has it’s natural timing in life. There is no need to rush this process as the person will appear in your life when you are ready to welcome them into it.      If you feel like you already have no time in a week for yourself, where do you have space and time for another person?
    <br>
