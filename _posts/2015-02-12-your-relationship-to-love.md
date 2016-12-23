@@ -6,7 +6,6 @@ description:
 categories:
   - Spirituality
   - Sexuality
-video: 
 image: /uploads/screen-shot-2016-11-14-at-2-53-02-pm.png
 ---
 

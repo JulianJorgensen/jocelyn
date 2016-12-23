@@ -5,7 +5,6 @@ date: 2000-01-01 00:00:00
 description:
 categories:
   - Spirituality
-video: 
 image: /uploads/screen-shot-2016-12-11-at-12-23-50-am.png
 ---
 

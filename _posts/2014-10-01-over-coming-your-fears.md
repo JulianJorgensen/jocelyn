@@ -7,7 +7,6 @@ description: I surrender to truth and open my awareness to feelings of fear, I r
   that I am not the embodiment of fear and welcome the feelings to arise with understanding
   and kindness to be released for acceptance, healing and change. I am the embodiment
   of love.
-video: 
 image: "/uploads/fe0c30-821ed7588c1941e9b144e5b09c1ba7e4.jpg"
 ---
 

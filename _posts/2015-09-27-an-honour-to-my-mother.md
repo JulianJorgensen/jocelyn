@@ -5,7 +5,6 @@ date: 2015-09-28 00:00:00
 description:
 categories:
   - Spirituality
-video: 
 image: /uploads/12642518-1070464626351907-4261079977822912794-n.jpg
 ---
 

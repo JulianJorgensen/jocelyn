@@ -5,7 +5,6 @@ categories:
   - Spirituality
 layout: post
 description: A common perspective about life in general is that we must go through suffering or have intense experiences in order to see our lives as they truly are and where change is required.
-video: 
 image: /uploads/fe0c30-9e758e10d8304287b6df0173058a6219.jpg
 ---
 

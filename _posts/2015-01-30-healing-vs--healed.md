@@ -5,7 +5,6 @@ layout: post
 categories:
   - Spirituality
 description: 'Healing and healed, ebb and flow like the tides – remember that the motions are a part of the process and process of life.'
-video: 
 image: /uploads/fe0c30-c8921c11c5cc419ebb68cc23fab3984a.jpg
 ---
 

@@ -4,7 +4,6 @@ layout: post
 date: 2016-02-01 00:00:00
 description: A soul mate may only be passing for a moment in time. So it is imperative to understand that loving yourself enough to be fully content alone is the ultimate lesson with love and a soul mate.
 categories:
-video: 
 image: /uploads/3-ingredients-to-attracting-your-soul-mate.png
 ---
 

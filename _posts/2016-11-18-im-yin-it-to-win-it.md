@@ -5,7 +5,6 @@ layout: post
 description:
 categories:
   - Spirituality
-video: 
 image: /uploads/yin-post.jpg
 ---
 

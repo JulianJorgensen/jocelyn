@@ -4,7 +4,6 @@ layout: post
 date: 2000-01-01 00:00:00
 description:
 categories:
-video: 
 image: /uploads/screen-shot-2015-11-02-at-3-34-21-pm.png
 ---
 

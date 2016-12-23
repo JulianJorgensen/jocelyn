@@ -5,7 +5,6 @@ layout: post
 categories:
   - Spirituality
 description: 'What intrigued me the most was the ever engrained and proclaimed pursuit of happiness in our culture, and the notion that it has an absolute end to it.'
-video: 
 image: /uploads/dsc02088.jpg
 ---
 
