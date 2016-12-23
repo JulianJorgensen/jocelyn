@@ -110,3 +110,28 @@
 		flex-direction: row-reverse;
 	}
 }
+
+#landing-page-heading{
+	position: relative;
+	height: 80px;
+	width: 400px;
+
+	.heading-hover{
+		opacity: 0;
+	}
+
+	&:hover{
+		.heading-original{
+			opacity: 0;
+		}
+		.heading-hover{
+			opacity: 1;
+		}
+	}
+
+	.heading-original,
+	.heading-hover{
+		position: absolute;
+		transition: opacity 0.5s;
+	}
+}
