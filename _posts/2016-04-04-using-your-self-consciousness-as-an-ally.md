@@ -1,6 +1,7 @@
 ---
 title: Using Your Self Consciousness as an Ally
 date: 2016-04-05 00:00:00
+layout: post
 description: "Self consciousness has been getting a bad reputation within ourselves for so long, too often we say \"I'm so self conscious\" as a negative expression."
 categories:
   - Spirituality
