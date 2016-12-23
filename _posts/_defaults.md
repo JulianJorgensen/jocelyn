@@ -1,4 +1,5 @@
 ---
+layout:
 title:
 date:
 description:
