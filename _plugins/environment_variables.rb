@@ -5,7 +5,8 @@ module Jekyll
   class EnvironmentVariablesGenerator < Generator
 
     def generate(site)
-      site.config['prod_url'] = ENV['prod_url'] || 'http://localhost:4000'
+      site.config['prod_url'] = ENV['prod_url'] || ENV['url']
+      site.config['url'] = ENV['prod_url'] || ENV['url']
       # Add other environment variables to `site.config` here...
     end
 
