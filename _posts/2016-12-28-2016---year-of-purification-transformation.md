@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: post
 title: 2016 - Year of Purification Transformation
 date: 2016-12-29 00:00:00
 description: 'This year was the most intense year of my life, back to back series of endings and new beginnings.'
