@@ -6,6 +6,7 @@ module Jekyll
 
     def generate(site)
       site.config['env'] = ENV['title'] || 'development'
+      site.config['test'] = ENV['test'] || 'tester'
       # Add other environment variables to `site.config` here...
     end
 
