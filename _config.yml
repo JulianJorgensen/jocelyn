@@ -27,6 +27,9 @@ disqus_shortname: jocelynlee
 
 permalink: /blog/:categories/:title/
 
+plugins:
+  - EnvironmentVariablesGenerator
+
 gems:
   - jekyll-sitemap
   - jekyll-seo-tag
