@@ -17,15 +17,15 @@ share_url: default
 
 <section class="pad" id="contact">
 	<div class="text-container contact-box">
-		<form action="{{ site.baseurl }}/contact-success/" method="post" class="contact-form">
-			<input type="hidden" name="_to" value="jocelyn@jocelynlee.ca" />
-			<input type="text" name="_gotcha" style="display: none;" />
+		<form action="https://formspree.io/me@julianjorgensen.com" method="POST" class="contact-form">
+			<input type="text" name="_gotcha" style="display:none" />
+			<input type="hidden" name="_next" value="{{ site.prod_url }}/contact-success/" />
 
 			<label for="name">Name</label>
 			<input type="text" name="name" id="name" placeholder="I'm Jocelyn, who are you?" tabindex="1" />
 
 			<label for="email">Email Address</label>
-			<input type="email" name="email" id="email" placeholder="What's your email?" tabindex="2" required />
+			<input type="email" name="_replyto" id="email" placeholder="What's your email?" tabindex="2" required />
 
 			<label for="message">Message</label>
 			<textarea name="message" id="message" placeholder="What can I do for you?" tabindex="3"></textarea>
