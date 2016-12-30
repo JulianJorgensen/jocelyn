@@ -42,7 +42,7 @@
 		}(document, 'script', 'facebook-jssdk'));</script>
 
 		<header id="mainHeader">
-			(variables: {{ site.url }})
+			(variables: {{ site.prod_url }})
 			<a href="{{ site.baseurl }}/" class="site-logo {% if page.url == '/' %}active{% endif %}">{% include jocelyn-lee-logo.svg %}</a>
 			{% include navigation.html %}
 			<p class="editor-link"><a style="display:inline;" href="cloudcannon:collections/_data/navigation.yml" class="btn"><strong>&#9998;</strong> Edit navigation</a></p>
