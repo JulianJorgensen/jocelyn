@@ -1,9 +1,11 @@
 ---
 layout: post
-title: From Visions to Actions
+title: The Power of Vision Boards
 date:
 description:
 categories:
 video:
 image:
 ---
+
+
