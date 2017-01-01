@@ -7,7 +7,7 @@ categories:
   - Shakti Diaries
   - Spirituality
   - Sexuality
-video: v=_98vCH0BQO8
+video: _98vCH0BQO8
 image: /uploads/shakti-diaries-promo.jpg
 ---
 
