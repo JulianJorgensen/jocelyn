@@ -10,13 +10,15 @@ image: /uploads/Vision-Board-Marquee.jpg
 ---
 
 
-Have you ever had a dream? A goal? Maybe even one of those dreaded New Year's resolutions? And you thought to yourself, how am I going to achieve it? Let me introduce and guide you on how to create a powerful vision board in **3 steps**, that'll bring those visions into reality.
+Have you ever had a dream? A goal? Maybe even one of those dreaded New Year's resolutions? And you thought to yourself, how am I going to achieve it?
+
+Let me introduce and guide you on how to create a powerful vision board in **3 steps**, that'll bring those visions into reality.
 
 First, a little psychology lesson.
 
 ![](/uploads/versions/vision-boarding-psychology---x----1280-853x---.jpg)
 
-Our brain learns by association, by using what we know to make sense of new information. Specific words will bring up an associated image in your mind, vice versa, by what you associated with it the first time you learned it. So, if you happened to read **DELICIOUS** right now, you might imagine a piece of pie, a roast turkey, or whatever it is you learned to be delicious. Ever seen and advertisement? Yup, that's how it works.
+Our brain learns by association, by using what we know to make sense of new information. Specific words will bring up an associated image in your mind, vice versa, by what you associated with it the first time you learned it. So, if you happened to read **DELICIOUS** right now, you might imagine a piece of pie, a roast turkey, or whatever it is you learned to be delicious. Ever seen and advertisement? &nbsp; Yup, that's how it works.
 
 You have the conscious mind and the subconscious mind, an important thing to know is that your conscious mind works while you are awake.. and well, conscious. The subconscious is in charge of everything else: your character, speech, behaviour - all things behind the scenes. In fact, it receives information you might not be aware of and stores it for reference. If you receive a message many times and often, it will play an important role in shaping who you are. This is why many spiritual leaders, self help, hypnotherapists and anyone inspiring change speak about accessing the subconscious mind. If you change the reference, the results will be different. You, will be different.
 
@@ -26,11 +28,11 @@ Thankfully, you can actually change and influence your subconscious. And, with h
 
 What I want you to take away from this little psychology lesson is that you can create a powerful conscious message to your subconscious mind via a vision board.
 
-You want to feel more powerful? You want to meet new friends? You want to travel to Bali? You want to meet the love of your life? Done. When you ask (and create a bomb-ass vision board), you shall receive.
+You want to feel more powerful? You want to meet new friends? You want to travel to Bali? You want to meet the love of your life? &nbsp; Done. When you ask (and create a bomb-ass vision board), you shall receive.
 
 Because, you are powerfully creating the intended associations of the message. The colours, the font, the images, the emotions, the words; all of it. And by doing so, you will shape the way you guide yourself to your dreams, your goals, your resolutions; to whatever you deeply desire.
 
-I know it works because they have worked for me and those that I have taught how to create them with. I first started by just cutting out pictures and words in “random” magazines with my friends that felt good, no real intention, just choosing what called my soul. Time and time again we look at our board throughout the year, and we are shocked by how accurate it is. And I have just developed, literally yesterday, a super focused way to receive what you want and have the universe to back you up.
+I know it works because they have worked for me and those that I have taught how to create them with. I first started by just cutting out pictures and words in “random” magazines with my friends that felt good, no real intention, just choosing what called my soul. Time and time again we look at our board throughout the year, and we were shocked by how accurate it is. And I have just developed (literally yesterday) a super focused way to receive what you want and have the universe to back you up.
 
 ![](/uploads/versions/2016-vision-board---x----1600-1369x---.jpeg)
 
@@ -38,7 +40,7 @@ I know it works because they have worked for me and those that I have taught how
 
 ## &nbsp;
 
-## So, here are my 3 steps to guide you to making the best and most powerful vision board.
+## So, here are my 3 steps to guide you to make the best and most powerful vision board.
 
 *You are free to modify what you feel called to, this is just my guideline on how I create an uncanny unfolding of synchronistic events.*
 
