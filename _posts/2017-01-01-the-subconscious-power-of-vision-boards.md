@@ -34,7 +34,7 @@ I know it works because they have worked for me and those that I have taught how
 
 ![](/uploads/versions/2016-vision-board---x----1600-1369x---.jpeg)
 
-> *\*My vision board for 2016, a more abstract one, but I lived, and felt all of it.*
+> *\*My vision board for 2016 that I got to live, breathe and feel all of it.*
 
 ## &nbsp;
 
