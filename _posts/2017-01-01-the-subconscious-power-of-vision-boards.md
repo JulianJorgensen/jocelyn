@@ -97,7 +97,7 @@ I know it works because they have worked for me and those that I have taught how
    <br>
    <br>This is already your first action step in moving towards you dreams and goals, the universe rewards those who boldly step forward in their heart's desires - so take pride and full pleasure in this process.
    <br>
-   <br>**Magazines:** You can either go old school and just take all the magazines you have lying around and flip through them to find the words and images that match the associations you made with your phrases. Or your own photos too!
+   <br>**Magazines:** You can go old school and just take all the magazines you have lying around and flip through them to find the words and images that match the associations you made with your phrases. Or your own photos too!
    <br>
    <br>**Digital:** If you're a hardcore millennial, then you can search the images and words you're looking for online. That way you can ensure you get the right #mood and really shape your vision board the way you would your Instagram feed.
    <br>
@@ -105,5 +105,5 @@ I know it works because they have worked for me and those that I have taught how
 
 <br>When you're done, you're going to hang this master piece of a subliminal message somewhere you can see it everyday. Remember, the more you see the message the more it influences your subconscious and the more results you're going to see.
 
-As you see it everyday, your subconscious mind is actively seeking and guiding you towards those feelings, those words, those symbols and imagery. The universe is literally sending you those signs based on the intention you put out, all you have to do is say "Yes," when you see them.
+As you see it everyday, your subconscious mind is actively seeking and guiding you towards those feelings, those words, those symbols and imagery. The universe is literally sending you those signs based on the intention you put out, all you have to do is say "yes," when you see them.
 <br>&nbsp;
