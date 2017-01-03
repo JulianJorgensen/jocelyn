@@ -46,7 +46,7 @@ I know it works because they have worked for me and those that I have taught how
 
 ![](/uploads/versions/vision-board-heart-wants---x----1280-853x---.jpeg)
 
-1. **Find out what it is your truly want, on the heart level.**
+1. **Find out what it is you truly want, on the heart level.**
    <br>
    <br>Your heart has the true desires, your mind is what helps you execute it. So, if you truly want to manifest what you deeply want. Talk to your heart. And it's really important to be honest with yourself about what you want, otherwise you'll attract things that you **think** you wanted, but turns out it doesn't satisfy your soul.
    <br>
