@@ -57,21 +57,22 @@ I know it works because they have worked for me and those that I have taught how
    <br>
    <br>Take in another deep breath here, fully exhale, then open your eyes and begin to write on behalf of your heart's voice.
    <br>
-   <br>Important: Don't. Stop. Writing. And, Write rather quickly, until your heart is done. As soon as you stop and **think**, you've interrupted the message. You've gone into the brain and not the heart.
+   <br>**Important:**Don't. Stop. Writing. &nbsp;And, write rather quickly, until your heart is done. As soon as you stop and **think**, you've interrupted the message. You've gone into the brain and not the heart.
    <br>
-   <br>It's okay if it happens, don't be hard on yourself, just close your eyes, hands over heart, and breathe into that place till your awareness is there again. Then continue writing.
+   <br>**BUT** it's okay if it happens, don't be hard on yourself, just close your eyes, hands over heart, and breathe into that place till your awareness is there again. Then continue writing.
    <br>
    <br>The universe wants to conspire with you for your heart's desires, this is a very crucial step. Please don't skip really tapping into what it is you truly want. As this is also how you practice listening to your inner voice.
    <br>
    <br>
    <br>![](/uploads/versions/vision-board-word-association---x----1280-853x---.jpeg)
+   <br>&nbsp;
 2. **The Association Game & Focusing**
    <br>
    <br>Now that you have the message, it's time to focus it. When you are really clear on what it is you want, the universe knows how to send you the perfect signs for you to act upon to getting them.
    <br>
-   <br>Depending on how long it's been since you last checked in with your heart, it might have a LOT to say. So, it's important that you read it 3 times over, each with a specific reason.
+   <br>Depending on how long it's been since you last checked in with your heart, it might have **a lot**&nbsp;to say. So, it's important that you read it 3 times over, each with a specific reason.
    <br>
-   <br>**First time**, you read it, you might have a lot of emotions and realizations as you hear your heart fully. Take all the time you need to soak that first read through in. Just let it sit in your body, feel each word, each phrase, each memory and desire in every cell of your body. You are bringing all those subconscious references to the surface, activating them in your body, making them real. If you don't feel it in your body somewhere, you don't really have it, you may not really want it.
+   <br>**First time**&nbsp;you read it, you might have a lot of emotions and realizations as you hear your heart fully. Take all the time you need to soak that first read through in. Just let it sit in your body, feel each word, each phrase, each memory and desire in every cell of your body. You are bringing all those subconscious references to the surface, activating them in your body, making them real. If you don't feel it in your body somewhere, you don't really have it, you probably don't really want it.
    <br>
    <br>Take all the time you need to go through any catharsis, ugly crying included. Then when you feel like all your emotions are passed. Move to the second read.
    <br>
@@ -79,18 +80,20 @@ I know it works because they have worked for me and those that I have taught how
    <br>
    <br>For example, if you wrote a long paragraph about this one time in school you felt scared to speak up in front of the class and it was very painful, and you wish you could just get over that fear… to be blunt, get to the point. The point is - You want to get over your fear of public speaking.
    <br>
-   <br>Write that down, write all the summarized, to the point phrases. Then move to the third read.
+   <br>Write that down, write all the summarized to the point phrases. Then move to the third read.
    <br>
    <br>**The third time**, you synthesize the first two reads. Read your phrases and jot down how you feel and the first imagery/symbols/colours/words that come to mind. Please note, if you have a negative association, write that down too, and at the end go to the negative ones and change them to positive associations you want.
    <br>
-   <br>Using the example of getting over your fear of public speaking, instead of that memory of yourself as a child in fear. Take a moment to imagine the perfect scenario of how you'd look and feel, where you'd be and what it'd all look like. Then, write down those feelings and images.
+   <br>Using the example of getting over your fear of public speaking: Instead of that memory of yourself as a child in fear. Take a moment to imagine the perfect scenario of how you'd look and feel, where you'd be and what it'd all look like. Then, write down those feelings and images.
+   <br>
    <br>
    <br>![](/uploads/versions/vision-board-magazines---x----1280-720x---.jpeg)
+   <br>&nbsp;
 3. **Creating the Vision**
    <br>
    <br>​Now the fun begins! You are now free to use your juicy creative energy to design your vision board however you like. Based on your heart's desire blueprint.
    <br>
-   <br>You're going to look for the images and words that you associated with your phrases. It should be as close as it gets, should give you the same feeling that you wrote down. Colour and style does impact so try to be conscious of these aspects and how the move you as you make your choices.
+   <br>You're going to look for the images and words that you associated with your phrases. It should be as close as it gets, should give you the same feeling that you wrote down. Colour and style does impact so try to be conscious of these aspects and how they move you as you make your choices.
    <br>
    <br>This is already your first action step in moving towards you dreams and goals, the universe rewards those who boldly step forward in their heart's desires - so take pride and full pleasure in this process.
    <br>
