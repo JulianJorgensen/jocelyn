@@ -1,22 +1,18 @@
 <nav>
 	<a class="nav-toggle" id="open-nav" href="#">&#9776;</a>
-	{% if site.prod_url == "http://www.jocelynlee.ca" %}
-		{% assign navItems = site.data.navigation-marketing %}
-	{% else %}
-		{% assign navItems = site.data.navigation-blog %}
-	{% endif %}
 
-	{% for link in navItems %}
-		{% assign class = "" %}
-		{% if link.highlight %}
-			{% assign class = class | append: " highlight" %}
-		{% endif %}
+	{% assign siteNameShort = site.prod_url | remove: "http://www." %}
+	{% for page in site.pages %}
+		{% assign pageDirectory = page.dir | split: '/' %}
+		{% if page.include_in_nav and pageDirectory[1] == siteNameShort %}
 
-		{% assign currentPage = page.url | split: "/" %}
-		{% assign currentLink = link.link | replace: "/", "" %}
-		{% if currentLink == currentPage[1] %}
-			{% assign class = class | append: " active" %}
+			{% assign currentPage = page.url | split: "/" %}
+			{% assign currentLink = link.link | replace: "/", "" %}
+
+			{% if currentLink == currentPage[1] %}
+				{% assign class = class | append: " active" %}
+			{% endif %}
+			<a href="{% include relative-src.html src=page.url %}" class="{{ class }}">{{ page.title }}</a>
 		{% endif %}
-		<a href="{% include relative-src.html src=link.link %}" class="{{ class }}" {% if link.new_window %}target="_blank"{% endif %}>{{ link.name }}</a>
 	{% endfor %}
 </nav>
