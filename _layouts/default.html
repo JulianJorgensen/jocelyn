@@ -81,8 +81,8 @@
 
 		{% assign siteNameShort = site.prod_url | remove: "http://www." %}
 		{% for page in site.pages %}
-			{% assign pageDirectory = page.dir | replace: '/','' %}
-			{% if page.include_in_nav and pageDirectory == siteNameShort %}
+			{% assign pageDirectory = page.dir | split: '/' %}
+			{% if page.include_in_nav and pageDirectory[1] == siteNameShort %}
 				<p>{{ page.dir }}</p>
 			{% endif %}
 		{% endfor %}
