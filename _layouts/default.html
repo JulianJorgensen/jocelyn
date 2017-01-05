@@ -79,9 +79,9 @@
 		</footer>
 
 		{% for page in site.pages %}
-			{% unless page.exclude_from_nav %}
+			{% if page.include_in_nav %}
 				<p>{{ page.dir }}</p>
-			{% endunless %}
+			{% endif %}
 		{% endfor %}
 
 		<div id="site-author">
