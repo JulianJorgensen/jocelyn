@@ -1,0 +1,16 @@
+clean:
+  # These folders will be deleted
+  - "_site"
+
+jekyll:
+  notification: "Running jekyll"
+  notificationIncremental: "Running jekyll incremental"
+
+watch:
+  javascript: "source/_js/**/*"
+  sass: "source/_styles/**/*"
+  data: "source/{_data,_posts}/**/*.{yml,xml}"
+  pages:
+    - "source/**/*.{md,html,yml,xml}"
+    - "source/{_includes,_layouts,_pages,_posts}/**/*.{md,html,yml,xml}"
+    - "!_site/**/*.*"
