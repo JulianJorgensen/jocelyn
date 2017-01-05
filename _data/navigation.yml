@@ -1,10 +1,10 @@
-- 'blog-nav-items':
+- blog-nav-items:
   - name: Blog
     link: /blog/
   - name: My Journey
     link: /my-journey/
   - name: Connect
     link: /connect/
-- 'marketing-nav-items':
+- marketing-nav-items:
   - name: Blog
     link: /blog/
