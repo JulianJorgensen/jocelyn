@@ -2,7 +2,7 @@
 title: Embodying Intentions
 date: 2015-05-01 00:00:00
 layout: post
-description: 'The body is what brings the intangible into the tangible, I learned to honour the body as an integral tool to my intentions and my spiritual journey.'
+description: The body is what brings the intangible into the tangible.
 categories:
   - Spirituality
 video:
