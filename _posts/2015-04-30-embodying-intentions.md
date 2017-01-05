@@ -11,8 +11,8 @@ image: /uploads/fe0c30-5d3dacfac1554cefaa3f75b9ee01d97a.jpg
 
 
 How often have you heard, “the mind is everything,” your thoughts is what creates reality,” it’s all about intentions,” “if you believe it, you can create it.” I have said many expressions in this way, giving a lot of our understanding of intentions to the mind; but I have also learned to integrate my heart in these intentions as well - so I believed I had this concept of intentions pretty well figured out. I personally enjoy operating in the upper chakras when it comes to setting my intentions, that if my consciousness and heart were on board then I will manifest my intentions into reality. But there was another aspect of intentions that I was not aware of.
-<br>
-<br>After a very moving soul retrieval session I had received recently, I gained so much more insight to the cosmic lives I’ve lived past and how those threads have led up to present time. However, one of the most important lessons I learned during this session was about expanding my understanding of intention with much more depth.
+
+After a very moving soul retrieval session I had received recently, I gained so much more insight to the cosmic lives I’ve lived past and how those threads have led up to present time. However, one of the most important lessons I learned during this session was about expanding my understanding of intention with much more depth.
 <br>
 <br>In the last part of the soul retrieval, you ask your Higher Self to come down into your body, to anchor this energy of your most beloved version of yourself. I had not seen my Higher Self before, I had never asked to; during sessions for others I ask their Higher Selves to come through - and so I was moved by the image of myself. I looked like an ancient Chinese noble/princess sitting in the cosmic stars, my hair was pulled back in a fashion that allowed my face to breathe, I had a slight smile on my face, my robes took the shape of a sphere, where white silk with cherry blossom embroidery all over. The robes were floating and flowing as if it were a life of its own, she was the most beautiful version of myself.
 <br>
