@@ -1,6 +1,10 @@
-- name: Blog
-  link: /blog/
-- name: My Journey
-  link: /my-journey/
-- name: Connect
-  link: /connect/
+- blog
+  - name: Blog
+    link: /blog/
+  - name: My Journey
+    link: /my-journey/
+  - name: Connect
+    link: /connect/
+- marketing
+  - name: Blog
+    link: /blog/
