@@ -1,0 +1,47 @@
+---
+title: Connect
+description: "Want to collaborate? \_Want to share something with me?\_\nDon't be shy, let's connect!"
+image: /uploads/connect-picture.jpg
+share_url: default
+---
+
+<section class="hero" style="background-image: url({% include relative-src.html src=page.image %})">
+	<div class="inner-hero text-container">
+		<div class="hero-text-container">
+			<h1 class="editable">Connect</h1>
+			<p class="subtext editable">Want to collaborate? &nbsp;<br />Want to share something with me?&nbsp;<br />Don't be shy, let's connect!</p>
+		</div>
+	</div>
+	<div class="read-on"><a href="#contact">connect with me <span class="arrow">&#x25BC;</span></a></div>
+</section>
+
+<section class="pad" id="contact">
+	<div class="text-container contact-box">
+		<form action="https://formspree.io/jocelyn@jocelynlee.ca" method="POST" class="contact-form">
+			<input type="text" name="_gotcha" style="display:none" />
+			<input type="hidden" name="_next" value="{{ site.prod_url }}/contact-success/" />
+
+			<label for="name">Name</label>
+			<input type="text" name="name" id="name" placeholder="I'm Jocelyn, who are you?" tabindex="1" />
+
+			<label for="email">Email Address</label>
+			<input type="email" name="email" id="email" placeholder="What's your email?" tabindex="2" required />
+
+			<label for="message">Message</label>
+			<textarea name="message" id="message" placeholder="What can I do for you?" tabindex="3"></textarea>
+
+			<input type="submit" value="Send Message" tabindex="4" />
+		</form>
+
+		<div class="contact-details">
+			<ul class="contact-details-social">
+				{% for link in site.data.footer.right_links %}
+					<a {% if link.new_window %}target="_blank"{% endif %} href="{% include relative-src.html src=link.link %}" {% if link.social_icon %}class="{{ link.social_icon | slugify }}-icon"{% endif %}>
+						{% if link.social_icon %}{% include social-icon.html icon=link.social_icon %}{% endif %}
+						{{ link.name }}
+					</a>
+				{% endfor %}
+			</ul>
+		</div>
+	</div>
+</section>
