@@ -2,10 +2,10 @@
 title: Embodying Intentions
 date: 2015-05-01 00:00:00
 layout: post
-description: 'I needed to feel it in my body, my wants needed to be felt in my muscles, my bones, my blood, and in my cells. The body is what brings the intangible into the tangible, I learned to honour the body as an integral tool to my intentions and my spiritual journey.'
+description: 'The body is what brings the intangible into the tangible, I learned to honour the body as an integral tool to my intentions and my spiritual journey.'
 categories:
   - Spirituality
-video: 
+video:
 image: /uploads/fe0c30-5d3dacfac1554cefaa3f75b9ee01d97a.jpg
 ---
 
