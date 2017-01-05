@@ -1,3 +1,6 @@
+clean:
+  - "_site"
+
 jekyll:
   notification: "Running jekyll"
   notificationIncremental: "Running jekyll incremental"
