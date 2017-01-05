@@ -1,10 +1,3 @@
-left_links:
-  - name: BLOG
-    link: /blog/
-  - name: MY JOURNEY
-    link: /my-journey/
-  - name: CONNECT
-    link: /connect/
 right_links:
   - name:
     link: 'https://www.facebook.com/EmpowerWithJocelyn/'
