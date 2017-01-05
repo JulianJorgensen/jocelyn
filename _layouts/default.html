@@ -78,10 +78,12 @@
 
 		</footer>
 
+
+		{% assign siteNameShort = site.prod_url | remove: "http://www." %}
 		{% for page in site.pages %}
-			{% if page.include_in_nav %}
+			{% assign pageDirectory = page.dir | replace: '/','' %}
+			{% if page.include_in_nav and pageDirectory == siteNameShort %}
 				<p>{{ page.dir }}</p>
-				<p>site.prod_url: {{ site.prod_url | remove: "http://www." }}</p>
 			{% endif %}
 		{% endfor %}
 
