@@ -1,7 +1,3 @@
-clean:
-  # These folders will be deleted
-  - "_site"
-
 jekyll:
   notification: "Running jekyll"
   notificationIncremental: "Running jekyll incremental"
