@@ -1,9 +1,9 @@
 <nav>
 	<a class="nav-toggle" id="open-nav" href="#">&#9776;</a>
 	{% if site.prod_url == "http://www.jocelynlee.ca" %}
-		{% assign navItems = site.data.navigation.marketing-nav-items %}
+		{% assign navItems = site.data.navigation-marketing %}
 	{% else %}
-		{% assign navItems = site.data.navigation.blog-nav-items %}
+		{% assign navItems = site.data.navigation-blog %}
 	{% endif %}
 
 	{% for link in navItems %}
