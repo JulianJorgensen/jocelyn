@@ -6,7 +6,7 @@ description: 'As an artist I had begun to understand what a muse was. The Ocean 
 categories:
   - Spirituality
   - Artistry
-video: 
+video:
 image: /uploads/do-you-speak-nature.jpg
 ---
 
