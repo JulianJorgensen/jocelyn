@@ -5,16 +5,14 @@ date: 2015-06-03 00:00:00
 description: 'When we put someone on a pedestal, it creates this illusion that they are better, that we are below their mastery. Perhaps they do have more answers to questions than you have, but that does not mean it is absolute.'
 categories:
   - Spirituality
-video: 
+video:
 image: /uploads/fe0c30-56f77744066c46dcaff96514dcd3fe39.jpg
 ---
 
 
-Idolize
-
-> verb (used with object), idolized, idolizing.
-> <br>1. to regard with blind adoration, devotion, etc.
-> <br>2. to worship as a god.
+Idolize: verb (used with object), idolized, idolizing.
+<br>1. to regard with blind adoration, devotion, etc.
+<br>2. to worship as a god.
 
 This is a near and dear topic to me, if you know me you have probably heard me speak upon this already. Though I do not fully identify with the term “New Age,” I truly believe idolization is one of the major preventions of the spiritual/New Age community to fully awaken into oneness and trust in their own wisdom, guidance and discernment.
 <br>
