@@ -6,7 +6,7 @@ description: When life is bigger than your ability to determine and you are swep
 categories:
   - Spirituality
 video:
-image:
+image: /uploads/hopeless.jpg
 ---
 
 
@@ -24,15 +24,23 @@ You might be thinking, "what does this have to do with faith?" Well, let me tell
 
 However, as the eczema situation got worse… as I struggled each evening to sleep because of various conditions like: the moldy mosquito net, or the A/C becoming humid, or the feeling of the polyester sheets against my skin. My will began to slip as I mindlessly scratched at my body till it ripped, bled and bruised. &nbsp;
 
+![](/uploads/versions/itching---x----1280-847x---.jpeg)
+
+> Here is a cute photo of a red panda scratching itself. As a photo depicting the kind of scratching I was doing would not be pleasant to see.
+
 Finally, in the wee hours of one of the worst nights, my optimistic and positive faith flickered and went out. I sat there rocking myself in tears, as I felt every inch of my body cry with me. I sat there in fear that I was not going to get better in months, that because I had no will power in stopping myself that I was going to scar my entire body. That my hands would permanently age as the skin struggled to recover its elasticity, as some of it already had. I was so uncomfortable, I could barely be touched by my lover. We could not even sleep in the same bed. I would just well up in tears as he'd touch me (in brief moments) and tell me I am beautiful and look beautiful always, though I felt far from it.
 
 This roller coaster went up and down, I felt like I was taking two steps forward and one step back. Each day, a painful crawl to the top of the mountain. Only to fall back down in the evening. I hadn't felt that low in a long time, all efforts seemed futile for a 100% recovery while I was here in Costa Rica for a total of 4 months.
 
-The last time I felt this much physical discomfort and pain was when I went through a painful abortion. And the flashbacks of rocking myself in tears, and humming to tone the pain away was elevating the anxiety in my body, my mind and my spirit. There was one small voice in my heart that reminded me that I got through that... I can get through this...
+The last time I felt this much physical discomfort and pain was when I went through a painful abortion. And the flashbacks of rocking myself in tears, and humming to tone the pain away was elevating the anxiety in my body, my mind and my spirit. There was one small voice in my heart that reminded me that I got through that… I can get through this…
 
-A painful physical experience can suck the faith right out of the ethers and test you in the most tangible of ways. How deep does your faith run? This was my lesson.
+A painful physical experience can suck the faith right out of the ethers and test you in the most tangible of ways. ***How deep does your faith run?*** This was my lesson.
 
-Today, I sit here writing this experience to share with you. I am healed, yet I'm still getting stronger but my faith runs more than skin deep. I communed with an Ascended Master in meditation, Mahachohan Ragoczy, to review my lesson in this journey. And this is what I learned:
+![](/uploads/versions/better-now---x----1296-972x---.jpeg)
+
+> My beloved, Julian got me out on Christmas eve to the beach - was my first time there in almost a month! And as you can see, my skin is better and I can be closer to my love.
+
+Today, I sit here writing this experience to share with you. I am healed, yet I'm still getting stronger and my faith runs more than skin deep. I communed with an Ascended Master in meditation, Mahachohan Ragoczy, to review my lesson in this journey. And this is what I learned:
 
 Faith is to be put to use, as it guides our daily perspective on life. However, faith is not useful and most powerful when things are going well, it's when things are not. When things do not go your way, and they are out of your control. When life is bigger than your ability to determine and you are swept into the cosmic current for a greater alignment of events - that is when faith is useful.
 
@@ -41,6 +49,8 @@ Faith is like a muscle that you develop over time, and through different experie
 BUT, my faith is less developed in events where my body is the experiencer. As I shared with my abortion and the eczema situation. When you're going through a painful experience that is new and foreign, it can be a painful lesson of faith. It will be very challenging and it will require much more effort… more effort to let go and trust.&nbsp;
 
 **In bad faith, we rise.&nbsp;**
+
+![](/uploads/versions/in-bad-faith-we-rise---x----986-591x---.jpg)
 
 If your faith is weakened as because you've been swept down the river, sometimes all you can truly do is stay afloat - or if you're capable, swim with the current. Either way it's a trust that you will make it to shore.&nbsp;
 <br>
