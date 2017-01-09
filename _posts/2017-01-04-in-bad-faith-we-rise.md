@@ -40,7 +40,7 @@ A painful physical experience can suck the faith right out of the ethers and tes
 
 > My beloved, Julian got me out on Christmas eve to the beach. It was my first time there the month I was here! And as you can see, my skin is better and I can be closer to my love.
 
-Today, I sit here writing this experience to share with you. I am heale and getting stronger each day. And I can say my faith runs more than skin deep. I communed with an Ascended Master in meditation, Mahachohan Ragoczy, to review my lesson in this journey, in this story. This is what I learned:
+Today, I sit here writing this experience to share with you. I am healed and getting stronger each day. And I can say my faith runs more than skin deep. I communed with an Ascended Master in meditation, Mahachohan Ragoczy, to review my lesson in this journey, in this story. This is what I learned:
 
 Faith guides our daily perspective on life and is to be put to use. However, faith is not useful and most powerful when things are going well, it's when things are not. When things do not go your way, and they are out of your control. When life is bigger than your ability to determine its outcome and you are swept into the cosmic current for a greater alignment of events - that is when faith is useful.
 
