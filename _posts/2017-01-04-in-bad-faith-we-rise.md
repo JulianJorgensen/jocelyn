@@ -20,7 +20,7 @@ I have had eczema since I was a child, and it got better as I got older - almost
 
 > On the left is the beginning of November. On the Right is the beginning of December, as you can see it's even on my face - but I found a way to smile-ish!
 
-You might be thinking, "what does this have to do with faith?" Well, let me tell I truly believe the universe is with me each step of my way to all-good-things. Even when my friend passed away this year, even when I unexpectedly fell in love with Julian and had to break up with my boyfriend of 3 years, even when it seemed like I would not find a place for me and my dog to live - I was faithful in the good and the outcome proved supportive of this belief. No questions asked, this flame was unwavering by my very will and experiences.
+You might be thinking, "what does this have to do with faith?" Well, let me tell you that I truly believe the universe is with me each step of my way to all-good-things. Even when my friend passed away this year, even when I unexpectedly fell in love with Julian and had to break up with my boyfriend of 3 years, even when it seemed like I would not find a place for me and my dog to live - I was faithful in the good and the outcome proved supportive of this belief. No questions asked, this flame was unwavering by my very will and experiences.
 
 **However**, as the eczema situation got worse… as I struggled each evening to sleep because of various conditions like: the moldy mosquito net, or the A/C becoming humid, or the feeling of the polyester sheets against my skin. My will began to slip as I mindlessly scratched at my body till it ripped, bled and bruised.
 
