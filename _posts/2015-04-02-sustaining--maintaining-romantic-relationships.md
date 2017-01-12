@@ -6,7 +6,7 @@ description: 'There are many ways to be engaged in a loving relationship, there 
 categories:
   - Spirituality
   - Sexuality
-video: 
+video:
 image: /uploads/whatsapp-image-2016-08-22-at-11-14-45-am.jpeg
 ---
 
@@ -19,7 +19,7 @@ Let what resonates you encourage and support you, and let what rubs you the wron
 
 ### &nbsp;
 
-### Being Honest
+## Being Honest
 
 No matter what circumstance you may find yourself in, honesty truly is the best policy, especially if you want to be in a relationship that is happy, loving, healthy and lasting. It doesn’t mean you have to share everything that goes on in your mind and heart, as if you must report these personal moments. After all, being honest is not just about the other person, it is about being honest with yourself too.
 
@@ -29,9 +29,9 @@ These reasons do not have a loving foundation to it, they are that layer of icin
 
 When you are honest, you give yourself and the other person a chance to develop trust, and an opportunity for them to choose to want to overcome obstacles with you; to nurture and grow your relationship and love for one another. For you see, even if one is destined to be together, we all make a conscious choice to be together every second of everyday. For at any moment it could come to an end; from a choice to leave to a tragic accident – the other person could just not be there anymore. Would you want to spend the time you do have together in a lie, or holding thoughts and feelings in? Would it not be worth it to put everything on the line that holds you two together and move through life together embracing all that comes with the person you love?… it is a question for you to answer.
 
-### &nbsp;
+## &nbsp;
 
-### Relationships are a lot of Work
+## Relationships are a lot of Work
 
 I love hearing this statement, because I used to think it was absolutely true. Now, as I continuously challenge my honesty and loving capabilities, I realize it doesn’t have to be a lot of work. This is where sustaining versus maintaining a relationship comes in. I had recently lived the difference and realized some very important considerations to work and relationships.
 
@@ -43,7 +43,7 @@ Below are two hypothetical and extreme situations of how relationships can be di
 
 ### &nbsp;
 
-### Sustaining and Maintaining Love
+## Sustaining and Maintaining Love
 
 It is not hard to see when it is out of balance, the passionate lovers who quarrel or are attached at the hips; the practical lovers who see their strengths and weaknesses and learn to co-exist together based on these qualities. One is intoxicating chaos, while the other is clock-work comfort. If we are talking in extremes, the first couple would probably end up apart, knowing they are unhealthy for one another but always longing for the “what ifs.” The latter couple, may ride out life together without many lows, but not many highs either, knowing that they are fulfilling the expectations of a working relationship.
 
