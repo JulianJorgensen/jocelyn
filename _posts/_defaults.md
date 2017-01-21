@@ -1,9 +1,8 @@
 ---
 layout: post
-title:
-date:
-description:
-categories:
-video:
-image:
+description: 
+categories: 
+video: 
+image: 
 ---
+

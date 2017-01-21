@@ -1,13 +1,12 @@
 ---
 title: Focusing On Your Strengths
-date: 2014-09-01 21:32:00
+date: 2014-09-01 21:32:00 Z
 layout: post
-categories:
-description: '"There is a fine line between knowing your self-worth, and defending an insecurity of your assumed strengths."'
+description: '"There is a fine line between knowing your self-worth, and defending
+  an insecurity of your assumed strengths."'
 video: 
-image: /uploads/img-8523.jpg
+image: "/uploads/img-8523.jpg"
 ---
-
 
 A reoccurring theme that has been appearing the last few weeks for me, and those that have had sessions with me, has been the topic of strength vs. weaknesses when trying to grow, change, and improve.
 

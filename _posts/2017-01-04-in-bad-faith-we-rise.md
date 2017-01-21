@@ -1,14 +1,15 @@
 ---
-layout: post
-title: 'In Bad Faith, We Rise'
-date: 2017-01-04 18:06:00
-description: When life is bigger than your ability to determine its outcome and you are swept into the cosmic current for a greater alignment of events - that is when faith is useful.
+title: In Bad Faith, We Rise
+date: 2017-01-04 18:06:00 Z
 categories:
-  - Spirituality
-video:
-image: /uploads/hopeless.jpg
+- Spirituality
+layout: post
+description: When life is bigger than your ability to determine its outcome and you
+  are swept into the cosmic current for a greater alignment of events - that is when
+  faith is useful.
+video: 
+image: "/uploads/hopeless.jpg"
 ---
-
 
 I have a story to tell you about faith. The truth about faith. It begins in Costa Rica in a community called Pachamama.
 
