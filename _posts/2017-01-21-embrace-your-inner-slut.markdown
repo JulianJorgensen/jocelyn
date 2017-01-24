@@ -2,6 +2,8 @@
 title: Embrace Your Inner Slut
 date: 2017-01-21 21:21:00 Z
 permalink: embrace-your-inner-slut
+categories:
+- Sexuality
 ---
 
 ![DSC02599 2.jpg](/uploads/DSC02599%202.jpg)
