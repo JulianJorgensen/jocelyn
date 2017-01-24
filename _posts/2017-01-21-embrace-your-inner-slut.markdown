@@ -7,8 +7,6 @@ categories:
 image: "/uploads/DSC02599%202.jpg"
 ---
 
-![DSC02599 2.jpg](/uploads/DSC02599%202.jpg)
-
 I am sitting here writing to you after a full day of amazing dirty love making with my beloved and a morning of pleasurable and healing masturbation.  That’s a big mouthful to swallow (pun intended) - but take it in - observe and feel your reaction to that sentence.
 
 Maybe you're feeling intrigued, shocked, and perhaps even a little turned on. Or, you could be feeling shy or maybe appalled from TMI, yet you're still reading because you are curious to know more about that taboo word: **SLUT.**
@@ -17,7 +15,7 @@ If you're here - **You’re a slut and you know it.**
 
 **AND** - that is a beautiful, sexy and powerful thing.  I want you to know that part hidden in the back of who you are is the \*\*sacred \*\*slut.  She wants to help you heal and become full of bliss and wholeness. She deserves your love, your attention, and your respect.
 
-\*\*DISCLAIMER: \*\* *It's about to get personal, intimate and explicit - if you're not ready, don't read on.*
+\*\***DISCLAIMER:**  *It's about to get personal, intimate and explicit - if you're not ready, don't read on.*
 
 ![WatchingTV.jpg](/uploads/WatchingTV.jpg)
 
