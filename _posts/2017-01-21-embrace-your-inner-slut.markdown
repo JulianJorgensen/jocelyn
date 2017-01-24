@@ -4,6 +4,7 @@ date: 2017-01-21 21:21:00 Z
 permalink: blog/embrace-your-inner-slut
 categories:
 - Sexuality
+- Spirituality
 image: "/uploads/DSC02599%202.jpg"
 ---
 
@@ -13,7 +14,7 @@ Maybe you're feeling intrigued, shocked, and perhaps even a little turned on. Or
 
 If you're here - **You’re a slut and you know it.**
 
-**AND** - that is a beautiful, sexy and powerful thing.  I want you to know that part hidden in the back of who you are is the \*\*sacred \*\*slut.  She wants to help you heal and become full of bliss and wholeness. She deserves your love, your attention, and your respect.
+**AND** - that is a beautiful, sexy and powerful thing.  I want you to know that part hidden in the back of who you are is the sacred slut.  She wants to help you heal and become full of bliss and wholeness. She deserves your love, your attention, and your respect.
 
 \*\***DISCLAIMER:**  *It's about to get personal, intimate and explicit - if you're not ready, don't read on.*
 
@@ -29,11 +30,15 @@ Well, this proved to be very difficult for the inner slut. The fact that our soc
 
 ![FirstFinger.jpg](/uploads/FirstFinger.jpg)
 
+> That's me! Baby J around 12 years old.
+
 So as the years passed in a nutshell: I became sexually active young - the first finger bang at 12. Then many of my high school years were unfortunate events of being taken advantaged of in innocence, naivety  and not knowing how to say no - then repeating this cycle upon myself. I was an outstanding student in the daylight - student council, athlete, theatre kid, good student, etc.  But at night - the unconscious slut came out in conscious and poorly informed actions. I also had a vibrator under my pillow for when the sexual desires were so strong and I couldn't think of anything else, I could play with myself before sleeping and when I woke up. I was very ashamed of this part of myself and guilty - because deep down I enjoyed this amazing and relieving pleasure.
 
 ![dildogift.jpg](/uploads/dildogift.jpg)
 
-Then one day I got mad and channeled this energy into my slut. In my early 20s, I became a man-eater. Dating, manipulating, controlling and sleeping with many men and embracing the fact that I actually love sex. And, I was very good at it. I was even proud to be this promiscuous woman - I didn't mind being known for this prowess. I openly talked about my sex-capades, I even got a dildo from a Secret Santa at work. But soon, it became a game. I was missing what I was truly yearning for: **love making** with someone I love. Sex had become an empty instant gratification of pleasure.
+> Not the first one, and definitely not the last. The gift I got from my secret Santa - at work.
+
+Then one day I got mad and channeled this energy into my slut. In my early 20s, I became a man-eater. Dating, manipulating, controlling and sleeping with many men and embracing the fact that I actually love sex. And, I was very good at it. I was even proud to be this promiscuous woman - I didn't mind being known for this prowess. I openly talked about my sex-capades, I even got a dildo from a secret Santa at work. But soon, it became a game. I was missing what I was truly yearning for: **love making** with someone I love. Sex had become an empty instant gratification of pleasure.
 
 I pretty much ended up closing the door on my sex life, having sex but without very much passion and with limited pleasure - solely interested in the heart connection I was so craving. **But the slut could not be hidden.** Once, in a past relationship I was told during sex that I was, "too sexy." So, again, I felt like putting a pad lock on the slut. After all, aren't we told that good girls are the one guys want to commit to?
 
@@ -41,7 +46,7 @@ Fast forward to my current tantric relationship with my beloved Julian, who had 
 
 ![IMG-20161007-WA0008-e75ae9.jpg](/uploads/IMG-20161007-WA0008-e75ae9.jpg)
 
-All those years and times you've slammed the door on her face, because you were afraid, turned her into this monster of the night that only comes out in spontaneous moments of sex where you lose control. But she is actually sacred and so loving because she empowers all the parts of yourself you are ashamed, guilty, shy and afraid about feeling and being. She shows you that it is not bad, that it is actually so beautiful if you'd just allow it to come into the light. She is always there and will not go away, because she loves you. She's wants you to have immense love, joy, pleasure and (w)holy-ness in your life.
+All those years and times you've slammed the door on her face, because you were afraid, turned her into this monster of the night that only comes out in spontaneous moments of sex where you lose control. But she is actually sacred and so loving because she empowers all the parts of yourself you are ashamed, guilty, shy and afraid about feeling and being. She shows you that it is not bad, that it is actually so beautiful if you'd just allow it to come into the light. She is always there and will not go away, because she loves you. She wants you to have immense love, joy, pleasure and (w)holy-ness in your life.
 
 **Change your perception, free yourself and embrace your inner slut.**
 
