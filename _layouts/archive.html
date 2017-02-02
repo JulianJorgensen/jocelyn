@@ -3,7 +3,14 @@ layout: default
 exclude_from_nav: true
 ---
 
-<section class="hero category-{{ page.title | downcase }}">
+{% assign navItems = site.navigation %}
+{% for navitem in navItems %}
+	{% if navitem.title == page.title %}
+		{% assign heroImage = navitem.image %}
+	{% endif %}
+{% endfor %}
+
+<section class="hero" style="background-image: url({{heroImage}});">
 	<div class="inner-hero text-container">
 		<div class="hero-text-container">
 			<h1><strong>{{ page.title }}</strong></h1>
