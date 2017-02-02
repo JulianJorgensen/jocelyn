@@ -4,20 +4,6 @@
   <img src="/images/separator.png" />
 </div>
 
-<h3 class="post-cta-header">More posts by Jocelyn</h3>
-<div class="blog-navigation">
-  {% if page.next %}
-    <div class="button cta next"><a href="{% include relative-src.html src=page.next.url %}">&laquo; {{ page.next.title }}</a></div>
-  {% endif %}
-  {% if page.previous %}
-    <div class="button cta prev"><a href="{% include relative-src.html src=page.previous.url %}">{{ page.previous.title }} &raquo;</a></div>
-  {% endif %}
-</div>
-
-<div class="separator">
-  <img src="/images/separator.png" />
-</div>
-
 <h3 class="post-cta-header">Comment on this post</h3>
 {% if site.disqus_shortname %}
   <div id="disqus_thread"></div>
@@ -37,6 +23,20 @@
   </script>
   <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
 {% endif %}
+
+<div class="separator">
+  <img src="/images/separator.png" />
+</div>
+
+<h3 class="post-cta-header">More posts by Jocelyn</h3>
+<div class="blog-navigation">
+  {% if page.next %}
+    <div class="button cta next"><a href="{% include relative-src.html src=page.next.url %}">&laquo; {{ page.next.title }}</a></div>
+  {% endif %}
+  {% if page.previous %}
+    <div class="button cta prev"><a href="{% include relative-src.html src=page.previous.url %}">{{ page.previous.title }} &raquo;</a></div>
+  {% endif %}
+</div>
 
 <div class="separator">
   <img src="/images/separator.png" />

@@ -34,17 +34,20 @@ h1 strong, h2 strong {
 h1 {
 	font-family: 'Aclonica', sans-serif;
 	font-weight: 300;
-	font-size: 3.8em;
+	font-size: 1.4em;
 	margin: 0;
+	@media #{$desktop} {
+		font-size: 3.8em;
+	}
 }
 
 h2 {
 	font-weight: 700;
-	font-size: 1.6em;
+	font-size: 1.2em;
 	margin: 0 0 10px 0;
 	line-height: 1.2em;
 	color: $brand-color;
-	@media #{$mid-point} {
+	@media #{$desktop} {
 		font-size: 2em;
 	}
 }
@@ -74,11 +77,16 @@ quote,
 }
 
 p, address, ul, ol {
-	font-size: 1.38em;
+	font-size: 1.2rem;
+	line-height: 1.6rem;
 	margin-bottom: 20px;
 	font-weight: 300;
-	line-height: 1.6em;
 	font-family: 'Lato', sans-serif;
+
+	@media #{$desktop} {
+		font-size: 1.38rem;
+		line-height: 2rem;
+	}
 }
 
 p{
@@ -96,7 +104,7 @@ p{
 		display: none;
 	}
 	@media #{$mid-point} {
-		padding: 60px 0;
+		padding: 40px 0;
 		&:last-child{
 			display: block;
 		}

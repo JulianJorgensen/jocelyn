@@ -22,8 +22,39 @@
 			padding-bottom: 20px;
 		}
 
+		.post-content{
+			padding: 0;
+			display: flex;
+			flex-direction: column-reverse;
+
+			@media #{$desktop} {
+				flex-direction: row;
+
+				.post-content-excerpt{
+					padding-right: 10px;
+				}
+				.post-content-excerpt,
+				.post-content-image{
+					flex-basis: 50%;
+				}
+			}
+			.post-content-image{
+				height: 200px;
+				margin-top: 10px;
+				margin-bottom: 10px;
+				background-position: center center;
+				background-size: cover;
+				a{
+					display: block;
+					height: 100%;
+					width: 100%;
+				}
+			}
+
+		}
+
 		.post-details {
-			padding-top: 15px;
+			padding-top: 5px;
 
 		}
 	}
@@ -87,12 +118,14 @@
 	}
 
 	.post-content {
-		padding: 0;
+		padding: 15px;
 
 		.button {
-			margin: 30px 0 0 0;
+			margin: 15px 0 0 0;
+			@media #{$desktop} {
+				margin-top: 30px;
+			}
 		}
-
 	}
 
 	.facebook-cta-wrapper{
@@ -103,12 +136,20 @@
 .pagination {
 	position: relative;
 	text-align: center;
-	padding: 0 0 40px;
+	padding: 30px 0 40px;
 
 	.button{
 		visibility: hidden;
 		&.visible{
 			visibility: visible;
+		}
+
+		a{
+			display: block;
+			background-color: $brand-color;
+			color: white;
+			padding-top: 14px;
+			padding-bottom: 14px;
 		}
 	}
 
@@ -122,13 +163,15 @@
 	}
 
 	.page_number{
-		position: absolute;
-		left: 50%;
-		margin-left: -100px;
-		width: 200px;
-		font-size: 1.4em;
+		color: black;
 		line-height: 50px;
-		color: $brand-color;
+		@media #{$desktop} {
+			position: absolute;
+			left: 50%;
+			margin-left: -100px;
+			width: 200px;
+			font-size: 1.4em;
+		}
 	}
 }
 
@@ -192,6 +235,7 @@
 
 #post-video-container{
 	margin-top: 30px;
+	margin-bottom: 30px;
 	position: relative;
 	padding-bottom: 56.25%; /* 16:9 */
 	height: 0;

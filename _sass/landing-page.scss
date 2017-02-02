@@ -2,12 +2,15 @@
 	position: relative;
 	color: #ffffff;
 	text-align: center;
-	height: 100vh;
-	min-height: 550px;
+	min-height: 250px;
 	background-color: #333;
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center center;
+	@media #{$desktop} {
+		height: 100vh;
+		min-height: 550px;
+	}
 
 	&:before {
 		content: "";
@@ -43,6 +46,7 @@
 
 	.hero-text-container {
 		text-align: left;
+		margin-top: 80px;
 
 		h1, h2, p, .button {
 			text-shadow: 1px 1px 1px rgba(0,0,0,.8);
@@ -65,6 +69,13 @@
 			&, path{
 				fill: white;
 			}
+		}
+	}
+
+	#cta-my-journey{
+		display: none;
+		@media #{$desktop} {
+			display: block;
 		}
 	}
 }
@@ -113,25 +124,8 @@
 
 #landing-page-heading{
 	position: relative;
-	height: 80px;
-	width: 400px;
-
-	.heading-hover{
-		opacity: 0;
-	}
-
-	&:hover{
-		.heading-original{
-			opacity: 0;
-		}
-		.heading-hover{
-			opacity: 1;
-		}
-	}
-
-	.heading-original,
-	.heading-hover{
-		position: absolute;
-		transition: opacity 0.5s;
+	@media #{$desktop} {
+		height: 80px;
+		width: 400px;
 	}
 }

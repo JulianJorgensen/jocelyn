@@ -4,13 +4,14 @@
 	text-decoration: none;
 	border: 2px solid $brand-color;
 	transition: .2s ease-in-out;
-	display: block;
+	display: inline-block;
 	text-align: center;
-	padding: 14px 30px;
+	padding: 8px 30px;
 	background: #fff;
 
 	@media #{$desktop} {
 		display: inline-block;
+		padding: 10px 30px;
 	}
 }
 
