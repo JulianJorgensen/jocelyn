@@ -1,40 +1,18 @@
 <nav>
 	<a class="nav-toggle" id="open-nav" href="#">&#9776;</a>
-	{% assign navItems = site.collections.navigation %}
-	navitems: {{navItems}}
+	{% assign navItems = site.navigation %}
 
-	Prod collection:
-<hr>
-{% for collection in site.collections.navigation %}
-	{{collection}}
-	{{collection.name}}
-	{{collection.link}}
-	{{collection.label}}
-{% endfor %}
-
-<hr>
-
-{% assign sorted = site.navigation %}
-{{sorted}}
-{% for item in sorted %}
-<li>{{ item.title }}</li>
-<li>{{ item.name }}</li>
-{% endfor %}
-
-
-	{% for link in navItems %}
-		link: {{link.name}}
-
-		<!-- {% assign class = "" %}
-		{% if link.highlight %}
+	{% for navitem in navItems %}
+		{% assign class = "" %}
+		{% if navitem.highlight %}
 			{% assign class = class | append: " highlight" %}
 		{% endif %}
 
 		{% assign currentPage = page.url | split: "/" %}
-		{% assign currentLink = link.link | replace: "/", "" %}
+		{% assign currentLink = navitem.link | replace: "/", "" %}
 		{% if currentLink == currentPage[1] %}
 			{% assign class = class | append: " active" %}
 		{% endif %}
-		<a href="{% include relative-src.html src=link.link %}" class="{{ class }}" {% if link.new_window %}target="_blank"{% endif %}>{{ link.name }}</a> -->
+		<a href="{% include relative-src.html src=navitem.link %}" class="{{ class }}" {% if navitem.new_window %}target="_blank"{% endif %}>{{ navitem.title }}</a>
 	{% endfor %}
 </nav>
