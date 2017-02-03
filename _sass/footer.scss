@@ -1,9 +1,43 @@
 footer {
-	padding: 0 25px;
+	padding: 50px 25px;
 	font-size: 0.8rem;
 	position: relative;
 	background: $brand-color;
 	color: #fff;
+
+	display: flex;
+	flex-direction: column;
+
+	h2{
+		color: white;
+		text-align: center;
+	}
+	#mc_embed_signup{
+		background: transparent;
+		font: inherit;
+
+		input, .button{
+			height: 50px !important;
+			font: inherit;
+			font-size: 1.2rem !important;
+		}
+
+		#mc-embedded-subscribe{
+			background-color: $complimentary-color;
+		}
+	}
+
+	.socialmedia-icons{
+		margin-top: 50px;
+		font-size: 20px;
+		text-align: center;
+		svg{
+			width: 40px;
+			height: 40px;
+			opacity: 0.4;
+			fill: white;
+		}
+	}
 
 	@media #{$large} {
 		font-size: 1.4rem;
@@ -139,6 +173,8 @@ footer {
 		}
 		p{
 			margin-bottom: 0;
+			font-size: 1rem;
+			line-height: 1.4rem;
 		}
 	}
 }

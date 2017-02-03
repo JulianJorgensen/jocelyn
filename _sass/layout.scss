@@ -263,7 +263,7 @@ blockquote:before {
 }
 
 #site-author{
-	background-color: black;
+	background-color: darken($brand-color, 15%);
 	padding: 20px;
 	color: #C5A963;
 	text-align: center;
