@@ -21,7 +21,7 @@
 
 	changeHeader();
 
-	document.getElementById("open-nav").addEventListener("click", function (event) {
+	$("[data-toggle-nav]").on("click", function (event) {
 		event.preventDefault();
 		document.body.classList.toggle("nav-open");
 		changeHeader();

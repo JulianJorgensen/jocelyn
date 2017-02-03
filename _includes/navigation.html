@@ -1,5 +1,5 @@
-<nav>
-	<a class="nav-toggle" id="open-nav" href="#">&#9776;</a>
+<nav class="main-nav">
+	<a class="nav-toggle" id="open-nav" data-toggle-nav href="#">&#9776;</a>
 	{% assign navItems = site.navigation | sort: 'position' %}
 
 	{% for navitem in navItems %}
@@ -9,10 +9,22 @@
 		{% endif %}
 
 		{% assign currentPage = page.url | split: "/" %}
-		{% assign currentLink = navitem.link | replace: "/", "" %}
-		{% if currentLink == currentPage[1] %}
+		{% assign currentLink = navitem.link | split: "/" %}
+		{% if currentLink[1] == "category" %}
+			{% assign currentLink = currentLink[2] %}
+			{% assign currentPage = currentPage[2] %}
+		{% else %}
+			{% assign currentLink = currentLink[1] %}
+			{% assign currentPage = currentPage[1] %}
+		{% endif %}
+
+		{% if currentLink == currentPage %}
 			{% assign class = class | append: " active" %}
 		{% endif %}
 		<a href="{% include relative-src.html src=navitem.link %}" class="{{ class }}" {% if navitem.new_window %}target="_blank"{% endif %}>{{ navitem.title }}</a>
 	{% endfor %}
+
+	<a href="#mc_embed_signup" data-toggle-nav class="mobile-join-newsletter">Join my Newsletter</a>
 </nav>
+
+<nav class="join-newsletter"><a href="#mc_embed_signup">Join my Newsletter</a></nav>
