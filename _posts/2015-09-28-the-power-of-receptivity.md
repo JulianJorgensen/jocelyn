@@ -3,7 +3,7 @@ title: The Power of Receptivity
 date: 2015-09-28 00:00:00 Z
 categories:
 - Spirituality
-- Artistry
+- Creativity
 layout: post
 description: I take a deep breath in, and I say “Thank you, I very much appreciate
   it.”

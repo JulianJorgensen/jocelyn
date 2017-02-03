@@ -3,7 +3,7 @@ title: '"My Inner Child"'
 date: 2015-04-19 00:00:00 Z
 categories:
 - Spirituality
-- Artistry
+- Creativity
 layout: post
 description: It is dark; I frolic in the valley with white crystalline light swirling
   beneath and all around me. They are star dust. I am a child of the stars and the

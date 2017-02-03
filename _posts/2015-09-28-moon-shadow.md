@@ -3,7 +3,7 @@ title: Moon Shadow
 date: 2015-09-28 00:00:00 Z
 categories:
 - Spirituality
-- Artistry
+- Creativity
 layout: post
 description: I am a Pisces, I need to evolve, I need to change, I need to live free,
   I need to live a purposeful life.

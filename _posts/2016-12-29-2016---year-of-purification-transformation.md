@@ -3,7 +3,7 @@ title: 2016 - Year of Purification Transformation
 date: 2016-12-29 00:00:00 Z
 categories:
 - Spirituality
-- Artistry
+- Creativity
 - Sexuality
 layout: post
 description: This year was the most intense year of my life, back to back series of

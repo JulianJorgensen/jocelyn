@@ -3,7 +3,7 @@ title: Initiation
 date: 2015-09-21 00:00:00 Z
 categories:
 - Spirituality
-- Artistry
+- Creativity
 layout: post
 description: I am ready to reclaim my freedom in this life, too many moons have past
   where I believed life had to be lived in a certain way, governed by limited expectations.

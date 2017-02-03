@@ -3,7 +3,7 @@ title: I Weep Pleasure
 date: 2015-09-28 00:00:00 Z
 categories:
 - Spirituality
-- Artistry
+- Creativity
 layout: post
 description: I was so grateful… so grateful, I was so grateful I smiled when I was
   crying, I feel pleasure when I cry.

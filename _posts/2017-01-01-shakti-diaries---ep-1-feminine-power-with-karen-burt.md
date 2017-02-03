@@ -2,7 +2,7 @@
 title: 'Shakti Diaries - Ep 1: Feminine Power with Karen Burt'
 date: 2017-01-01 00:00:00 Z
 categories:
-- Shakti Diaries
+- Videos
 - Spirituality
 - Sexuality
 layout: post-video

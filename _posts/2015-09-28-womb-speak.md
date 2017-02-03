@@ -3,7 +3,7 @@ title: Womb Speak
 date: 2015-09-28 00:00:00 Z
 categories:
 - Spirituality
-- Artistry
+- Creativity
 layout: post
 description: My womb and I have had a challenging relationship. A continuous role
   reversal of one playing the light and one the dark.

@@ -3,7 +3,7 @@ title: Do You Speak Nature?
 date: 2015-10-08 00:00:00 Z
 categories:
 - Spirituality
-- Artistry
+- Creativity
 layout: post
 description: As an artist I had begun to understand what a muse was. The Ocean is
   my muse… Yemanja, Oshun, Poseidon, mermaids to surfers - I was enraptured by the
