@@ -3,7 +3,7 @@ title: Connect
 description: |-
   Want to collaborate?  Want to share something with me? 
   Don't be shy, let's connect!
-image: "/uploads/connect-picture.jpg"
+image: "/uploads/Quote.jpg"
 share_url: default
 include_in_nav: true
 ---
