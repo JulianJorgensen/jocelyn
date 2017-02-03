@@ -1,10 +1,8 @@
 ---
 title: My Journey
-description: It is my soul's calling to share my authentic heart and intimate life
-  with you. From the enlightening mysteries explored in the spirit world, the goddess
-  living tantra on a mission to Elevate Sex, to the many aspects of myself as living
-  art. I am a spirit weaver, a tantrika goddess, and a shapeshifting artist.
-image: "/images/Journey-Page.jpg"
+description: 'Jocelyn Lee is an Empowerment Coach for Women from Vancouver, BC. She
+  is a Blogger and Vlogger of her life in Spirituality, Sexuality/Tantra, and Creativity. '
+image: "/uploads/Connect-Picture.jpg"
 include_in_nav: true
 ---
 
