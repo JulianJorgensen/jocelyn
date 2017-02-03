@@ -1,6 +1,6 @@
 <nav>
 	<a class="nav-toggle" id="open-nav" href="#">&#9776;</a>
-	{% assign navItems = site.navigation %}
+	{% assign navItems = site.navigation | sort: 'position' %}
 
 	{% for navitem in navItems %}
 		{% assign class = "" %}
