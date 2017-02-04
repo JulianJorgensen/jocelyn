@@ -21,20 +21,20 @@ defaults:
     type: posts
   values:
     layout: post
-    image:
+    image: 
 - scope:
     path: contact-success.html
   values:
     layout: page
-baseurl:
+baseurl: 
 google_analytics_key: UA-84803515-1
-google_maps_javascript_api_key:
+google_maps_javascript_api_key: 
 logo: "/siteicon.png"
 description: Spirituality, Sexuality, and Artistry with Jocelyn Lee
 author:
   name: Jocelyn Lee
   email: jocelyn@jocelynlee.ca
-  twitter:
+  twitter: 
 social:
   name: Jocelyn Lee
   links:
