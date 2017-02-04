@@ -4,10 +4,10 @@ date: 2015-02-13 00:00:00 Z
 categories:
 - Spirituality
 - Sexuality
-layout: post
+image: "/uploads/girl%20heart.jpeg"
 description: 
 video: 
-image: "/uploads/screen-shot-2016-11-14-at-2-53-02-pm.png"
+layout: post
 ---
 
 In my lifetime I have adventured through the spectrum of love in relationships of all kind. I’ve seen the worst understanding of love to the best manifestation of it; I’ve also been the worst manifestation of it and the best understanding of it. I’m sure that you have seen the spectrum of love as well, from family, to friends, pets, God, strangers, nature and romance, or with yourself. Did you know that they all originate from unconditional love?
