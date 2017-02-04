@@ -3,7 +3,7 @@ title: 'Millennials: Eccentric Leadership & Embracing Individualism'
 date: 2017-02-04 20:16:00 Z
 categories:
 - Videos
-image: "/uploads/Candid%20Conversations%20-%20Julian%20Jorgensen"
+image: "/uploads/Screen%20Shot%202017-02-02%20at%206.21.38%20PM.png"
 video: "/yXEEfbzG4s8"
 ---
 
