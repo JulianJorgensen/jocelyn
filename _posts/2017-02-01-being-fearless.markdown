@@ -5,6 +5,7 @@ permalink: blog/being-fearless
 categories:
 - Sexuality
 - Spirituality
+- Videos
 image: "/uploads/Being%20Fearless.JPG"
 video: fGCY1ziGMkc
 layout: post-video
