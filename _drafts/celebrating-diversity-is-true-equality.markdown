@@ -1,34 +1,30 @@
 ---
-title: Equality is not 50/50
+title: 50/50 Relationships Kill Passion
 date: 2017-02-02 18:09:00 Z
 ---
 
 I used to think that equality was this 50/50 - split it down the middle sort of thing. And, that it applied to **everything**. Otherwise how could you be truly equal right?
 
-With feminism, resistance and separation on the rise - I want to shift your perspective and hopefully empower you in the process. 
+Have you ever been in a relationship where you guys would repetitively argue over responsibilities in the household ? Who is contributing more by working more? Maybe you split your finances right down the middle, every cheque is divided down to the penny. Unless someone's feeling generous and takes the bill.
 
-You see, people have been living a contradiction of equality when they only define it in quantitative terms. I.e., The idea of half, the same salary, the same number of opportunities, the general neutralization of everything.  And in these numerical things it should be equally available to anyone. But they forget that qualitative matters are more complex and sometimes asks us to create differences and polarize in order to be balanced. 
+Or you're in the other type of relationship where you've both accepted the 50/50 agreement, but find that you are cohabiting with a room mate more than a passionate lover. You can describe the relationship as nice, and you're each other's bffs. 
 
-Equal doesn't mean everything/everyone is the same. 
+First things first before you read further - this is only a perspective meant to received by those who want a passionate relationship. Who want to feel a deep attraction to their beloved everyday, where they long for the roles to be clear and the woman is the woman and the man is the man (or whomever is the more masculine/feminine gets to be that).  
 
-Let's use the work place as an example as it's usually the place with the most discussion in regards to men/women equality.
+You see, people have been living a contradiction of equality when they only define it in quantitative terms. I.e., The idea of half, the same salary, the same number of opportunities - the general neutralization of everything.  And in these numerical terms** it should be equally available to anyone.** But they forget that qualitative matters are more complex and sometimes asks us to allow differences and polarity to be created in order to be balanced, healthy, and whole.
 
-Of course no body wants to be denied a job or a salary "because they're a woman." That's a really limiting perspective without taking the time to unpack it or expand it. And the common response is to feel like they don't want to be seen "as a woman" but as a "colleague." 
+**Equal doesn't mean everything/everyone is the same. And accepting differences does not = inequality. **
 
-Yet the truth is, they will see you as a woman. And that doesn't create inequality. I would want my colleagues to see me as a woman.  I AM a woman.  and that is a difference that exists in reality - that isn't and shouldn't be a sole deciding factor on a quantitative aspect like my salary nor should that be the focus - but we shouldn't try to make it seem like it doesn't matter (like physical reality matter) or that it isn't there. We just don't have to make a big emphasis on it - but we can celebrate, honour and respect that difference.
+It's this neutrality (as I've experienced and come to realize) of the sexes that creates a dispassionate companionship that can lack the attraction and passion we often desire. Of course not for everyone - but anyone who is looking for this needs to understand polarity.
 
-Treating each other equally to me now is respecting and honouring our differences. That our differences is not what makes us better or worse (causing inequality) but it's what puts us on an equal playing field (called earth). We all have a right to be here as we are - in all our differences as human beings.
+We live in a world of polarities: yin & yang, light & dark, dead & alive, positive & negative, female & male. This is what they mean when they say, **OPPOSITES ATTRACT.**
 
-For example - I am Chinese. I am different from you because I am Chinese. This is the truth - that is my race, but I am equal to you because we are of the human race. 
+**So, the shocking truth is: You are a woman. He is a man.** And homegirl, you need to let yourself be the woman/feminine if you want him to step up as a "real man." You gotta let him be the man.
 
-In regards to gender. It's this neutrality (as I've come to realize and really see) of the sexes that creates a dispassionate companionship that can lack the attraction and passion we often desire. Of course not for everyone - but anyone who is looking for this needs to understand polarity.
+So here's the spark note run down on shifting your energy if you're:
 
-So, when you are ovulating - you are in a very feminine energy. Even your hormones and pheromones are putting out that you're a female and ready to go. This attracts the very masculine. These "opposites attract" - just like magnets, the polarized energies create attraction. Of course there needs to be a lot of work and evolution in this notion. That's what makes me so excited about tantra - and funny enough I am just finishing up a blog post on "Embracing Your Inner Slut." 
+* A ball buster - don't, you're basically literally being the man and that does not attract 
 
 We are all souls yes, but we are also women - and they are also men. And these differences, to me, should be celebrated like the different colours of the rainbow - but we all make up equally beautiful contributions of the rainbow. This is why I feel the last decade or so the LGBT community and gender spectrum has risen hard in our collective consciousness because we are learning to accept our differences yet learn to treat each other with love and respect as the standard of equality.
 
-I just feel the other side of the sword you describe is a choice and not an result of being different. Focusing on differences doesn't mean that I will be treated unfairly or with disrespect, or what we think being "treated unequally" means. Embracing differences, loving and accepting them is what creates the "equality" for me. 
-
-Not being different does not equate "equality" for me. Many things cannot be quantitatively equal, the qualitative matters are complex.  
-
-Anywho, in short this is my current perspective of equality and difference - which I feel is possible and the new evolution, through new learning but I understand it could be very forerunning and counter perspective.
+I just feel the other side of the sword you describe is a choice and not an result of being different. Focusing on differences doesn't mean that I will be treated unfairly or with disrespect, or what we think being "treated unequally" means. Embracing differences, loving and accepting them is what creates the "equality" for me.
