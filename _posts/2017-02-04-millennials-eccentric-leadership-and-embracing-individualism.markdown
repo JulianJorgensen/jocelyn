@@ -5,6 +5,7 @@ categories:
 - Videos
 image: "/uploads/Screen%20Shot%202017-02-02%20at%206.21.38%20PM.png"
 video: "/yXEEfbzG4s8"
+layout: post-video
 ---
 
 Are you a millennial?  Do you feel like you want to make a difference in this world? Maybe you also feel like your ideas and dreams a little far out? 
