@@ -19,7 +19,7 @@ Or you're in the other type of relationship where you've both accepted the 50/50
 
 First things first before you read further - this is my perspective  - it's meant to be received by those who want a passionate relationship. Who want to feel a deep attraction to their beloved everyday, where they long for the roles to be clear and the "woman is the woman and the man is the man," so to speak.
 
-You see, like most people, I have lived a contradiction of equality when they only define it in quantitative terms. I.e., The idea of getting equal halves, the same salary, the same number of opportunities...  the general neutralization of everything.  And in these numerical terms, **it should be equally available to anyone.** But we forget that qualitative matters (like relationships!) are more complex and sometimes asks us to allow differences and polarity to be created in order to be balanced, healthy, and whole.
+You see, like most people, I have lived a contradiction of equality when I only define it in quantitative terms. I.e., The idea of getting equal halves, the same salary, the same number of opportunities...  the general neutralization of everything.  And in these numerical terms, **it should be equally available to anyone.** But we forget that qualitative matters (like relationships!) are more complex and sometimes asks us to allow differences and polarity to be created in order to be balanced, healthy, and whole.
 
 **Equal doesn't mean everything/everyone is the same.  And accepting differences does not = inequality.**
 
