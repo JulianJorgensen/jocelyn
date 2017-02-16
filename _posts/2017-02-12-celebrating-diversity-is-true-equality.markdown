@@ -1,6 +1,6 @@
 ---
 title: My 5 Relationship Personas that Killed Passion
-date: 2017-02-02 18:09:00 Z
+date: 2017-02-12 18:09:00 Z
 permalink: "/My-5-Personas-That-Killed-Passion/"
 categories:
 - Sexuality
