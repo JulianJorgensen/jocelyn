@@ -1,6 +1,7 @@
 ---
 title: 'Millennials: Eccentric Leadership & Embracing Individualism'
 date: 2017-02-04 20:16:00 Z
+permalink: "/millennials-eccentric-leadership"
 categories:
 - Videos
 image: "/uploads/Screen%20Shot%202017-02-02%20at%206.21.38%20PM.png"
