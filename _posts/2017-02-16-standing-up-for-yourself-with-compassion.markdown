@@ -1,6 +1,6 @@
 ---
 title: Standing Up for Yourself with Compassion
-date: 2017-02-17 01:21:00 Z
+date: 2017-02-16 21:21:00 Z
 permalink: "/standing-up-for-yourself-with-compassion"
 categories:
 - Videos
