@@ -5,7 +5,7 @@ permalink: "/standing-up-for-yourself-with-compassion"
 categories:
 - Videos
 image: "/uploads/Screen%20Shot%202017-02-16%20at%209.06.25%20PM.png"
-video: "/sREoIljrqKQ/"
+video: "/sREoIljrqKQ"
 layout: post-video
 ---
 
