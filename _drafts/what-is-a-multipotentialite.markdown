@@ -19,6 +19,7 @@ Growing up I was a quick learner with a natural adaptation in many fields while 
 
 But not every blessing comes without a curse. I was cursed with wondering.... well which of these things is the right choice? I was good at many things, but I did not at all feel like I was GREAT at one thing. I was feeling the pressure to conform to the socially valued notion of SPECIALIZATION in career and purpose.
 
-Now, there's nothing wrong with specialization. It's an extremely valuable role in society for someone to be an expert at something. We need those types of people. 
+Now, there's nothing wrong with specialization. It's an extremely valuable role in society for someone to be an expert at something. We need those types of people. And I envied those people who just knew what they wanted to be when they grew up, there was no doubt or hesitation.  
 
-What I didn't realize though, like many other unaware multipotentialites, is that I wasn't 
+But there was no path carved out for someone like me. There wasn't even a category or community I felt like I could be a part of. I didn't feel like I could provide the value I so deeply wanted to offer. Especially being told how great I would be at something. 
+
