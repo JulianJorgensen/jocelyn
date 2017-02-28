@@ -7,13 +7,17 @@ include_in_nav: true
 ---
 
 <section class="hero" style="background-image: url({% include relative-src.html src=page.image %})">
-	<div class="inner-hero text-container">
-		<div class="hero-text-container">
-			<h1 class="editable">My Journey</h1>
-			<p class="subtext editable">&bull; Spirit Weaver &bull;<br />&bull; Tantrika Goddess &bull;<br />&bull; Shapeshifting Artist &bull;<br />&bull; Empowerment Coach for Women &bull;</p>
-		</div>
-	</div>
-	<div class="read-on"><a href="#read-on">read on <span class="arrow">&#x25BC;</span></a></div>
+<div class="inner-hero text-container">
+<div class="hero-text-container">
+# My Journey
+
+• Spirit Weaver •  
+• Tantrika Goddess •  
+• Shapeshifting Artist •  
+• Empowerment Coach for Women •
+</div>
+</div>
+<div class="read-on">[read on <span class="arrow">▼</span>](#read-on)</div>
 </section>
 
 <section class="pad" id="read-on">
