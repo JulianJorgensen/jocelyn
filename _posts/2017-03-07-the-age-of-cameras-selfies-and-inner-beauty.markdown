@@ -14,7 +14,8 @@ I like to look at cultural trends as a clue into where our collective evolution 
 
 So, this is a lighter look at millennial behaviour in the age of the camera, selfie and inner beauty.
 
-Why are we so obsessed with ourselves? How often do we just have the camera on, facing ourselves and just looking at ourselves in different angles? \
+Why are we so obsessed with ourselves? How often do we just have the camera on, facing ourselves and just looking at ourselves in different angles?
+
 \
 ![fashion-person-woman-apple.jpg](/uploads/fashion-person-woman-apple.jpg)
 
@@ -28,7 +29,9 @@ After they're done, I ask them to watch themselves again. When we allow our spee
 
 Often women will tell me how much better they feel when they do this and how much watching themselves have helped them appreciate themselves more. That they often are surprised by their own wisdom and beauty on screen. The more we get used to looking at ourselves, the more comfortable we will be looking deeper into ourselves. And in there are all our answers. In there is our power. 
 
-So with the wise spirit of Yoncé, "Feel Yo'self." \
+So with the wise spirit of Yoncé, "Feel Yo'self."
+
+----------
 
 **JOURNEYING DISCLAIMER:**\
 I am not telling you to go do it - this is simply my experience shared with you.  This was from July 1st (Canada Day), 2015. I was journeying on a magic mushrooms and this was one of the many transmissions I received via this spirit plant. I have been documenting my journeys live because I wanted to share with people that when you journey with plant medicine with intention, you can have a very beautiful, healing,  applicable and profound experiences. This communion with the spiritual world has been vital for my spiritual evolution, and I have deep reverence for these teachers. There's tons of research into the benefits from a medical perspective. Just go to the MAPS ([Multidisciplinary Association for Psychedelic Studies](http://http://www.maps.org/)) website. When we've collectively accepted this gift of the Earth, I will be ready.
