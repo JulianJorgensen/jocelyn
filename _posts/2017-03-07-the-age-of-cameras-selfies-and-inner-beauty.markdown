@@ -10,7 +10,7 @@ video: "/21v0Vn1sRR0/"
 layout: post-video
 ---
 
-I like to look at cultural trends as a clue into where our collective evolution is going. With every creation in our dualistic world there will always be the "good " and the "bad." 
+I like to look at cultural trends as clues into where our collective evolution is going. With every creation in our dualistic world there will always be the "good " and the "bad." 
 
 So, this is a lighter look at millennial behaviour in the age of the camera, selfie and inner beauty.
 
