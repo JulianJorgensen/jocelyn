@@ -4,6 +4,7 @@ date: 2017-03-07 23:39:00 Z
 permalink: "/age-of-selfies"
 categories:
 - Spirituality
+- Videos
 image: "/uploads/Screen%20Shot%202017-03-07%20at%205.24.54%20PM.png"
 video: "/21v0Vn1sRR0/"
 layout: post-video
