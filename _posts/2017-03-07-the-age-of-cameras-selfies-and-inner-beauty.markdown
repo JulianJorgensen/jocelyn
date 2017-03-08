@@ -14,7 +14,7 @@ I like to look at cultural trends as clues into where our collective evolution i
 
 So, this is a lighter look at millennial behaviour in the age of the camera, selfie and inner beauty.
 
-Why are we so obsessed with ourselves? How often do we just have the camera on, facing ourselves and just looking at ourselves in different angles?
+Why are we so obsessed with ourselves? How often do we have the camera on to take a selfie but just looking at ourselves in different angles?
 
 \
 ![fashion-person-woman-apple.jpg](/uploads/fashion-person-woman-apple.jpg)
