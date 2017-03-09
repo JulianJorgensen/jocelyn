@@ -29,7 +29,7 @@ After they're done, I ask them to watch themselves again. When we allow our spee
 
 Often women will tell me how much better they feel when they do this and how much watching themselves have helped them appreciate themselves more. That they often are surprised by their own wisdom and beauty on screen. The more we get used to looking at ourselves, the more comfortable we will be looking deeper into ourselves. And in there are all our answers. In there is our power. 
 
-**So with the wise spirit of Yoncé, "Feel Yo'self."**
+So with the wise spirit of Yoncé,** "Feel Yo'self."**
 
 ----------
 
