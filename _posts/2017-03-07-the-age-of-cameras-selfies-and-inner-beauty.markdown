@@ -14,22 +14,22 @@ I like to look at cultural trends as clues into where our collective evolution i
 
 So, this is a lighter look at millennial behaviour in the age of the camera, selfie and inner beauty.
 
-Why are we so obsessed with ourselves? How often do we have the camera on to take a selfie but just looking at ourselves in different angles?
+Why are we so obsessed with ourselves? How often do we have the camera on to take a selfie but just and up looking at ourselves in different angles?
 
 \
 ![fashion-person-woman-apple.jpg](/uploads/fashion-person-woman-apple.jpg)
 
-What if this is not narcissism but the beginning of introspection. What if this is the cultural and natural evolution of the next generation learning to look at themselves closely, intimately and deeply.
+What if this is not narcissism, but the beginning of introspection. What if this is the cultural and natural evolution of the next generation learning to look at themselves closely, intimately and deeply.
 
-Not everyone will be at the same level of awareness, but we all know what self-consciousness is. Unfortunately it has a bad reputation - which I feel needs to change. If we can open up this word and embrace this strong paying of attention to ourselves with a purpose - it can be a great agent for change and personal growth.
+Not everyone will be at the same level of awareness, but we all know what self-consciousness is. Unfortunately it has a bad reputation - which I feel needs to change. If we can open up this word and embrace this strong paying-of-attention to ourselves **with a purpose** - it can be a great agent for change and personal growth.
 
-What I have been recommended for the women I coach is to take the camera/selfie phenomenon deeper and use it as a tool. Just like I have in this video - I ask them to just record their feelings in the moment, looking into the camera. Just start talking. Soon, the "awkwardness" (if there is any for the millennials!) of looking and talking into the camera will fade. \
+What I have been recommending for the women I coach is to take the camera/selfie phenomenon deeper and use it as a tool. Just like I have in this video - I ask them to just record their feelings in the moment, looking into the camera. Just start talking. Soon, the "awkwardness" (if there is any for the millennials!) of looking and talking into the camera will fade. \
 \
-After they're done, I ask them to watch themselves again. When we allow our speech to flow without restriction, and we observe ourselves after the recording is done, we can pick up on our subconscious and unconscious behaviour, beliefs and habits. 
+After they're done, I ask them to watch themselves again. When we allow our speech to flow without restriction, and we observe ourselves after the recording is done, we can pick up on our subconscious and unconscious behaviour, beliefs and habits. From this new perspective we can have more clarity into different aspects of ourselves and make more effective self-improvement. 
 
 Often women will tell me how much better they feel when they do this and how much watching themselves have helped them appreciate themselves more. That they often are surprised by their own wisdom and beauty on screen. The more we get used to looking at ourselves, the more comfortable we will be looking deeper into ourselves. And in there are all our answers. In there is our power. 
 
-So with the wise spirit of Yoncé, "Feel Yo'self."
+**So with the wise spirit of Yoncé, "Feel Yo'self."**
 
 ----------
 
