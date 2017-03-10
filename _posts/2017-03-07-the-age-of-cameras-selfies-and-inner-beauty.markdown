@@ -33,9 +33,11 @@ Not everyone will be at the same depth of awareness, but we all know what self-c
 
 We are literally pointing an unbiased eye at us. The camera is the neutral observer watching us, with the powerful ability to show us ourselves as we are. How we choose to be. Capturing every twitch, hesitation, exaggeration, sincerity and beauty.
 
-What I have been recommending for the women I coach is to take the camera/selfie phenomenon deeper and use it as a tool. Just like I have in this video - I ask them to just record their feelings in the moment, looking into the camera. Just start talking. Soon, the "awkwardness" (if there is any for the millennials!) of looking and talking into the camera will fade. \
+What I have been recommending for the women I coach is to regularly take the camera/selfie phenomenon deeper and use it as a tool. Just like I have in this video - I ask them to just record their feelings in the moment, looking into the camera. Just start talking. Soon, the "awkwardness" (if there is any for the millennials!) of looking and talking into the camera will fade. 
+
+When you do this your subconscious expressions kick in and you'll just speak this stream of consciousness like you're talking to a friend. Be as bold, vulnerable, honest and uninhibited as possible.\
 \
-After they're done, I ask them to watch themselves again. When we allow our speech to flow without restriction, and we observe ourselves after the recording is done, we can pick up on our subconscious and unconscious behaviour, beliefs and habits. From this new perspective we can have more clarity into different aspects of ourselves and make more effective self-improvement.
+After they're done, I ask them to observe themselves after without judgement. From this new perspective we can have more clarity into different aspects of ourselves and make more effective self-improvement.
 
 Often women will tell me how much better they feel when they do this and how much watching themselves have helped them appreciate themselves more. That they often are surprised by their own wisdom and beauty on screen. The more we get used to looking at ourselves, the more comfortable we will be looking deeper into ourselves. And in there are all our answers. In there is our power.
 
