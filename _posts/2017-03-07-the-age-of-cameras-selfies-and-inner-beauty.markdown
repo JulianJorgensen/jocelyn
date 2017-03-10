@@ -6,7 +6,7 @@ categories:
 - Spirituality
 - Videos
 image: "/uploads/Screen%20Shot%202017-03-07%20at%205.24.54%20PM.png"
-video: "/21v0Vn1sRR0/"
+video: "/Y9rm76Ca8uU"
 layout: post-video
 ---
 
