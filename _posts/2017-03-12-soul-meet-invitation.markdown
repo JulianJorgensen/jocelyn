@@ -59,6 +59,8 @@ And that's why I'm contacting you personally about this private event. Because I
 
 ### **RESERVE BY: E-transfer or pay-pal $25.00 to [jocelyn@jocelynlee.ca](mailto:jocelyn@jocelynlee.ca)**
 
+* PASSWORD: soulmeet
+
 * make sure you let me know your name and if you're male or female
 
 **More about your host Jocelyn:**
