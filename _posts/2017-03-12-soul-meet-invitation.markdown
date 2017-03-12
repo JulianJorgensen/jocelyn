@@ -57,7 +57,7 @@ And that's why I'm contacting you personally about this private event. Because I
 
 * Again, this is for people ready to make the leap and open the doors to meeting yourself and others from the soul level. So it's up to you to take this opportunity or leave it.
 
-### **RESERVE BY: E-transfer or pay-pal to [jocelyn@jocelynlee.ca](mailto:jocelyn@jocelynlee.ca)**
+### **RESERVE BY: E-transfer or pay-pal $25.00 to [jocelyn@jocelynlee.ca](mailto:jocelyn@jocelynlee.ca)**
 
 * make sure you let me know your name and if you're male or female
 
