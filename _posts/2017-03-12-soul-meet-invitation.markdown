@@ -7,7 +7,7 @@ video: "/X9aZhGjEp68/"
 layout: post-video
 ---
 
-> WATCH THE 3 MIN INVITATION VIDEO BELOW FIRST!
+> WATCH THE 3 MIN INVITATION VIDEO ABOVE FIRST!
 
 I know you're tired of the dating systems & scenes in Vancouver. It ranges from pathetic, bland, awkward to obscene. You want something deeper, more meaningful, perhaps even profound.
 
