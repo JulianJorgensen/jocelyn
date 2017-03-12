@@ -49,12 +49,12 @@ And that's why I'm contacting you personally about this private event. Because I
 FINAL DETAILS:\
 • You are not going to see who else is attending. I'll keep you guys updated on the total of people and if there's going to be a pause for new women/men so I can keep the attendees as even as possible.\
 \
-• This is the space will be dependent on how soon I have the minimum 6 people registered.\
+• This is the space will be dependent on how soon I have the minimum 6 people (m/f) registered.\
 \
 • Again, this is for people ready to make the leap and open the doors to meeting yourself and others from the soul level. So it's up to you to take this opportunity or leave it.\
 \
-• More about your host Jocelyn:\\
+• More about your host Jocelyn:
 
-* [My Journey](http://www.jocelynlee.ca/my-journey/)\\
+* [My Journey](http://www.jocelynlee.ca/my-journey/)
 
 * [ElevateSex.com](http://elevatesex.com/)
