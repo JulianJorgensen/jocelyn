@@ -1,5 +1,5 @@
 ---
-title: SOUL MEET
+title: "."
 date: 2017-03-12 11:12:00 Z
 permalink: "/soul-meet-invitation"
 image: "/uploads/SoulMeet.jpg"
