@@ -44,7 +44,7 @@ And that's why I'm contacting you personally about this private event. Because I
 
 * 2nd - This event will be funded by your investment of:
 
-  -  $25/person (we need at least 6 people)
+  -  $25/person
 
   -   $40/person (after April 1st - fool's day!)
 
