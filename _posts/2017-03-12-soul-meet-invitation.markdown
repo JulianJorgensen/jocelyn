@@ -36,9 +36,9 @@ ______________________________
 
 * *A 3 hour event starting at 6pm, food \+ beverages provided\
   \(if we have 12\+ ppl we'll make it 4 hours)*\
-
-  * BUT HOW MUCH? - Good Question.\
-    • 1st. I am not intending to profit from this particular event. I sincerely want you to connect with each other and I'm only in Vancouver a short while and want to elevate the way people connect in this city. All while enjoying an amazing event, extra money after renting the space will be used to bring your delicious food and beverages!\
+/
+BUT HOW MUCH? - Good Question.\
+1st. I am not intending to profit from this particular event. I sincerely want you to connect with each other and I'm only in Vancouver a short while and want to elevate the way people connect in this city. All while enjoying an amazing event, extra money after renting the space will be used to bring your delicious food and beverages!\
     \
     • 2nd - This event will be funded by your investment of:\*\
     \\
