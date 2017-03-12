@@ -42,10 +42,11 @@ And that's why I'm contacting you personally about this private event. Because I
 
 * 1st. I am not intending to profit from this particular event. I sincerely want you to connect with each other and I'm only in Vancouver a short while and want to elevate the way people connect in this city. All while enjoying an amazing event, extra money after renting the space will be used to bring your delicious food and beverages!
 
-* 2nd - This event will be funded by your investment of:\
-  • $25/person (we need at least 6 people)\
-  • $40/person (after April 1st - fool's day!)\
-  • Reservations close on April 30th, 2017
+* 2nd - This event will be funded by your investment of:
+
+  -  $25/person (we need at least 6 people)\
+  -   $40/person (after April 1st - fool's day!)\
+  -   Reservations close on April 30th, 2017
 
 **FINAL DETAILS:**
 
