@@ -9,24 +9,19 @@ layout: post-video
 
 > WATCH THE 3 MIN INVITATION VIDEO BELOW FIRST!
 
+I know you're tired of the dating systems & scenes in Vancouver. It ranges from pathetic, bland, awkward to obscene. You want something deeper, more meaningful, perhaps even profound.
 
-I know you're tired of the dating systems & scenes in Vancouver. It ranges from pathetic, bland, awkward to obscene. You want something deeper, more meaningful, perhaps even profound.\
+You want a soul connection. Not just the personality you see posted on the screen, or the facades people wear at the party, or the walls of expectations at the set up blind date.
 
-You want a soul connection. Not just the personality you see posted on the screen, or the facades people wear at the party, or the walls of expectations at the set up blind date.\
-
-You want a woman to admire your soul and not just your achievements. You want a man to honour your soul not just your body. You want a connection that makes you feel alive.\
+You want a woman to admire your soul and not just your achievements. You want a man to honour your soul not just your body. You want a connection that makes you feel alive.
 
 But have you ever actually felt this? Do you know how to make soul connections? Have you ever been in a situation that makes you feel safe to learn and explore this with no expectations?
 
-If you're still reading - probably not. Most people haven't.\
+If you're still reading - probably not. Most people haven't.
 
 And that's why I'm contacting you personally about this private event. Because I want you to have that, I genuinely and passionately wish this for you. And I'm here to help you SOUL MEET.
 
-
-
-______________________________
-
-
+---
 
 **THE SOUL MEET:**
 
@@ -38,24 +33,16 @@ ______________________________
 
 * It's going to be a night of deep interactive action facilitated by Jocelyn and room for organic flow of connection
 
-* \
-
 * A 3 hour event starting at 6pm, food \+ beverages provided \
-   (if we have 12\+ ppl we'll make it 4 hours)
-
-
+  \(if we have 12\+ ppl we'll make it 4 hours)
 
 **BUT HOW MUCH? - Good Question.**
 
 * 1st. I am not intending to profit from this particular event. I sincerely want you to connect with each other and I'm only in Vancouver a short while and want to elevate the way people connect in this city. All while enjoying an amazing event, extra money after renting the space will be used to bring your delicious food and beverages!
 
-  \
-
 * 2nd - This event will be funded by your investment of:\
-   • $25/person (we need at least 6 people)\
-   • $40/person (after April 1st - fool's day!)
-
-
+  • $25/person (we need at least 6 people)\
+  • $40/person (after April 1st - fool's day!)
 
 **FINAL DETAILS:**
 
@@ -67,15 +54,12 @@ ______________________________
 
 * Again, this is for people ready to make the leap and open the doors to meeting yourself and others from the soul level. So it's up to you to take this opportunity or leave it.
 
-
 ### **RESERVE BY: E-transfer or pay-pal to [jocelyn@jocelynlee.ca](mailto:jocelyn@jocelynlee.ca)**
 
 * make sure you let me know your name and if you're male or female
 
-
-
 **More about your host Jocelyn:**
 
--  [My Journey](http://www.jocelynlee.ca/my-journey/)
+* [My Journey](http://www.jocelynlee.ca/my-journey/)
 
-- [ElevateSex.com](http://elevatesex.com/)
+* [ElevateSex.com](http://elevatesex.com/)
