@@ -21,35 +21,29 @@ If you're still reading - probably not. Most people haven't.\
 \
 And that's why I'm contacting you personally about this private event. Because I want you to have that, I genuinely and passionately wish this for you. And I'm here to help you SOUL MEET.\\
 
-\
-______________________________
+---
 
 ## THE SOUL MEET:
 
-* *Learn how to confidently open yourself authentically and speak from your soul. In a healthy mix of men & women (max 20 ppl).*\
+* *Learn how to confidently open yourself authentically and speak from your soul. In a healthy mix of men & women (max 20 ppl).*
 
-* *This is a safe & private environment for individuals ready and committed to connecting with others on a soul level*\
+* *This is a safe & private environment for individuals ready and committed to connecting with others on a soul level*
 
-* *This isn't soully (pun intended) about meeting a romantic interest, this is about allowing yourself to have deep soul experience - so you can recognize that feeling when you meet someone you are interested in. Man or Woman.*\
+* *This isn't soully (pun intended) about meeting a romantic interest, this is about allowing yourself to have deep soul experience - so you can recognize that feeling when you meet someone you are interested in. Man or Woman.*
 
-* *It's going to be a night of deep interactive action facilitated by Jocelyn and room for organic flow of connection*\
+* *It's going to be a night of deep interactive action facilitated by Jocelyn and room for organic flow of connection*
 
 * *A 3 hour event starting at 6pm, food \+ beverages provided\
   \(if we have 12\+ ppl we'll make it 4 hours)*\
-/
-BUT HOW MUCH? - Good Question.\
-1st. I am not intending to profit from this particular event. I sincerely want you to connect with each other and I'm only in Vancouver a short while and want to elevate the way people connect in this city. All while enjoying an amazing event, extra money after renting the space will be used to bring your delicious food and beverages!\
-    \
-    • 2nd - This event will be funded by your investment of:\*\
-    \\
 
-\$25/person (we need at least 6 people)\
-\\
+* **BUT HOW MUCH?*** - Good Question.*\
+  FIRST,  I am not intending to profit from this particular event. I sincerely want you to connect with each other and I'm only in Vancouver a short while and want to elevate the way people connect in this city. All while enjoying an amazing event, extra money after renting the space will be used to bring your delicious food and beverages!\
+  \
+  This event will be funded by your investment of:\
+  •  $25/person (we need at least 6 people)\
+  •  $40/person (after April 1st - fool's day!)\
 
-\$40/person (after April 1st - fool's day!)\
-\\
-
-RESERVE by e-transfer or pay-pal & make sure you let me know your name, if you're male or female, email (so I can update you on location and updates) : jocelyn@jocelynlee.ca\
+### *RESERVE by e-transfer or pay-pal & make sure you let me know your name, if you're male or female, email (so I can update you on location and updates):      jocelyn@jocelynlee.ca*\
 \
 \
 FINAL DETAILS:\
