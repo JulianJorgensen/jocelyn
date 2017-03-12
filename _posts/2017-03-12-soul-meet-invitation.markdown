@@ -28,6 +28,8 @@ And that's why I'm contacting you personally about this private event. Because I
 *  May 6th, 2017  -  a 3 hour event starting at 6pm, food \+ beverages provided\
   \(if we have 12\+ people, we'll make it 4 hours.)
 
+* Location is TBA, depends on how many people attend. Will know by April 1st.
+
 * Learn how to confidently open yourself authentically and speak from your soul. In a healthy mix of men & women (max 20 ppl).
 
 * This is a safe & private environment for individuals ready and committed to connecting with others on a soul level
