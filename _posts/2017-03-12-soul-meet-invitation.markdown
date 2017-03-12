@@ -25,6 +25,9 @@ And that's why I'm contacting you personally about this private event. Because I
 
 **THE SOUL MEET:**
 
+*  May 6th, 2017  -  a 3 hour event starting at 6pm, food \+ beverages provided\
+  \(if we have 12\+ people, we'll make it 4 hours.)
+
 * Learn how to confidently open yourself authentically and speak from your soul. In a healthy mix of men & women (max 20 ppl).
 
 * This is a safe & private environment for individuals ready and committed to connecting with others on a soul level
@@ -32,9 +35,6 @@ And that's why I'm contacting you personally about this private event. Because I
 * This isn't soully (pun intended) about meeting a romantic interest, this is about allowing yourself to have deep soul experience - so you can recognize that feeling when you meet someone you are interested in. Man or Woman.
 
 * It's going to be a night of deep interactive action facilitated by Jocelyn and room for organic flow of connection
-
-* A 3 hour event starting at 6pm, food \+ beverages provided \
-  \(if we have 12\+ ppl we'll make it 4 hours)
 
 **BUT HOW MUCH? - Good Question.**
 
