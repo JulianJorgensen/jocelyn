@@ -52,7 +52,7 @@ And that's why I'm contacting you personally about this private event. Because I
 * You are not going to see who else is attending. I'll keep you guys updated on the total of people and if there's going to be a pause for new women/men so I can keep the attendees as even as possible.
 
 
-* This is the space will be dependent on how soon I have the minimum 6 people registered.
+* The space will be dependent on how soon I have the minimum 6 people registered.
 
 
 * Again, this is for people ready to make the leap and open the doors to meeting yourself and others from the soul level. So it's up to you to take this opportunity or leave it.
