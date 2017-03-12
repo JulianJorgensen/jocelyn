@@ -1,6 +1,6 @@
 ---
 title: SOUL MEET
-date: 2017-03-12 23:12:00 Z
+date: 2017-03-12 11:12:00 Z
 permalink: "/soul-meet-invitation"
 image: "/uploads/SoulMeet.jpg"
 video: "/X9aZhGjEp68/"
