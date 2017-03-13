@@ -30,7 +30,7 @@ And that's why I'm contacting you personally about this private event. Because I
 
 * Location is TBA, depends on how many people attend. Will know by April 1st.
 
-* Learn how to confidently open yourself authentically and speak from your soul. In a healthy mix of men & women (max 20 ppl).
+* Learn how to confidently open yourself authentically and speak from your soul. In a healthy mix of men & women (max 20 ppl)
 
 * This is a safe & private environment for individuals ready and committed to connecting with others on a soul level
 
@@ -44,7 +44,7 @@ And that's why I'm contacting you personally about this private event. Because I
 
 * 2nd - This event will be funded by your investment of:
 
-  -  $25/person
+  -  $25/person (currently room for 7 men & 7 women left)
 
   -   $40/person (after April 1st - fool's day!)
 
