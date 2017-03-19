@@ -2,7 +2,7 @@
 title: Home
 description: I am a spirit weaver, tantrika goddess and shapeshifting artist. And
   if there's one thing I know how to do, it's to live joyfullee!
-image: "/images/Joc-3.jpg"
+image: "/uploads/Home-Page-Cropped.jpg"
 bottom_image: "/uploads/Homepage-Quote-Pic.jpg"
 include_in_nav: true
 ---
