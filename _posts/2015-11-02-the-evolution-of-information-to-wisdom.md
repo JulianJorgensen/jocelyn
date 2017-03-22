@@ -3,11 +3,11 @@ title: The Evolution of Information to Wisdom
 date: 2015-11-02 00:00:00 Z
 categories:
 - Spirituality
-layout: post
+image: "/uploads/pexels-photo-256546.jpeg"
 description: We are well passed the information age with the collective consciousness
   readily available at our finger tips, easily tapped, clicked and downloaded.
 video: 
-image: "/uploads/screen-shot-2015-11-02-at-3-34-21-pm.png"
+layout: post
 ---
 
 We are well passed the information age with the collective consciousness readily available at our finger tips, easily tapped, clicked and downloaded. Right now, knowledge is the phase in which we are all experiencing our most profound creative expressions and endeavours. For all the amazing changes, innovations and discoveries we are unearthing and implementing right now, only time can tell if they were wise decisions.
