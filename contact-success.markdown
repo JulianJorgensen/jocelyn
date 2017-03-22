@@ -1,6 +1,6 @@
 ---
+layout: page
 title: Connection Made
 description: Your message has been sent. We'll be in touch soon!
 image: "/images/Connection-Made-Page.jpg"
 ---
-
