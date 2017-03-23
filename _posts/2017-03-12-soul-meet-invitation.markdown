@@ -2,7 +2,6 @@
 title: " "
 date: 2017-03-12 11:12:00 Z
 permalink: "/soul-meet-invitation"
-published: false
 image: "/uploads/SoulMeet.jpg"
 video: "/X9aZhGjEp68/"
 layout: post-video
