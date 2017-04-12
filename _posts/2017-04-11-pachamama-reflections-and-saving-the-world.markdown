@@ -10,4 +10,6 @@ video: "/oMbZfTD2BGE/"
 layout: post-video
 ---
 
-Day 5 shot in November 2016 during my stay at Pachamama, a spiritual eco village in Costa Rica. These are some of my personal insights received there about integration, gratitude, spiritual hypocrisy, and how the new millennial generation will save the world. 
+Wisdom gained from the challenges at the beginning of our journey down to Costa Rica, and what the spiritual eco-community is like. Revelations about connecting with people spiritually and the hypocrisy it brought up in myself. And meeting a young woman who gave me hope for the future and how we can best save the world.
+
+Day 5 shot in November 2016 during my stay at Pachamama, a spiritual eco village in Costa Rica. 
