@@ -1,6 +1,9 @@
 ---
 title: The Confusion of Sadness
 date: 2017-05-23 00:08:00 Z
+categories:
+- Spirituality
+image: "/uploads/Confusion%20of%20Sadness.jpeg"
 ---
 
 Sometimes I get very sad. When my body is dry from the crying. My face hollow and empty. Nothing left to give. 
