@@ -40,3 +40,17 @@ How much of who I think I am decompose to reveal who I am? There's so much thoug
 Remembering the past now, it was in times of pain and suffering that I hear my heart the loudest. It can take on so much, so patient with me. When I am sad, there is no more trained light to shine on the bright side. In the dark I hear the cold, still whisper of truth. Every time, I am grateful for this, for this voice is most authentic and raw - and from there I rise from the depths of the waters into the light.
 
 So, what is the truth now? 
+
+The truth is, I have no idea where I am going. The truth is, I know what I want at the end of this going, and I struggle to create the steps before me. I am sad because I have a hard time letting go of how I want it to unfold. I am feeling separated from Spirit, often, and that I cannot trust fully that I will be guided. And so, I feel alone.
+
+In light of all this, back to the paradox, I know that this is not true. So what, the fuck? 
+
+For my current sanity's sake, I believe that what I am moving through is teaching me this trust on a whole different level that I cannot fathom how. Because no matter what I think, I am not separate from spirit, and in the deepest recesses of my heart, I know that I am always returning back to source. 
+
+I just feel the pangs of every human's fear towards this truth on a very visceral level and it is overwhelming to be, here, now. 
+
+I have most definitely been through (relative to my own experiences) "worse," in terms of pain and sadness (to points of depression). This is just the biggest mind-fuck I've ever experienced at this point of my journey.
+
+And so, I share these uncharted waters with you so you too may allow yourself to be nothing and wade in this uncertainty and confusion for a while. 
+
+I may be lost at sea but I know where I will end up. At the shores of paradise. 
