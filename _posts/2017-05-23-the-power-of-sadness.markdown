@@ -1,6 +1,7 @@
 ---
 title: The Confusion of Sadness
 date: 2017-05-23 00:08:00 Z
+permalink: confusion-of-sadness
 categories:
 - Spirituality
 image: "/uploads/Confusion%20of%20Sadness.jpeg"
@@ -14,7 +15,7 @@ I must write, I must write to give space for this sadness to take shape and form
 
 What is there to be revealed? What am I experiencing? Why must I know? I always want to know... Because when I know I feel like I have control of myself in my life. And is it not true? 
 
-"Ah this is because of __________. Therefore, I can do _______ to change and improve it." 
+"Ah this is because of _. Therefore, I can do _ to change and improve it." 
 
 Are we not responsible for our reality? 
 
