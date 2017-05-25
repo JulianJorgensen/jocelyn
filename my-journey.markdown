@@ -1,7 +1,9 @@
 ---
 title: My Journey
-description: 'Jocelyn Lee is an Empowerment Coach for Women from Vancouver, BC. She
-  is a Blogger and Vlogger of her life in Spirituality, Sexuality/Tantra, and Creativity. '
+description: Jocelyn Lee is an Empowerment Coach for Women from Vancouver, BC. She
+  is a Blogger and Vlogger of her life in Spirituality, Sexuality/Tantra, and Creativity.
+  She is also a Reiki Master, Crystal Healing Practitioner and creator of the web
+  series Shakti Diaries.
 image: "/uploads/Connect-Picture.jpg"
 include_in_nav: true
 ---
