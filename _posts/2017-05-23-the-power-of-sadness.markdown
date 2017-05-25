@@ -13,7 +13,7 @@ The confusion that arises with this expression can be painful. The varying degre
 
 I must write, I must write to give space for this sadness to take shape and form. For it to become clearer to me as to why I am in this moment.
 
-What is there to be revealed? What am I experiencing? Why must I know? I always want to know... Because when I know I feel like I have control of myself in my life. And is it not true?
+What is there to be revealed? What am I experiencing? Why must I know? I always want to know... Because when I know, I feel like I have control of myself in my life. And is it not true?
 
 **"Ah this is because of __. Therefore, I can do __ to change and improve it."**
 
@@ -23,7 +23,7 @@ I am writing in deep sadness now. And in deep confusion. Because, I've come to t
 
 In this awareness the blessing and curse of a paradoxical world covers me like a blanket, and asks me, "Where do you think you're going?"
 
-"Be. Here. Now."
+**"Be. Here. Now."**
 
 For the mind, it's so much easier to be something than to be nothing.
 
