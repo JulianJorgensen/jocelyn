@@ -1,5 +1,6 @@
 ---
 title: My Journey
+published: false
 description: "This is the life story and journey on how Jocelyn matured into a woman
   through discovering her own divinity in the feminine. She shares her life through
   lived wisdom, higher perspectives, emotional freedom and sexual empowerment. All
@@ -27,36 +28,21 @@ include_in_nav: true
 <section class="pad" id="read-on">
 <div class="text-container editable"><h2>{{ page.title }}</h2>
 
-*I am a multi-dimensional being living in a human body. As a young girl, wise beyond my years, I was often quite lonesome . My imagination was wild and carried me between many worlds, yet I felt the most distant in the one I was living and breathing in. I was a living juxtaposition of an old soul with a child’s body.*
+You're reading this because you want to know more about me. You want to know where I began and how I ended up here. And it's never easy to pin point a beginning and an end, the best I can do is weave the feelings over the years that tell a story of my life as a human. A woman. A spiritual embodiment. A master student. And... everything in between.
 
-*Remembering at 12 years old, asking my teacher: “What is the meaning of life and why does my sister hate me?” It was a reflection of my deep interest and curiosity of the metaphysical world - what was at the edge of what we know, the edge of humanity. And at the same time, it revealed the innocent human desire that resided in me that just wanted to be loved and understood. These two desires spiralled me up a path that has taught me many lessons, given me exciting stories to share and a colourful in-depth perspective on life and it’s mysterious workings.  I choose to live joyfullee.*
+How do you fit a star into a box? That is the shortest summary of my life. 
 
-_It is my soul's calling to share my authentic heart and intimate life with you. From the enlightening mysteries explored in the spirit world, the goddess living tantra on a mission to [Elevate Sex](http://www.elevatesex.com), to the many aspects of myself as living art. _I am a spirit weaver, a tantrika goddess, and a shapeshifting artist. __
+As a young child I found it challenging to find my place in the greater world. School came rather easy, I was well liked by my peers and my teachers. I was very extroverted socially and had create creativity, I loved performing and show-and-tell. But I always felt like I couldn't be understood, I was a very deep child and asked questions that many adults at the time were probably just beginning to reflect upon. The introvert prevailed in the shadows and the night when I'd just stare at the moon, drawn to it then not knowing it was a long lost home.
 
-*I invite you to choose to be inspired by my journey as an observer and watch me carve the path to my destiny through my blog; witnessing the unfolding of my expressive nature.*
+I was wise beyond my years, however, I was living in the body and life of a child that created a major paradox. As recounted by a teacher when I was about 11, I asked him, "What is the meaning of life? And, why does my sister hate me?" The two most troublesome questions on my mind then! 
 
-_Or, choose to participate in my journey and work with me. Aligning with your soul’s purpose and talents, create authentic relationships from the heart, and raise your consciousnesses to connect deeply with your life. _
+Hard, complex and diverse life lessons were piled upon me since I was a young girl, as if I were to get a crash course on all I learned in my previous lives so I could be as prepared for this one as quickly as possible. My life really felt like a movie, one dramatic scene after the next with the most potent characters filling the set and setting. I was most definitely one of those characters, and during my adolescent years into my early twenties, I was a powerful force. Both a creator and destroyer.
 
-*With deep gratitude, love, and joy*
+That creative energy in me took on everything that I could at school: soccer, basketball, volleyball, theatre, choir, student council, grad committee, MCing and organizing events... I had many talents and interests. Which sounds pretty great but it lead to so much confusion post graduation. I was exhausted, I didn't want to participate in anything, and I didn't want to socialize with anyone. I was a hermit throughout my 5 years at University. The most challenging part was, I didn't know what I wanted to do or be. This star had too many dimensions and points to neatly fit in the options before me. I felt lost. So I'm good at many things... but I didn't feel I was great at any one thing. I was thankfully guided by my gr.7 teacher who I still had a relationship to go into Communications as SFU. Which in retrospect has refined a natural talent of mine to a masterful degree (although I never got a masters in it!) and I found my passion for social improvement, human connection and freedom by minoring in Sociology. 
 
-*- Jocelyn Lee -  joyfullee.com*_\
-Empowerment Coach for Women |  Reiki Master/Crystal Healing  |  Blogger  |  Yin Yoga  &  Massage  |  Communications & Sociology Degree_
+But I did mention I was also a destroyer. 
 
-## Spirit Weaver:
-
-> *I walk the spirit world. I commune with Gaia and the Universe on an intimate level, feeling the pulse of life in every moment. It speaks to me and lights my destiny before me as I heed the call. The experiences and wisdom I have gathered as an Empowerment Coach, Reiki Master, Crystal Healer, and through Plant Medicine Journeys, Yin Yoga, Massage, and holding Workshops has inspired me to be a portal for others to experience a divine connection with something greater than themselves.*
-
-## Tantrika Goddess:
-
-> *After years of sexual experiences that left wounds, scars, pain, fears and a disconnect to this life force energy - I am now open to the bounty and pleasures readily available to me by the grace of the universe. It is our divine birthright to live a pleasurable life, and so I am here to [ElevateSex](www.elevatesex.com). To see this life force  as a healing energy, a source of power, a sacred action and union, and a liberating path to the truth  of who we are. I share with you the intimate details of a Tantrika Goddess, seen through my eyes and lived through my heart.*
-
-## Shapeshifting Artist:
-
-> _The aspects of my artistry are many, they all want to be seen, heard and shared. There is no single form I take for long, always shapeshifting according to my expression at the moment. I sometimes sing to the moon, I sometimes write songs for my beloved, somedays I freestyle sacred rhymes on nature walks. Other days I may paint the evening away or talk in a foreign accent all day. Perhaps I will dance and perform my heart’s expression in the morning, and by the afternoon I edited a video to tell moments in time.   Shapeshifting is my artistry. _
->
-> ## Empowerment Coach for Women:
->
-> > _My passion is to share with you the gift of empowerment, this is every human- and of course, every woman’s birthright. We need every woman to stand in her power more than ever, the world needs the feminine touch. With great intuition and deep compassion, I see clearly into our divine essence and empower your unique gifts to share with the world. We need you to shine as your Goddess self and I am here to help you live it.
+The undercurrent to the joyful, intelligent, bright and promising citizen was a depressed, raging, emotionally traumatized and hurtful individual. 
 
 </div>
 </section>
