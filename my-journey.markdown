@@ -1,6 +1,5 @@
 ---
 title: My Journey
-published: false
 description: "This is the life story and journey on how Jocelyn matured into a woman
   through discovering her own divinity in the feminine. She shares her life through
   lived wisdom, higher perspectives, emotional freedom and sexual empowerment. All
