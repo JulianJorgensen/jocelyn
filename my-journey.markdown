@@ -68,7 +68,6 @@ Whether you're a leader that needs to deeply restore and realign, or just beginn
 I'm originally from Vancouver, BC. But the next homestead is Bali, Indonesia. Maybe I'll see you there. :)\
 \
 Love,\
-Jocelyn 
-
+Jocelyn \
  </div>
 </section>
