@@ -1,7 +1,11 @@
 ---
 title: Home
-description: I am a spirit weaver, tantrika goddess and shapeshifting artist. And
-  if there's one thing I know how to do, it's to live joyfullee!
+description: "Jocelyn Lee shares her life through lived wisdom, higher perspectives,
+  emotional freedom and sexual empowerment. All authentically documented through her
+  blogs, vlogs, videos, poetry and YouTube series, Shakti Diaries. \n\nShe is a Reiki
+  Master, a Crystal Healing Practitioner, a Yin Yoga Teacher, Intuitive Masseuse,
+  Artist, Workshop Facilitator, Human Connection Expert and Empowerment Coach for
+  Women. \n\nOriginally from Vancouver, BC. Jocelyn is now residing in Bali, Indonesia. "
 image: "/uploads/Home-Page-Cropped.jpg"
 bottom_image: "/uploads/Homepage-Quote-Pic.jpg"
 include_in_nav: true
