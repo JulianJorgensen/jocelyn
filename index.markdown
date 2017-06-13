@@ -1,11 +1,11 @@
 ---
 title: Home
-description: "Jocelyn Lee shares her life through lived wisdom, higher perspectives,
-  emotional freedom and sexual empowerment. All authentically documented through her
-  blogs, vlogs, videos, poetry and YouTube series, Shakti Diaries. \n\nShe is a Reiki
-  Master, a Crystal Healing Practitioner, a Yin Yoga Teacher, Intuitive Masseuse,
-  Artist, Workshop Facilitator, Human Connection Expert and Empowerment Coach for
-  Women. \n\nOriginally from Vancouver, BC. Jocelyn is now residing in Bali, Indonesia. "
+description: |-
+  Jocelyn shares her life through lived wisdom, higher perspectives, raw expression and creativity. All authentically documented through her blogs, vlogs, videos, poetry and YouTube series, Shakti Diaries.
+
+  She is a Reiki Master, Crystal Healing Practitioner, Mystic,  Yin Yoga Teacher, Intuitive Masseuse, Soul Connection Expert, Writer, Speaker, Artist and Host.
+
+  Originally from Vancouver, BC. Jocelyn is now residing in Ubud, Bali.
 image: "/uploads/Home-Page-Cropped.jpg"
 bottom_image: "/uploads/Homepage-Quote-Pic.jpg"
 include_in_nav: true
