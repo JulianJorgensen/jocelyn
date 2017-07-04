@@ -5,11 +5,11 @@ categories:
 - Videos
 - Spirituality
 - Sexuality
-layout: post-video
+image: "/uploads/More%20About%20Karen.jpg"
 description: Jocelyn Lee and Karen Burt, from Being Tula, share with you how to begin
   your journey back to your feminine power.
 video: _98vCH0BQO8
-image: "/uploads/shakti-diaries-promo.jpg"
+layout: post-video
 ---
 
 In this episode, Jocelyn Lee and Karen Burt from Being Tula, share with you how to begin your journey back to your feminine power. Transcription below.
