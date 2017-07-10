@@ -18,6 +18,8 @@ Just wanting to coexist.
 
 ![chinesebc.jpg](/uploads/chinesebc.jpg)
 
+> The heathen Chinese in British Columbia
+
 Fast forward 100\+ years. I came here at 6months, I was raised here. I'm a citizen, my first language is English. And as far as nationality goes, I am Canadian. And. I am also Chinese.
 
 Why this deeply resonates with me is because I share many of the same sentiments of those that fear us. Yes, I know us Chinese can be hard to understand and many do a poor job of representing our ancient and amazing culture.
