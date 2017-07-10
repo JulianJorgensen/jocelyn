@@ -28,6 +28,8 @@ Many have come and bought up homes, pushing the locals out of affordability. Man
 
 ![racist-poster.png](/uploads/racist-poster.png)
 
+> Real flyers being handed out in Richmond, BC.
+
 But. As a Chinese woman, to some of you a Chinese friend, I ask that you exercise the same compassion you post about. For the misunderstood others you see in posts and videos. I ask that you take some effort in understanding why.
 
 Let me paint you a common picture of empathy. Many of the Chinese people who became quickly rich had been much poorer than you and I. They had minimal education but had a strong will to survive. Their family being their motivation. One day, their economy boomed and those that were in the right place at the right time, their factories made them rich overnight. They now could afford a lifestyle they could've only dreamt of.
