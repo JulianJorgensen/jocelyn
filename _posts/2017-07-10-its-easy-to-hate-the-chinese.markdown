@@ -1,10 +1,12 @@
 ---
 title: It's Easy to Hate the Chinese
 date: 2017-07-10 03:19:00 Z
+categories:
+- Spirituality
 image: "/uploads/Easy%20to%20Hate%20Chinese.jpg"
 ---
 
-I recently read an [article](http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=11886666) on a woman who was 2nd generation Chinese Kiwi (New Zealand), who felt that although she was born there she was often still treated as a foreigner. This is not too different from where I come from in Vancouver. 
+I recently read an [article](http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=11886666) on a woman who was 2nd generation Chinese Kiwi (New Zealand), who felt that although she was born there she was often still treated as a foreigner. This is not too different from where I come from in Vancouver.
 
 I think back on the Chinese railroad builders that helped build Canada.\
 \
@@ -12,11 +14,15 @@ Who, were given a head tax of $500 (a lot of money then and now) if they wanted 
 \
 They were then, not wanted in the white neighbourhoods, so they created Chinatowns. Just wanting to coexist.\
 \
+![chinesebc.jpg](/uploads/chinesebc.jpg)
+
 Fast forward 100\+ years. I came here at 6months, I was raised here. I'm a citizen, my first language is English. And as far as nationality goes, I am Canadian. And. I am also Chinese.\
 \
 Why this deeply resonates with me is because I share many of the same sentiments of those that fear us. Yes, I know us Chinese can be hard to understand and many do a poor job of representing our ancient and amazing culture.\
 \
-Many have come and bought up homes, pushing the locals out of affordability. Many do not become Canadian or value the local ways. I too can become deeply frustrated by this.\
+Many have come and bought up homes, pushing the locals out of affordability. Many do not become Canadian or value the local ways. I too can become deeply frustrated by this.
+
+![racist-poster.png](/uploads/racist-poster.png)\
 \
 But. As a Chinese woman, to some of you a Chinese friend, I ask that you exercise the same compassion you post about. For the misunderstood others you see in posts and videos. I ask that you take some effort in understanding why.\
 \
@@ -28,7 +34,9 @@ They gave their children the best schooling they could afford, a dream they neve
 
 Some since the railroad days.\
 \
-Yet in light on this. They are still considered as foreigners, something especially challenging for those who felt they were as Canadian as their white skinned counterparts. Their identity marred by strangers and even those closest to them, often right in front of them. Their co-workers mocking how Chinese people are this and that, because "you're not really Chinese." Friends cursing the Chinks driving on the road with you as a passenger. It was very awkward and uncomfortable for us. Sometimes you just didn't realize the energy behind what you had said.\
+Yet in light on this. They are still considered as foreigners, something especially challenging for those who felt they were as Canadian as their white skinned counterparts. Their identity marred by strangers and even those closest to them, often right in front of them. Their co-workers mocking how Chinese people are this and that, because "you're not really Chinese." Friends cursing the Chinks driving on the road with you as a passenger. It was very awkward and uncomfortable for us. Sometimes you just didn't realize the energy behind what you had said.
+
+![richmond-racists-flyers-protest.jpg](/uploads/richmond-racists-flyers-protest.jpg)\
 \
 Who do we side with? Which one was the side that I identified with? Often, I joined the the joke (that was my ethnic identity) or I just stayed silent. Sometimes I inform, educate and build a bridge, like this.
 
