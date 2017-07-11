@@ -13,7 +13,7 @@ include_in_nav: true
 <section class="hero" style="background-image: url({% include relative-src.html src=page.image %})">
 <div class="inner-hero text-container">
   <div class="hero-text-container">
-  <h1 class="editable">My Journeys</h1>
+  <h1 class="editable">My Journey</h1>
   <p class="subtext editable">•  How do you fit a star into a box?  •</p>
   </div>
 </div>

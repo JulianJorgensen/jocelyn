@@ -14,7 +14,7 @@ The illuminator of the shadows. I knew this path, I got myself out of some deep 
 
 ME.
 
-![Screen Shot 2017-07-11 at 4.04.25 PM.png](/uploads/Screen%20Shot%202017-07-11%20at%204.04.25%20PM.png)
+![Healers Illusion.jpg](/uploads/Healers%20Illusion.jpg)
 
 In the recent weeks, I've been hit in the ego ass of this healer's illusion. I needed to turn all that outward energy towards myself. Sending it all inward. Why?
 
