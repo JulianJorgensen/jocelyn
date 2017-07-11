@@ -16,7 +16,7 @@ include_in_nav: true
 <div class="hero-text-container">
 <div class="hero-logo">{% include jocelyn-lee-logo.svg %}</div>
 <h1 id="landing-page-heading">Jocelyn Lee</h1>
-<p class="subtext editable">A deep source of authentic living \+ loving. </p>
+<p class="subtext editable">An authentic source of deep living + loving. </p>
 <div class="cta button alt editable" id="cta-my-journey"><a href="/my-journey/">My Journey</a></div>
 </div>
 </div>
