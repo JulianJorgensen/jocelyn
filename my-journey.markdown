@@ -14,7 +14,7 @@ include_in_nav: true
 <div class="inner-hero text-container">
 <div class="hero-text-container">
 
-# My Journey
+# My Journeys
 
 •  How do you fit a star into a box?  •
 </div>
