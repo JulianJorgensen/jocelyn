@@ -12,14 +12,13 @@ layout: post-video
 
 I love looking at cultural trends as clues into where our collective evolution is going. With every creation in our dualistic world there will always be the "good " and the "bad."
 
-And there are a lot of negative talk out there about millennial culture and the way they perceive and share themselves. And often it's a fear about the new way of doing things, a misunderstanding of what is happening, an inability to empower a situation rather than criticize it. 
+And there are a lot of negative talk out there about millennial culture and the way they perceive and share themselves. And often it's a fear about the new way of doing things, a misunderstanding of what is happening, an inability to empower a situation rather than criticize it.
 
-As a millennial I wanted to understand why I wanted to get on the camera and share myself yet also felt conflicted with that feeling of appearing narcissistic that was spoken about regarding our generation. 
+As a millennial I wanted to understand why I wanted to get on the camera and share myself yet also felt conflicted with that feeling of appearing narcissistic that was spoken about regarding our generation.
 
 Why are we so obsessed with ourselves? How often do we have the camera on to take a selfie but just and up looking at ourselves in different angles?
 
-**What does this all mean? \
-**
+**What does this all mean?**
 
 ![fashion-person-woman-apple.jpg](/uploads/fashion-person-woman-apple.jpg)
 
@@ -33,7 +32,7 @@ Not everyone will be at the same depth of awareness, but we all know what self-c
 
 We are literally pointing an unbiased eye at us. The camera is the neutral observer watching us, with the powerful ability to show us ourselves as we are. How we choose to be. Capturing every twitch, hesitation, exaggeration, sincerity and beauty.
 
-What I have been recommending for the women I coach is to regularly take the camera/selfie phenomenon deeper and use it as a tool. Just like I have in this video - I ask them to just record their feelings in the moment, looking into the camera. Just start talking. Soon, the "awkwardness" (if there is any for the millennials!) of looking and talking into the camera will fade. 
+What I have been recommending for the women I coach is to regularly take the camera/selfie phenomenon deeper and use it as a tool. Just like I have in this video - I ask them to just record their feelings in the moment, looking into the camera. Just start talking. Soon, the "awkwardness" (if there is any for the millennials!) of looking and talking into the camera will fade.
 
 When you do this your subconscious expressions kick in and you'll just speak this stream of consciousness like you're talking to a friend. Be as bold, vulnerable, honest and uninhibited as possible.\
 \
