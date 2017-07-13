@@ -1,9 +1,10 @@
 ---
 title: Home
+published: false
 description: |-
-  Jocelyn shares her life through lived wisdom, higher perspectives, raw expression and creativity. All authentically documented through her blogs, vlogs, videos, poetry and YouTube series, Shakti Diaries.
+  Jocelyn shares her life through lived wisdom, higher perspectives, raw expression and creativity. All authentically documented through her writing, videos and YouTube series, Shakti Diaries.
 
-  She is a Reiki Master, Crystal Healing Practitioner, Mystic,  Yin Yoga Teacher, Intuitive Masseuse, Soul Connection Expert, Writer, Speaker, Artist and Host.
+  She is a Reiki Master, Crystal Healing Practitioner, Mystic, Artist and Host.
 
   Originally from Vancouver, BC. Jocelyn is now residing in Ubud, Bali.
 image: "/uploads/Home-Page-Cropped.jpg"
