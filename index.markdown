@@ -1,6 +1,5 @@
 ---
 title: Home
-published: false
 description: |-
   Jocelyn shares her life through lived wisdom, higher perspectives, raw expression and creativity. All authentically documented through her writing, videos and YouTube series, Shakti Diaries.
 
