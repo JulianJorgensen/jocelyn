@@ -4,7 +4,7 @@ date: 2017-07-19 09:29:00 Z
 categories:
 - Spirituality
 - Sexuality
-image: "/uploads/Screen%20Shot%202017-07-19%20at%205.30.31%20PM.png"
+image: "/uploads/Screen%20Shot%202017-07-19%20at%205.30.31%20PM-427c24.png"
 ---
 
 ![DSC02620a.jpg](/uploads/DSC02620a.jpg)
