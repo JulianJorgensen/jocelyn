@@ -4,10 +4,11 @@ date: 2017-07-19 09:29:00 Z
 categories:
 - Spirituality
 - Sexuality
-image: "/uploads/DSC02620a.jpg"
+image: "/uploads/Screen%20Shot%202017-07-19%20at%205.30.31%20PM.png"
 ---
 
-![Screen Shot 2017-07-19 at 5.30.31 PM.png](/uploads/Screen%20Shot%202017-07-19%20at%205.30.31%20PM.png)
+![DSC02620a.jpg](/uploads/DSC02620a.jpg)
+
 Under the stars. Under the trees. Under the bridge. Under the loose strand of your hair.
 
 I am drawn to your eyes, your piercing stare. I can feel the love between our gaze, suspended in mid air.
