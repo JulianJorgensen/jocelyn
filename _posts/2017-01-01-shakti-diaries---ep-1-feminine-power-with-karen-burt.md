@@ -12,7 +12,7 @@ video: _98vCH0BQO8
 layout: post-video
 ---
 
-In this episode, Jocelyn Lee and Karen Birch from Being Tula, share with you how to begin your journey back to your feminine power. Transcription below.
+In this episode, Jocelyn Lee and Karen Birch from [White Temple](https://www.white-temple.com/), share with you how to begin your journey back to your feminine power. Transcription below.
 
 **Jocelyn:**
 
