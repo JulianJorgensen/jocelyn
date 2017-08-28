@@ -56,3 +56,5 @@ Passion ignites when you can feel him embodying the far opposite energy of your 
 Now, this is the basics of how your feminine and masculine energies influence him. It doesn't mean that you will solve those household responsibilities or create a new structure of financial responsibilities just because you shift your energy. **But if you do shift your energy,** and you appreciate the other's true essence of womanhood and manhood: You'll have way clearer communication about how you really want the household duties balanced and how financial divisions need to be. You'll be able to create that equality based on each other's harmonized differences.
 
 Passionate relationships thrive when you can learn to be equal in your differences as men and women.
+
+<a href="https://www.bloglovin.com/blog/19060603/?claim=g5qj5b32gjp">Follow my blog with Bloglovin</a>
