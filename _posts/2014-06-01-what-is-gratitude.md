@@ -3,12 +3,14 @@ title: What is Gratitude?
 date: 2014-06-01 00:00:00 Z
 categories:
 - Spirituality
-layout: post
+image: "/uploads/what-is-gratitude.jpg"
 description: I once thought a gratitude journal was trivial, and that I didn’t need
   to list the things that I was thankful for. But I gave it a shot anyway.
 video: 
-image: "/uploads/what-is-gratitude.jpg"
+layout: post
 ---
+
+<a href="https://www.bloglovin.com/blog/19060603/?claim=g5qj5b32gjp">Follow my blog with Bloglovin</a>
 
 Gratitude, thankfulness or appreciation can be misguided. Often it is superficially applied. Only expressing it when receiving something, or being thankful out of fear, and the worst is when you express it whole-heartedly one day and the next it’s gone.
 
