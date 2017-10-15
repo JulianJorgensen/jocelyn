@@ -1,11 +1,9 @@
 ---
 title: Home
-description: |-
-  Jocelyn shares her life through lived wisdom, higher perspectives, raw expression and creativity. All authentically documented through her blogs, vlogs, videos, poetry and YouTube series, Shakti Diaries.
-
-  She is a Reiki Master, Crystal Healing Practitioner, Mystic,  Yin Yoga Teacher, Intuitive Masseuse, Soul Connection Expert, Writer, Speaker, Artist and Host.
-
-  Originally from Vancouver, BC. Jocelyn is now residing in Ubud, Bali.
+description: "Jocelyn Lee is Live.Deep.Lee, an authentic source of deep living and
+  loving. She documents and shares her self, purpose and service through Instagram
+  and her YouTube channel. \n\nShe focuses on her passion topics: SPIRITUAL & METAPHYSICAL,
+  CULTURE & PEOPLE, NATURE & COSMOS, HEALTH & HEALING, ART & PLAY"
 image: "/uploads/Home-Page-Cropped.jpg"
 bottom_image: "/uploads/Homepage-Quote-Pic.jpg"
 include_in_nav: true
@@ -16,7 +14,7 @@ include_in_nav: true
 <div class="hero-text-container">
 <div class="hero-logo">{% include jocelyn-lee-logo.svg %}</div>
 <h1 id="landing-page-heading">Jocelyn Lee</h1>
-<p class="subtext editable">An authentic source of deep living + loving. </p>
+<p class="subtext editable">An authentic source of deep living \+ loving. </p>
 <div class="cta button alt editable" id="cta-my-journey"><a href="/my-journey/">My Journey</a></div>
 </div>
 </div>
@@ -37,7 +35,7 @@ include_in_nav: true
     <section class="hero hero-footer" style="background-image: url({% include relative-src.html src=page.bottom_image %});background-position: top center;">
         <div class="inner-hero text-container">
             <div class="hero-text-container">
-                <div class="quote editable"><p>"You are free to be who you are, no approval needed. No apologies necessary."</p></div>
+                <div class="quote editable"><p>"I share my self, purpose and service the only way I know how - being me on the brightest or days and darkest of nights."</p></div>
                 <p class="subtext editable">- Jocelyn Lee</p>
             </div>
         </div>

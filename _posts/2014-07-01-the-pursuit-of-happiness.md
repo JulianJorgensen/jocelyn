@@ -3,12 +3,14 @@ title: The Pursuit of Happiness
 date: 2014-07-01 00:00:00 Z
 categories:
 - Spirituality
-layout: post
+image: "/uploads/dsc02088.jpg"
 description: What intrigued me the most was the ever engrained and proclaimed pursuit
   of happiness in our culture, and the notion that it has an absolute end to it.
 video: 
-image: "/uploads/dsc02088.jpg"
+layout: post
 ---
+
+<a href="https://www.bloglovin.com/blog/19060603/?claim=g5qj5b32gjp">Follow my blog with Bloglovin</a>
 
 The pursuit of happiness raised many questions for myself. Having just completed a course on personality theory, a discussion question that arose was: What is happiness?
 
