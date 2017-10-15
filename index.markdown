@@ -6,7 +6,7 @@ description: "Jocelyn Lee is Live.Deep.Lee, an authentic source of deep living a
   CULTURE & PEOPLE, NATURE & COSMOS, HEALTH & HEALING, ART & PLAY"
 image: "/uploads/Home-Page-Cropped.jpg"
 bottom_image: "/uploads/Homepage-Quote-Pic.jpg"
-video: fGCY1ziGMkc
+video: fGCY1ziGMkca
 include_in_nav: true
 ---
 
