@@ -6,6 +6,7 @@ description: "Jocelyn Lee is Live.Deep.Lee, an authentic source of deep living a
   CULTURE & PEOPLE, NATURE & COSMOS, HEALTH & HEALING, ART & PLAY"
 image: "/uploads/Home-Page-Cropped.jpg"
 bottom_image: "/uploads/Homepage-Quote-Pic.jpg"
+video: "fGCY1ziGMkc"
 include_in_nav: true
 ---
 
@@ -13,15 +14,17 @@ include_in_nav: true
 <div class="inner-hero text-container">
 <div class="hero-text-container">
 <div class="hero-logo">{% include jocelyn-lee-logo.svg %}</div>
+<div class="hero-text">
 <h1 id="landing-page-heading">Jocelyn Lee</h1>
 <p class="subtext editable">An authentic source of deep living \+ loving. </p>
-<div class="cta button alt editable" id="cta-my-journey"><a href="/my-journey/">My Journey</a></div>
+</div>
 </div>
 </div>
 <div class="read-on"><a href="#read-on">read on <span class="arrow">▼</span></a></div>
 </section>
 
 <div class="content" id="read-on">
+<div id="video"><iframe width="560" height="315" src="https://www.youtube.com/embed/{{page.video}}" frameborder="0" allowfullscreen></iframe></div>
 <section>
 <div class="text-container">
 <ul class="blog-posts">
@@ -31,6 +34,11 @@ include_in_nav: true
 </ul>
 </div>
 </section>
+
+<section id="see-more-posts">
+<div class="cta button"><a href="/blog">See more posts</a></div>
+</section>
+
 
     <section class="hero hero-footer" style="background-image: url({% include relative-src.html src=page.bottom_image %});background-position: top center;">
         <div class="inner-hero text-container">
