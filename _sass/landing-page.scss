@@ -49,10 +49,6 @@
 		text-align: left;
 		margin-top: 70px;
 		margin-bottom: 170px;
-		display: flex;
-		align-items: center;
-		justify-content: space-between;
-    align-self: flex-start;
 		@media #{$desktop} {
 			margin-top: 180px;
 		}			
@@ -90,6 +86,13 @@
 		}
 	}
 }
+#hero-home{
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	align-self: flex-start;
+}
+
 .hero-footer{
 	display: none;
 	@media #{$desktop} {
@@ -180,9 +183,11 @@
 				max-height: 20*5;       /* fallback */	
 			}
 		}
-		&:hover{
-			.caption{
-				display: flex;
+		@media #{$desktop} {			
+			&:hover{
+				.caption{
+					display: flex;
+				}
 			}
 		}
 	}

@@ -12,7 +12,7 @@ include_in_nav: true
 
 <section class="hero" style="background-image: url({% include relative-src.html src=page.image %})">
 <div class="inner-hero text-container">
-<div class="hero-text-container">
+<div id="hero-home" class="hero-text-container">
 <div class="hero-logo">{% include jocelyn-lee-logo.svg %}</div>
 <div class="hero-text">
 <h1 id="landing-page-heading">Jocelyn Lee</h1>
