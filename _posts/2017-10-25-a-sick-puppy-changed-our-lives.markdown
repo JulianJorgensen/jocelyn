@@ -4,7 +4,7 @@ date: 2017-10-25 02:48:00 Z
 categories:
 - Videos
 image: "/uploads/Little%20Django.jpg"
-video: pZeMX-vZZXI/
+video: pZeMX-vZZXI
 ---
 
 The Bali breed of dogs used to be highly regarded spiritually and culturally. Over time they've become mostly malnourished and sick street dogs sustaining severe abuse and abandonment. Not all cases are like this but it's a sight that easy to spot driving along the roads. 
