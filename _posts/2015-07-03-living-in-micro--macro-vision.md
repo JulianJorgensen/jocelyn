@@ -2,8 +2,8 @@
 title: Living in Micro & Macro Vision
 date: 2015-07-03 00:00:00 Z
 categories:
-- Spirituality
-layout: post
+- writing
+image: "/uploads/zooom.jpg"
 description: 'When we are looking at our lives, we tend to look at it in two ways:
   micro and macro vision. One is more about immediacy, details and present situations
   while the latter is learning how to see the big picture and the connections between
@@ -12,7 +12,7 @@ description: 'When we are looking at our lives, we tend to look at it in two way
   own purpose and together they work like the lens of a camera, helping you zoom in
   and out of life’s moments.'
 video: 
-image: "/uploads/zooom.jpg"
+layout: post
 ---
 
 When we are looking at our lives, we tend to look at it in two ways: micro and macro vision. One is more about immediacy, details and present situations while the latter is learning how to see the big picture and the connections between micro events. Both are important functions that we should all have, as they provide a well rounded and multi-dimensional perspective of our lives. Each one has it’s own purpose and together they work like the lens of a camera, helping you zoom in and out of life’s moments.
