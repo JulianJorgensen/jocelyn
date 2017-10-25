@@ -2,8 +2,7 @@
 title: I Am a Human Being
 date: 2017-05-31 21:27:00 Z
 categories:
-- Creativity
-- Spirituality
+- writing
 image: "/uploads/DSC02545.jpg"
 ---
 
