@@ -2,13 +2,13 @@
 title: Emotions Are Energy in Motion
 date: 2014-11-01 00:31:00 Z
 categories:
-- Spirituality
-layout: post
+- writing
+image: "/uploads/fe0c30-f2f04415b738491495008a1b49473902.jpg"
 description: Since our emotions are connected to our thoughts and body, then in the
   conscious act of breathing, we can breathe out our emotional and mental toxins as
   well!
 video: 
-image: "/uploads/fe0c30-f2f04415b738491495008a1b49473902.jpg"
+layout: post
 ---
 
 During the colder seasons of hibernation, it is easy to cuddle up into a dormant place in our heart and mind to weather the dark clouds. It truly is a wonderful time to curl up and let elements outside harmonize themselves while we watch. However, we must remember to let ourselves do the same, we should avoid being stagnant with our emotions during difficult times.
