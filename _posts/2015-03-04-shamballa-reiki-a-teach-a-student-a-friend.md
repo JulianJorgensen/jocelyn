@@ -2,13 +2,13 @@
 title: 'Shamballa Reiki: A Teach, A Student, A Friend'
 date: 2015-03-04 00:00:00 Z
 categories:
-- Spirituality
-layout: post
+- writing
+image: "/uploads/fe0c30-8b3ee2a5cead44ea95010453e9d7dfc6.jpg"
 description: When I first learned Shamballa Reiki, I was told that "my life will never
   be the same," it is completely true. I had been opened and expanded in a way I never
   knew was liveable.
 video: 
-image: "/uploads/fe0c30-8b3ee2a5cead44ea95010453e9d7dfc6.jpg"
+layout: post
 ---
 
 When I first learned Shamballa Reiki, I was told that "my life will never be the same," it is completely true. I had been opened and expanded in a way I never knew was liveable. Within a month I had a website created my first healing service: Koi Chi Healing. Then a year later, I was ready for self-mastery. This meant taking full responsibility for my life and the events that occur within them, among many other things, but also accepting the responsibility of teaching Shamballa Reiki, if others seeked.
