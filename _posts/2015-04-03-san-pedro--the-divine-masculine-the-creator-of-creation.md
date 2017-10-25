@@ -2,12 +2,12 @@
 title: 'San Pedro & The Divine Masculine: The Creator of Creation'
 date: 2015-04-03 00:00:00 Z
 categories:
-- Spirituality
-layout: post
+- writing
+image: "/uploads/fe0c30-8b1bfd0716964ef0b8bab09818189f21.jpg"
 description: I adopted a very twisted notion of masculinity; one of dominance, force,
   aggression, ego and competition.
 video: 
-image: "/uploads/fe0c30-8b1bfd0716964ef0b8bab09818189f21.jpg"
+layout: post
 ---
 
 Recently I was blessed with the journey of San Pedro, a cactus plant medicine that embodies the masculine spirit. This experience alone is an entire story on its own, but the lessons I learned had to be expressed now. Right now, in the spiritual community, and the general tone of world changes it is about reclaiming the Divine Feminine. We can see this in the encouragement and promotion of compassion, empathy, free expression of feelings, women’s rights & equality – all represented in campaigns and movements like #HeforShe, anti-bullying campaigns, and #freethenipple, to name just a few. All across the world, women are standing up for themselves against the oppression bestowed upon them for thousands of years; they are reclaiming as well as redefining what it means to be a women in this current era. …
