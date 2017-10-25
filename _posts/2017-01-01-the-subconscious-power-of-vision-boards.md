@@ -2,13 +2,13 @@
 title: The Subconscious Power of Vision Boards
 date: 2017-01-01 13:00:00 Z
 categories:
-- Spirituality
-layout: post
+- writing
+image: "/uploads/Vision-Board-Marquee.jpg"
 description: You want to feel more powerful? You want to meet new friends? You want
   to travel to Bali? You want to meet the love of your life? Done. When you ask (and
   create a bomb-ass vision board), you shall receive.
 video: 
-image: "/uploads/Vision-Board-Marquee.jpg"
+layout: post
 ---
 
 Have you ever had a dream? A goal? Maybe even one of those dreaded New Year's resolutions? And you thought to yourself, how am I going to achieve it?
