@@ -2,7 +2,7 @@
 title: The Evolution of Information to Wisdom
 date: 2015-11-02 00:00:00 Z
 categories:
-- Spirituality
+- writing
 image: "/uploads/pexels-photo-256546.jpeg"
 description: We are well passed the information age with the collective consciousness
   readily available at our finger tips, easily tapped, clicked and downloaded.
