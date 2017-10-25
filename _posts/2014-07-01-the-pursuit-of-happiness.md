@@ -2,7 +2,7 @@
 title: The Pursuit of Happiness
 date: 2014-07-01 00:00:00 Z
 categories:
-- Spirituality
+- writing
 image: "/uploads/dsc02088.jpg"
 description: What intrigued me the most was the ever engrained and proclaimed pursuit
   of happiness in our culture, and the notion that it has an absolute end to it.
