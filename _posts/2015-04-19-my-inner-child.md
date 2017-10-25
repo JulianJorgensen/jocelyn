@@ -2,14 +2,13 @@
 title: '"My Inner Child"'
 date: 2015-04-19 00:00:00 Z
 categories:
-- Spirituality
-- Creativity
-layout: post
+- writing
+image: "/uploads/fe0c30-e756df1955d04a31840f22f3de8d9349.jpg"
 description: It is dark; I frolic in the valley with white crystalline light swirling
   beneath and all around me. They are star dust. I am a child of the stars and the
   moon.
 video: 
-image: "/uploads/fe0c30-e756df1955d04a31840f22f3de8d9349.jpg"
+layout: post
 ---
 
 I bound around gazing at the stars. Where my wonder expands as far as the stars. Full of laughter I feel safe. Not only that I am free, all calls of nature come to me. It is dark; I frolic in the valley with white crystalline light swirling beneath and all around me. They are star dust. I am a child of the stars and the moon.
