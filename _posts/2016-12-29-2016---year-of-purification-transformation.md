@@ -2,14 +2,12 @@
 title: 2016 - Year of Purification Transformation
 date: 2016-12-29 00:00:00 Z
 categories:
-- Spirituality
-- Creativity
-- Sexuality
-layout: post
+- writing
+image: "/uploads/2016-year-of-purification-transformation.jpg"
 description: This year was the most intense year of my life, back to back series of
   endings and new beginnings.
 video: 
-image: "/uploads/2016-year-of-purification-transformation.jpg"
+layout: post
 ---
 
 I have been on Facebook for 10 years. That's a long time. Looking back, I used to share much more of who I was, what I was thinking, passionate about and new perspectives I felt were important for others to be aware of. The last few years it started dying down. It didn't seem to matter to many of the people or friends on here. Only in the last year have I seen a major shift in consciousness and the information I was posting several years ago were appearing on my feed again.
