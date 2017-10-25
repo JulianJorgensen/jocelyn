@@ -15,7 +15,7 @@ include_in_nav: true
 <div class="hero-logo">{% include jocelyn-lee-logo.svg %}</div>
 <div class="hero-text">
 <h1 id="landing-page-heading">Jocelyn Lee</h1>
-<p class="subtext editable">An authentic source of deep living \+ loving. </p>
+<p class="subtext editable">An authentic source of deep living and loving. </p>
 </div>
 </div>
 </div>
@@ -37,7 +37,6 @@ include_in_nav: true
 <section id="see-more-posts">
 <div class="cta button"><a href="/blog">See more posts</a></div>
 </section>
-
 
     <section class="hero hero-footer" style="background-image: url({% include relative-src.html src=page.bottom_image %});background-position: top center;">
         <div class="inner-hero text-container">
