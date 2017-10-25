@@ -2,13 +2,13 @@
 title: Subtle Messages
 date: 2014-12-01 00:00:00 Z
 categories:
-- Spirituality
-layout: post
+- writing
+image: "/uploads/fe0c30-9e758e10d8304287b6df0173058a6219.jpg"
 description: A common perspective about life in general is that we must go through
   suffering or have intense experiences in order to see our lives as they truly are
   and where change is required.
 video: 
-image: "/uploads/fe0c30-9e758e10d8304287b6df0173058a6219.jpg"
+layout: post
 ---
 
 ​We are quite primed to live life to the extreme and very intensely, pushing our limits to the fullest. We go to great lengths to accomplish transient tasks and goals at the expense of our spiritual, mental, emotional and physical health and forget the subtle things that really matter and can make all the difference on our sanity and health. So, I want to highlight the hidden power of the subtle; the subtle messages that play a significant role in our healing, personal growth and awareness.
