@@ -3,7 +3,7 @@ title: The Confusion of Sadness
 date: 2017-05-23 00:08:00 Z
 permalink: confusion-of-sadness
 categories:
-- Spirituality
+- writing
 image: "/uploads/Confusion%20of%20Sadness.jpeg"
 ---
 
