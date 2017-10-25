@@ -23,7 +23,7 @@ include_in_nav: true
 </section>
 
 <div class="content" id="read-on">
-<div id="video"><iframe width="560" height="315" src="https://www.youtube.com/embed/{{page.video}}" frameborder="0" allowfullscreen></iframe></div>
+<div id="video"><iframe width="750" height="422" src="https://www.youtube.com/embed/{{page.video}}" frameborder="0" allowfullscreen></iframe></div>
 <section>
 <div class="text-container">
 <ul class="blog-posts">
