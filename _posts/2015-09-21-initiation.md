@@ -2,13 +2,12 @@
 title: Initiation
 date: 2015-09-21 00:00:00 Z
 categories:
-- Spirituality
-- Creativity
-layout: post
+- writing
+image: "/uploads/screen-shot-2016-12-11-at-12-23-50-am.png"
 description: I am ready to reclaim my freedom in this life, too many moons have past
   where I believed life had to be lived in a certain way, governed by limited expectations.
 video: 
-image: "/uploads/screen-shot-2016-12-11-at-12-23-50-am.png"
+layout: post
 ---
 
 I have many dreams, I’ve always been a dreamer, and they will continue to evolve as I create and manifest them. Yet the theme remains the same: to help assist the evolution of ourselves and our planet into a harmonious future.
