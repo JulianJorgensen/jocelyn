@@ -2,11 +2,11 @@
 title: An Honour to My Mother
 date: 2015-09-28 00:00:00 Z
 categories:
-- Spirituality
-layout: post
+- writing
+image: "/uploads/12642518-1070464626351907-4261079977822912794-n.jpg"
 description: 
 video: 
-image: "/uploads/12642518-1070464626351907-4261079977822912794-n.jpg"
+layout: post
 ---
 
 I look back in my lineage of divine femininity and I know that love was strong, I feel it in my blood, in my bones and fibres, in my fire and heart. my mother was the eldest of 7 children, most of them sisters, they are always full of celebratory life. Having suffered through difficult times in Mainland China my mother helped pay for her family back home after she volunteered to go work in Hong Kong. I had only this year heard that story consciously, imagining my mother as a child, hiding away alone on a boat, waiting at a city until it was time to move again; then working with her uncle to send oil back to her sisters and parents to help them survive.
