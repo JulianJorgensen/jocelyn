@@ -2,7 +2,7 @@
 title: It's Easy to Hate the Chinese
 date: 2017-07-10 03:19:00 Z
 categories:
-- Spirituality
+- writing
 image: "/uploads/Easy%20to%20Hate%20Chinese.jpg"
 ---
 
