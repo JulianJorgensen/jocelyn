@@ -2,13 +2,13 @@
 title: 'Healing with Spirit Plant Medicine: A Portal of Truth'
 date: 2015-09-07 00:00:00 Z
 categories:
-- Spirituality
-layout: post
+- writing
+image: "/uploads/screen-shot-2016-12-07-at-11-21-42-pm.png"
 description: If we allow ourselves to experience the radiating joyful truth that plant
   medicine can share with us, our ability to process and heal from our pain, traumas
   and sufferings can be experienced with that much more light.
 video: 
-image: "/uploads/screen-shot-2016-12-07-at-11-21-42-pm.png"
+layout: post
 ---
 
 Plant medicine, along with various other alternative healing methods, are becoming more and more sought after as a source of healing and path of conscious awakening. You may have heard of such sacred processes with Iboga, Psilocybin (Magic) Mushrooms, Ayahuasca or San Pedro (both which I have written about before) and even more common and prolific - Cannabis. These methods have helped heal various issues including, physical pain, grief, depression, trauma and with Iboga it has even healed addiction as strong as heroin. These are not new nor necessarily alternative, they have been available to us for as long as they have been used by their Indigenous keepers.
