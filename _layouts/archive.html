@@ -5,11 +5,12 @@ exclude_from_nav: true
 
 {% assign navItems = site.navigation %}
 {% for navitem in navItems %}
-	{% if navitem.title.downcase == page.title.downcase %}
+	{% assign navItemTitle = navitem.title | downcase %}
+	{% assign pageTitle = page.title | downcase %}	
+	{% if navItemTitle == pageTitle %}
 		{% assign heroImage = navitem.image %}
 	{% endif %}
 {% endfor %}
-
 <section class="hero" style="background-image: url({{heroImage}});">
 	<div class="inner-hero text-container">
 		<div class="hero-text-container">
