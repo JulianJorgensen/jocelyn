@@ -2,12 +2,11 @@
 title: '"My Warrior"'
 date: 2015-04-21 00:00:00 Z
 categories:
-- Spirituality
-- Creativity
-layout: post
+- writing
+image: "/uploads/fe0c30-e5016c21221c4a6a9597337a12059146.jpg"
 description: 
 video: 
-image: "/uploads/fe0c30-e5016c21221c4a6a9597337a12059146.jpg"
+layout: post
 ---
 
 This is the art of war. It is not to fight for pain. But a fight for peace. I see my warrior self, I know her very well. She is stark and valiant like a raven. Feathers line her crown, a cape cloaked around her shoulders running down her arm. No sharp weapons needed, just her oak staff and quartz point sitting firmly at the top. She has seen the battle field many times; she is porcelain smooth, no sharp edges. Her armour is flexible, no need for mass weight or thick metal. Her presence is strong enough to wield the proverbial knife. She looks at me with a soft gaze. She is saying hello again.
