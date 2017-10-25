@@ -1,12 +1,11 @@
 ---
 title: Live Deep Lee
-description: "Jocelyn Lee is Live.Deep.Lee, an authentic source of deep living and
-  loving. She documents and shares her self, purpose and service through Instagram
-  and her YouTube channel. \n\nShe focuses on her passion topics: SPIRITUAL & METAPHYSICAL,
-  CULTURE & PEOPLE, NATURE & COSMOS, HEALTH & HEALING, ART & PLAY"
+description: Jocelyn Lee is Live.Deep.Lee, an authentic source of deep living and
+  loving. She documents and share her spiritual life journey and provides a deeper
+  perspective on life through social commentary.
 image: "/uploads/Home-Page-Cropped.jpg"
 bottom_image: "/uploads/Homepage-Quote-Pic.jpg"
-video: fGCY1ziGMkc
+video: PIMMZdBt5hE
 include_in_nav: true
 ---
 
