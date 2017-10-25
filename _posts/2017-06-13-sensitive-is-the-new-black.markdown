@@ -2,7 +2,7 @@
 title: Sensitive is the New Black
 date: 2017-06-13 08:14:00 Z
 categories:
-- Spirituality
+- writing
 image: "/uploads/DSC02049.jpg"
 ---
 
