@@ -2,9 +2,7 @@
 title: 'Denman Island: My Creative Nature'
 date: 2017-08-09 06:58:00 Z
 categories:
-- Creativity
 - Videos
-- Spirituality
 image: "/uploads/Screen%20Shot%202017-08-07%20at%206.43.42%20PM.jpg"
 video: "/-ruNcC1SSPw"
 layout: post-video
