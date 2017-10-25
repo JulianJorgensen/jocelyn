@@ -2,12 +2,12 @@
 title: Healing vs. Healed
 date: 2015-01-31 00:52:00 Z
 categories:
-- Spirituality
-layout: post
+- writing
+image: "/uploads/fe0c30-c8921c11c5cc419ebb68cc23fab3984a.jpg"
 description: Healing and healed, ebb and flow like the tides – remember that the motions
   are a part of the process and process of life.
 video: 
-image: "/uploads/fe0c30-c8921c11c5cc419ebb68cc23fab3984a.jpg"
+layout: post
 ---
 
 Healing…&nbsp; When is it over? How does it look, feel, sound; when do you know you’ve moved from healing to healed? These are some questions that arise when we go through painful and traumatic experiences. Whether we are asking ourselves or others are asking us, it is hard to give someone one all-encompassing answer. And the truth is you can’t.
