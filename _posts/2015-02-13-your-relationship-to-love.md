@@ -2,8 +2,7 @@
 title: Your Relationship to Love
 date: 2015-02-13 00:00:00 Z
 categories:
-- Spirituality
-- Sexuality
+- writing
 image: "/uploads/girl%20heart.jpeg"
 description: 
 video: 
