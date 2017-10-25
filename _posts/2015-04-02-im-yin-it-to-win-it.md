@@ -2,12 +2,12 @@
 title: I'm Yin It to Win It!
 date: 2015-04-02 00:00:00 Z
 categories:
-- Spirituality
-layout: post
+- writing
+image: "/uploads/yin-post.jpg"
 description: This practice has impacted my life so much that I decided to become certified
   to teach Yin Yoga! I love holding space for you to go deep into yourself.
 video: 
-image: "/uploads/yin-post.jpg"
+layout: post
 ---
 
 In Vancouver, there are as many yoga teachers and studios as there are rainy days in a year. It can be hard to choose what style, teacher and location that best fits your needs and preferences. For myself, I enjoy classes that have a spiritual component to it, and the first serious classes I took were Kundalini classes. This allowed me to let go of my perspective that yoga in the West has become just a form of physical maintenance with expensive equipment/clothes and with some foreign words thrown in from time-to-time.
