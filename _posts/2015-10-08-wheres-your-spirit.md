@@ -2,12 +2,12 @@
 title: Where's Your Spirit?
 date: 2015-10-08 00:00:00 Z
 categories:
-- Spirituality
-layout: post
+- writing
+image: "/uploads/where-is-your-spirit.jpg"
 description: "“We are not human beings having a spiritual experience. We are spiritual
   beings having a human experience.” - Pierre Teilhard de Chardin."
 video: 
-image: "/uploads/where-is-your-spirit.jpg"
+layout: post
 ---
 
 What is the difference between Spirituality and Religion? This question was one of the difficult questions I encountered when I had my powerful awakening two years ago. Even in writing this sentence it makes me ponder, was I not spiritual before this catalyzing experience? Spirituality can be a can of worms to open and share with the table as it is often used synonymously with Religion - which most of us know: “Don’t talk about Politics or Religion at the dinner table.” However, I grew up in a very particular household that did not facilitate such boundaries and so this rule did not apply. Especially between me and my father, we spoke about everything from politics, history, art, music, philosophy to religion. In fact my father is Catholic and my mom is Buddhist, my mother would come to church with us and encourage me to have faith - wherever I chose to look. Jesus and Quan Yin were regular guests in our house with one shelf devoted to him and to her.
