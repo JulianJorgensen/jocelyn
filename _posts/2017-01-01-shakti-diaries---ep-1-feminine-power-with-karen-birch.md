@@ -3,8 +3,6 @@ title: 'Shakti Diaries - Ep 1: Feminine Power with Karen Birch'
 date: 2017-01-01 00:00:00 Z
 categories:
 - Videos
-- Spirituality
-- Sexuality
 image: "/uploads/More%20About%20Karen.jpg"
 description: Jocelyn Lee and Karen Burt, from Being Tula, share with you how to begin
   your journey back to your feminine power.
