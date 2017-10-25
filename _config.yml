@@ -30,10 +30,11 @@ baseurl:
 google_analytics_key: UA-84803515-1
 google_maps_javascript_api_key: 
 logo: "/siteicon.png"
-description: Spirituality, Sexuality, and Artistry with Jocelyn Lee
-aboutMe: I am a woman of many faces and many places, a star-shaped human in a box-shaped
-  world. Being human is the most beautiful and challenging journey, and there is only
-  my unique individual way of living it. I, LIVE.DEEP.LEE.
+description: 'This is an authentic source of deep living and loving. Jocelyn documents
+  and shares her spiritual life journey and provides a deeper perspective on life
+  through social commentary.  '
+aboutMe: I share the deep and finer details about my own spiritual life journey and
+  my perspectives on society on YouTube and Instagram.
 author:
   name: Jocelyn Lee
   email: jocelyn@jocelynlee.ca
@@ -70,7 +71,7 @@ social_icons:
 - YouTube
 - Email
 _comments:
-  description: 'LIVE DEEP LEE with Jocelyn as she shares her deep perspectives on
-    life and her personal spiritual journey. This is an authentic source of deep living
-    and loving. '
-  blurb: 
+  description: 'An authentic source of deep living and loving. Jocelyn documents and
+    shares her spiritual life journey and provides a deeper perspective on life through
+    social commentary.  '
+  blurb: A deeper look into the human condition.
