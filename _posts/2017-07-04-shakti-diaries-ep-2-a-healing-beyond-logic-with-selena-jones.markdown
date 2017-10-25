@@ -1,9 +1,8 @@
 ---
-title: 'Shakti Diaries - Ep 2: A Healing Beyond Logic with Selena Jones'
+title: 'Shakti Diaries - Ep 3: A Healing Beyond Logic with Selena Jones'
 date: 2017-07-04 09:36:00 Z
 categories:
 - Video
-- Spirituality
 image: "/uploads/Screen%20Shot%202017-07-04%20at%207.19.27%20PM.png"
 video: xroybj4fuuw
 layout: post-video
