@@ -2,7 +2,7 @@
 title: The Healer's Illusion
 date: 2017-07-07 07:59:00 Z
 categories:
-- Spirituality
+- writing
 image: "/uploads/Screen%20Shot%202017-07-11%20at%204.03.08%20PM.png"
 ---
 
