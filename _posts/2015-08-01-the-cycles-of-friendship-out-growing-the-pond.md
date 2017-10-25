@@ -2,13 +2,13 @@
 title: 'The Cycles of Friendship: Out Growing the Pond'
 date: 2015-08-01 00:00:00 Z
 categories:
-- Spirituality
-layout: post
+- writing
+image: "/uploads/august-1st-2015-photo.jpg"
 description: Simply put, you may notice as you widen your awareness and perspectives
   there are situations and people in your life that you may not want to maintain your
   friendship with.
 video: 
-image: "/uploads/august-1st-2015-photo.jpg"
+layout: post
 ---
 
 A very common process of evolution is when you have out grown the pond you once dwelled in. What does this mean? Well, the environment and all that resides in it is no longer sustaining or helping you grow and evolve into the person you want to be. Simply put, you may notice as you widen your awareness and perspectives there are situations and people in your life that you may not want to maintain your friendship with.
