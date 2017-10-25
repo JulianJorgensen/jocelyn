@@ -2,13 +2,12 @@
 title: Moon Shadow
 date: 2015-09-28 00:00:00 Z
 categories:
-- Spirituality
-- Creativity
-layout: post
+- writing
+image: "/uploads/screen-shot-2016-12-13-at-5-04-47-am.png"
 description: I am a Pisces, I need to evolve, I need to change, I need to live free,
   I need to live a purposeful life.
 video: 
-image: "/uploads/screen-shot-2016-12-13-at-5-04-47-am.png"
+layout: post
 ---
 
 I entered the shadows the best way I know how through the invocation of water. I drew myself a hot bath, it was time to go deep, I could feel the waning and waxing of my yin and yang. I have lived as my shadow self for years, hiding behind the light, a magicians wand.
