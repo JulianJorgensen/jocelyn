@@ -2,13 +2,12 @@
 title: I Weep Pleasure
 date: 2015-09-28 00:00:00 Z
 categories:
-- Spirituality
-- Creativity
-layout: post
+- writing
+image: "/uploads/screen-shot-2016-12-13-at-5-11-29-am.png"
 description: I was so grateful… so grateful, I was so grateful I smiled when I was
   crying, I feel pleasure when I cry.
 video: 
-image: "/uploads/screen-shot-2016-12-13-at-5-11-29-am.png"
+layout: post
 ---
 
 I had requested from my loved one that if I ever seemed stuck, to ask me, "do you remember how good it feels to cry, are you breathing fully, and can I speak to your inner child." My day of pleasure yesterday was not what I had expected. I started making my crystal talismans again, which bring me joy yet for some reason it was not a deep sense of pleasure. And so I waited. This super moon coming up has got me loony-with-the-moony my emotions are tidal. I waited; my love asked me the right questions and the right buttons were pushed. I could feel my volcano bubbling, the heat rising to the surface, the waters boiling, and then an eruption of pleasure: I started to cry.
