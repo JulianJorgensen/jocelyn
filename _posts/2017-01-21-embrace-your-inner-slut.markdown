@@ -3,8 +3,7 @@ title: Embrace Your Inner Slut
 date: 2017-01-21 21:21:00 Z
 permalink: blog/embrace-your-inner-slut
 categories:
-- Sexuality
-- Spirituality
+- writing
 image: "/uploads/DSC02599%202.jpg"
 ---
 
