@@ -5,7 +5,7 @@ exclude_from_nav: true
 
 {% assign navItems = site.navigation %}
 {% for navitem in navItems %}
-	{% if navitem.title == page.title %}
+	{% if navitem.title.downcase == page.title.downcase %}
 		{% assign heroImage = navitem.image %}
 	{% endif %}
 {% endfor %}
