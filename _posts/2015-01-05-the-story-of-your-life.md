@@ -2,12 +2,12 @@
 title: The Story of Your Life
 date: 2015-01-05 00:00:00 Z
 categories:
-- Spirituality
-layout: post
+- writing
+image: "/uploads/fe0c30-08db75dc02f84763ba6074b5c8656607-jpg-650.png"
 description: That is why so many wisdoms of our elders are simple, true and timeless.
   At the end of a human story, you take away the essence of the story.
 video: 
-image: "/uploads/fe0c30-08db75dc02f84763ba6074b5c8656607-jpg-650.png"
+layout: post
 ---
 
 Everyone loves hearing stories, whether they are about people’s day, celebrity gossip, cultural tales and folklore, memories, reality, fantasy or a joke - they are timeless; stories carry essences of life.
