@@ -2,8 +2,7 @@
 title: My Body is My Temple
 date: 2017-07-19 09:13:00 Z
 categories:
-- Spirituality
-- Creativity
+- writing
 image: "/uploads/Screen%20Shot%202017-07-19%20at%205.26.44%20PM.png"
 ---
 
