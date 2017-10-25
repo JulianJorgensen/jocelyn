@@ -1,6 +1,6 @@
 ---
 title: Disarm With Tenderness
-date: 2017-10-25 06:05:00 Z
+date: 2017-08-04 06:05:00 Z
 image: "/uploads/Disarm%20with%20tenderness.jpg"
 ---
 
