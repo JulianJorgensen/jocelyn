@@ -1,11 +1,13 @@
 ---
 title: 'The Earth is Changing: From the Depths of Her Core to the Cosmos'
 date: 2015-06-03 00:00:00 Z
-layout: post
+categories:
+- writing
+image: "/uploads/fe0c30-07e0c683d531478ca90a9bab69a596b3.jpg"
 description: "“The world is changed, I feel it in the water, I feel it in the earth.
   I smell it in the air.“ - Galadriel, Lord of the Rings"
 video: 
-image: "/uploads/fe0c30-07e0c683d531478ca90a9bab69a596b3.jpg"
+layout: post
 ---
 
 Humanity is unfolding itself right now, revealing the vast potential that people have as beings of Earth. The potential for great harm; the potential for great evolution. Have you noticed the profound changes occurring right now? … not just the ones meant to cause fear of our potential - but the change that reveals to us our higher calling and evolutionary path.
