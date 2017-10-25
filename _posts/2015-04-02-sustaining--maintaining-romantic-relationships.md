@@ -2,14 +2,13 @@
 title: Sustaining & Maintaining Romantic Relationships
 date: 2015-04-02 00:00:00 Z
 categories:
-- Spirituality
-- Sexuality
-layout: post
+- writing
+image: "/uploads/whatsapp-image-2016-08-22-at-11-14-45-am.jpeg"
 description: There are many ways to be engaged in a loving relationship, there are
   certain aspects and qualities that need to be in place in order for a loving relationship
   to be healthy.
 video: 
-image: "/uploads/whatsapp-image-2016-08-22-at-11-14-45-am.jpeg"
+layout: post
 ---
 
 It is not always clear on how to sustain and maintain a loving union, there are so many dated paradigms, beliefs, expectations and fears in this part of our life that often, people just settle with an idea of what a loving relationship is instead of trying to create and experience a loving relationship.
