@@ -2,13 +2,12 @@
 title: Womb Speak
 date: 2015-09-28 00:00:00 Z
 categories:
-- Spirituality
-- Creativity
-layout: post
+- writing
+image: "/uploads/screen-shot-2016-12-13-at-5-16-15-am.png"
 description: My womb and I have had a challenging relationship. A continuous role
   reversal of one playing the light and one the dark.
 video: 
-image: "/uploads/screen-shot-2016-12-13-at-5-16-15-am.png"
+layout: post
 ---
 
 My womb and I have had a challenging relationship. A continuous role reversal of one playing the light and one the dark. Yet now the conversation is kind and understanding, though there are still some parts to be untrained. We’ve been through a lot together, abuse on many levels. Some at the hands of others, some my own. She too knows the moon well, we act as the triple goddess together, one the child, one the woman, and one the sage. We have nostalgic remembrance together. Like warriors reminiscing past victories and battles. Together we’ve risen and fallen to sexual abuse, neglect, and apathy. We’ve gone through an abortion together, one that was excruciatingly painful, the choice remains the same but she asked me then, "why do you not listen to me?"
