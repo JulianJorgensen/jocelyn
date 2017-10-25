@@ -2,7 +2,7 @@
 title: What is Gratitude?
 date: 2014-06-01 00:00:00 Z
 categories:
-- Writing
+- writing
 image: "/uploads/what-is-gratitude.jpg"
 description: I once thought a gratitude journal was trivial, and that I didn’t need
   to list the things that I was thankful for. But I gave it a shot anyway.
