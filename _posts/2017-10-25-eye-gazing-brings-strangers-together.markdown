@@ -5,6 +5,7 @@ categories:
 - Videos
 image: "/uploads/conscious%20gathering.jpg"
 video: PIMMZdBt5hE
+layout: post-video
 ---
 
 Eye-gazing is one of the most powerful ways to disarm your prejudices and judgements about another person, including yourself. In doing so, we can begin embodying a true feeling of oneness and connection.
