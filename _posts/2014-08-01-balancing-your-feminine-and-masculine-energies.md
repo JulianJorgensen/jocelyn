@@ -2,14 +2,13 @@
 title: Balancing Your Feminine and Masculine Energies
 date: 2014-08-01 21:09:00 Z
 categories:
-- Spirituality
-- Sexuality
-layout: post
+- writing
+image: "/uploads/screen-shot-2016-10-05-at-3-39-12-pm.jpg"
 description: It is a re-balancing of the masculine and feminine energy within all
   of us. This realignment is everywhere, from the intangible, to the collective, and
   right in the heart of the individual.
 video: 
-image: "/uploads/screen-shot-2016-10-05-at-3-39-12-pm.jpg"
+layout: post
 ---
 
 We are all in a new age of humanity, some call it the Age of Aquarius, the Age of Knowledge, the New World, the 5th Dimension, and some call it ***total chaos***. I like to believe that it is all true. As it does not matter how you categorize it or label it, they are all expressing the same thing. Change, and that is evolution.
