@@ -2,11 +2,11 @@
 title: Embodying Intentions
 date: 2015-05-01 00:00:00 Z
 categories:
-- Spirituality
-layout: post
+- writing
+image: "/uploads/fe0c30-5d3dacfac1554cefaa3f75b9ee01d97a.jpg"
 description: The body is what brings the intangible into the tangible.
 video: 
-image: "/uploads/fe0c30-5d3dacfac1554cefaa3f75b9ee01d97a.jpg"
+layout: post
 ---
 
 How often have you heard, “the mind is everything,” your thoughts is what creates reality,” it’s all about intentions,” “if you believe it, you can create it.” I have said many expressions in this way, giving a lot of our understanding of intentions to the mind; but I have also learned to integrate my heart in these intentions as well - so I believed I had this concept of intentions pretty well figured out. I personally enjoy operating in the upper chakras when it comes to setting my intentions, that if my consciousness and heart were on board then I will manifest my intentions into reality. But there was another aspect of intentions that I was not aware of.
