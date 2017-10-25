@@ -2,12 +2,12 @@
 title: Over Coming Your Fears
 date: 2014-10-01 00:00:00 Z
 categories:
-- Spirituality
-layout: post
+- writing
+image: "/uploads/fe0c30-821ed7588c1941e9b144e5b09c1ba7e4.jpg"
 description: It is important to note that “I feel afraid,” is very different from
   “I am afraid.”
 video: 
-image: "/uploads/fe0c30-821ed7588c1941e9b144e5b09c1ba7e4.jpg"
+layout: post
 ---
 
 We all have fears, some are life long, some are momentary, some are real and some are not.
