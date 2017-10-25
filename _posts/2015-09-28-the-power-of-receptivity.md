@@ -2,13 +2,12 @@
 title: The Power of Receptivity
 date: 2015-09-28 00:00:00 Z
 categories:
-- Spirituality
-- Creativity
-layout: post
+- writing
+image: "/uploads/img-2329.JPG"
 description: I take a deep breath in, and I say “Thank you, I very much appreciate
   it.”
 video: 
-image: "/uploads/img-2329.JPG"
+layout: post
 ---
 
 This is deep feminine medicine indeed, the power of receptivity. Accepting compliments were difficult for me as I often felt squeamish, perhaps because I’ve been around enough people who always tried to out compliment the other. One wanting to show more humility by seeming smaller.
