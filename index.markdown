@@ -41,7 +41,7 @@ include_in_nav: true
     <section class="hero hero-footer" style="background-image: url({% include relative-src.html src=page.bottom_image %});background-position: top center;">
         <div class="inner-hero text-container">
             <div class="hero-text-container">
-                <div class="quote editable"><p>"I share my self, purpose and service the only way I know how - being me on the brightest or days and darkest of nights."</p></div>
+                <div class="quote editable"><p>"I only know how to live a deep and authentic life of love. And that is all I have to share."</p></div>
                 <p class="subtext editable">- Jocelyn Lee</p>
             </div>
         </div>
