@@ -1,9 +1,8 @@
 ---
 title: My Journey
-description: |-
-  Jocelyn Lee is Live.Deep.Lee, an authentic source of deep living and loving. She documents and shares her self, purpose and service through Instagram, Facebook and her YouTube channel.
-
-  She focuses on her passion topics: SPIRITUAL & METAPHYSICAL, CULTURE & PEOPLE, NATURE & COSMOS, HEALTH & HEALING, ART & PLAY
+description: Jocelyn Lee is Live.Deep.Lee, an authentic source of deep living and
+  loving. She documents and shares her own life, perspective, social and spiritual
+  commentary through Instagram, Facebook and her YouTube channel.
 image: "/uploads/Connect-Picture.jpg"
 include_in_nav: true
 ---
