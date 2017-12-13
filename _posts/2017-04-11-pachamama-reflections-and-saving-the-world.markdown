@@ -5,7 +5,7 @@ permalink: "/pachamama-reflections-saving-the-world"
 categories:
 - Videos
 image: "/uploads/Screen%20Shot%202017-04-09%20at%2011.43.54%20PM.png"
-video: "/oMbZfTD2BGE/"
+video: "/oMbZfTD2BGE"
 layout: post-video
 ---
 
