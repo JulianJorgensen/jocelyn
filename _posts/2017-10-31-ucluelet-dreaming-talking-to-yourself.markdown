@@ -2,7 +2,7 @@
 title: Ucluelet Dreaming - Talking to Yourself
 date: 2017-10-31 01:58:00 Z
 categories:
-- Videos
+- videos
 image: "/uploads/Ukee%20Dreaming.jpg"
 video: N9meN9REKiE
 layout: post-video

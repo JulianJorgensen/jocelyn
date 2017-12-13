@@ -2,7 +2,7 @@
 title: A Sick Puppy Changed Our Lives
 date: 2017-10-25 02:48:00 Z
 categories:
-- Videos
+- videos
 image: "/uploads/Little%20Django.jpg"
 video: pZeMX-vZZXI
 layout: post-video

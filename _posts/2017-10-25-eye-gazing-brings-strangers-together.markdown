@@ -2,7 +2,7 @@
 title: Eye-Gazing Brings Strangers Together
 date: 2017-10-25 02:53:00 Z
 categories:
-- Videos
+- videos
 image: "/uploads/conscious%20gathering.jpg"
 video: PIMMZdBt5hE
 layout: post-video

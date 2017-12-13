@@ -3,7 +3,7 @@ title: The Age of Cameras, Selfies & Inner Beauty
 date: 2017-03-07 23:39:00 Z
 permalink: "/age-of-selfies"
 categories:
-- Videos
+- videos
 image: "/uploads/Screen%20Shot%202017-03-07%20at%205.24.54%20PM.png"
 video: "/Y9rm76Ca8uU"
 layout: post-video

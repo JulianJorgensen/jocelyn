@@ -2,7 +2,7 @@
 title: 'Shakti Diaries - Ep 2: A Woman''s Journey to Freedom with Susie Yau'
 date: 2017-02-05 09:49:00 Z
 categories:
-- Videos
+- videos
 image: "/uploads/Susie%20Hammock.jpg"
 video: swJdjWAE6Bg
 layout: post-video

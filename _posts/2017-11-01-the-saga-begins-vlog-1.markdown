@@ -2,7 +2,7 @@
 title: The Saga Begins - Vlog 1
 date: 2017-11-01 03:53:00 Z
 categories:
-- Videos
+- videos
 image: "/uploads/Screen%20Shot%202017-11-01%20at%2012.34.02%20PM.jpg"
 video: cbeiQpnfCJs
 layout: post-video

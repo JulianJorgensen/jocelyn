@@ -2,7 +2,7 @@
 title: 'Cosmic Comedy: Spiritual Girl vs Regular Girl'
 date: 2017-11-03 07:03:00 Z
 categories:
-- Videos
+- videos
 image: "/uploads/Spiritual%20Girl%20VS%20Regular%20Girl.jpg"
 video: oQcv8QWir_0
 layout: post-video
