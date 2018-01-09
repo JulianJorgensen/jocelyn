@@ -1,11 +1,12 @@
 ---
 title: Live Deep Lee
-description: Jocelyn Lee is Live.Deep.Lee, an authentic source of deep living and
-  loving. She documents and share her spiritual life journey and provides a deeper
-  perspective on life through social commentary.
+description: Jocelyn Lee is Live.Deep.Lee, an authentic source of deep living, loving,
+  relating and being. She is a speaker, facilitator and YouTuber. She documents and
+  share her spiritual life journey and provides a deeper perspective on life through
+  her vlogs and videos.
 image: "/uploads/Home-Page-Cropped.jpg"
 bottom_image: "/uploads/Homepage-Quote-Pic.jpg"
-video: PIMMZdBt5hE
+video: xuVuRie9qF4
 include_in_nav: true
 ---
 
