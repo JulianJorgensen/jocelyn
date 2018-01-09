@@ -16,7 +16,7 @@ include_in_nav: true
 <div class="hero-logo">{% include jocelyn-lee-logo.svg %}</div>
 <div class="hero-text">
 <h1 id="landing-page-heading">Jocelyn Lee</h1>
-<p class="subtext editable">An authentic source of deep living and loving. </p>
+<p class="subtext editable">Deep living, loving, relating & being. Guiding by example, sharing tantric connections. </p>
 </div>
 </div>
 </div>
