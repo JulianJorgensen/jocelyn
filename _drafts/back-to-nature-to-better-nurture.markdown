@@ -1,15 +1,22 @@
 ---
 title: Back to Nature to Better Nurture
 date: 2018-01-12 11:22:00 Z
+categories:
+- writing
+image: "/uploads/pexels-photo-349447.jpeg"
 ---
 
 It began yesterday night on 1/11/18. They say it is a major galactic alignment, one the Jewish calendar had been waiting for. An opening of a gateway of two merging timelines of past and present. I felt the shift.
+
+![20180112_111144.jpg](/uploads/20180112_111144.jpg)
 
 My distortion began just before the new year. I felt a thick cloud of aimlessness, frustration, and eagerness set in. Something was happening, I can't see what is unconscious, I must wait for it to surface from the dark. It was not easy to feel the toil, toil, boil and trouble - fire burn and cauldron bubble of the witches brew... inside me.
 
 I had a feel-good list I had begun implementing since stubbornly releasing the grip on my old ambitious behaviour and thinking patterns the new years tends to stir up. One of those things on my list was to take an Epsom salt bath. One of my all-time favorite meditation rituals. I had forgotten when I immerse in the element of water I become one with spirit. I melt into it's molecular fluid structure and I am an open channel again. All I have to do is allow and affirm my surrender, it helps when you see 11:11 before you dive in.
 
 In the water, I began my alchemical transformation in the form of tears. I had been yearning for this feeling for so long... it was finally becoming clear as I bathed in literal clarity. My spiritual body was calling me to bring her forward into the daily rituals of my life, in the ways of this Earth but not from it... I don't know how to explain this. It's as the galactic forecast describes... a merging of timelines...
+
+![Bath Ritual.jpg](/uploads/Bath%20Ritual.jpg)
 
 I began by doing Reiki on myself. Afterall, as I read on Mysticmama: We cannot teach what we are unwilling to learn. So. I decided to honour my Reiki Mastery and reinitiate myself again. I yearned to work with energy, so I start with myself as practice. I opened my crown chakra and felt the divine message coming through. My higher self, my spirit speaking through me, to me. The tears flowed. The words rolled off my tongue, the sounds freed me. I have done great work as of late to prepare the physical vehicle and I feel ready to fill myself with my self. 
 
@@ -41,7 +48,11 @@ Part of me felt like it was a communication... another wavelength I have been op
 
 This morning, I saw 11:11 again, and 10:10. I felt empty and in need of meditative contemplation. So, I went for a long walk through the forest on my own. I brought my headphones and played Kerala of Shaman Dreams. 
 
+![20180112_114601.jpg](/uploads/20180112_114601.jpg)
+
 I had such a magical walk. I found spaces that were speaking to me. A Rock that held the most steady space for me, passing its essence to me on how to better hold for others too. There I sat for some time to integrate into the land, to welcome whatever was here long ago that was aligned with the spiritual life and natural magic of the Earth and Divine.   I found human-made spaces to dwell in nature with. I followed paths beaten into the Earth. Slightly off the road. In this world, yet not of it either. I couldn't hear anything. Just my music. I liked I was in a safe space, the city around me, I knew I could be wanderlust and enjoy that feeling of loss and lost, wander with it without judgment or any aim.
+
+![20180112_115310.jpg](/uploads/20180112_115310.jpg)
 
 I saw so much beauty in the loss of the leaves, the unearthed roots exposed to the harsh winter cold. The colours were still so magnificent. This mulch of the Earth was really breathing with life. I could feel it with every step this pulsating quality of being pressed into and bouncing back up into its own shape. 
 
@@ -57,12 +68,14 @@ One of those being for the tech retreat, of HOW to communicate the connection wi
 
 When I was grounding I looked at the trees and I realized that the internet is very ethereal and you must be very grounded to be fully capable of navigating that world without getting lost in it. Tethered to the Earthly realm in some way is what actually gives strength and resiliance in being part of that world. In a way, we are merging the two timelines of in this world but not of it. 
 
+![20180112_113524-85f5ae.jpg](/uploads/20180112_113524-85f5ae.jpg)
+
 The soul that is in this earth world but is not of it, the person that is in this ether internet world but is not of it either. Multidimensional living and multidimensional timelines merging into one. 
 
 So I sat with the decaying fallen trees, defocused on the puddles that formed around it... allowed myself to be part and honour that decaying process mimicking inside me.   I sat on the rock and saw myself in spiritual practice/ritual in nature... Ukee you call to my soul again, reminding me of my music.... and I will be holding space in the safety of Gaia's foundation. Her land and sea merging to the fire in our hearts and opening to the divine heavens above as we breathe in the magic of life.  That is what I wish for. 
 
 So I aimlessly wandered as I was guided. When I was finally asked to take off my headphones, I walked just a bit farther to a fallen tree obstructing my next step. I leaned on it, just to pause. I look ahead of the trees and I realize I had been dropped off directly in front of the entrance of the park from the street I had entered. Hilarious! 
 
-It was wonderful to be brought back to where I began... to know that I am guided, I am safe, I am protected, and I am watched over. Don't worry litte human Jocelyn.
+It was wonderful to be brought back to where I began... to know that I am guided, I am safe, I am protected, and I am watched over. Don't worry little human Jocelyn.
 
 So I write now with peaceful content. Perhaps it will change tomorrow. And that is okay because I am aware of what this new cycle will be about... I have a new implementation to support me and I filled with a purified faith. I am grateful, hopeful and thankful. 
