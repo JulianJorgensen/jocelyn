@@ -36,7 +36,7 @@ include_in_nav: true
 
 <p> .</p>
 
-<p> This is where I am on my journey. And, I hope you'll support me and my offering to you. The best way to do this is to [follow my Instagram](http://www.instagram.com/live.deep.lee) and [subscribe to my Youtube channel](https://www.youtube.com/channel/UCHD_5jgPCegnPVZq3cZd-dw), the two platforms I'll be communicating with you the most of my own life journey and my social commetary. </p>
+<p> This is where I am on my journey. And, I hope you'll support me and my offering to you. The best way to do this is to [follow my Instagram](http://www.instagram.com/live.deep.lee) and [subscribe to my Youtube channel](https://www.youtube.com/channel/UCHD_5jgPCegnPVZq3cZd-dw), the two platforms I'll mostly be using to share my life journey. </p>
 
 <p>I really hope I'll see you connecting with me because even though I do this because it fulfills my self, it's full of purpose and service to all. Always.</p>
 
