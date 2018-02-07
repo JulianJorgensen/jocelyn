@@ -1,5 +1,5 @@
 ---
-title: '"My Warrior"'
+title: My Warrior
 date: 2015-04-21 00:00:00 Z
 categories:
 - writing
