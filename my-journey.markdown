@@ -26,7 +26,7 @@ include_in_nav: true
 
 <p> Even on the straight and narrow path my deep spirituality and love for the metaphysical, the edge of what we know, busted at the seams of my box-disguise. A 3 month trip to S.E. Asia in 2013 opened the doors to a new career path, energy work. I became a Shamballa Reiki Master, Crystal Healing Practitioner, Yin Yoga Instructor, A Spiritual Mentor/Guide, Workshop Facilitator - I just went straight and narrow on this path until the end of 2016. It was crazy to have begun these sessions in my bedroom to then renting an office space. But I was also meeting many obstacles and challenges that were asking me: "Is this how you want to do it?" And something in me started to die.</p>
 
-<p>This title was no longer fitting, this box was starting to fall apart. At 27, I was starting to fear change for the first time. I thought I had my purpose and passion all figured out. I loved being of service, that is why I am here. BUT - I didn't ever consider - maybe not this way. I could not stop the force radiating from inside me that was asking me to trust a new way of being, doing, and living on Earth. </p>
+<p>This title was no longer fitting, this box was starting to fall apart. At 27, I was starting to fear change for the first time. I thought I had my purpose and passion all figured out. I loved being of service, that is why I am here. BUT I could not stop the force radiating from inside me that was asking me to trust a new way of being, doing, and living on Earth. </p>
 
 <p> I started to stop, drop and roll away from anything that was not going to make it into the New Earth. I had to release friendships, lovers, family, beliefs, joys, griefs, a business, titles, memories, my dog, and where I've always called home. I was about to get on a perilous voyage to new uncharted territory, deep into myself I've never been.</p>
 
@@ -36,7 +36,7 @@ include_in_nav: true
 
 <p> .</p>
 
-<p> This is where I am on my journey. And, I hope you'll support me and my offering to you. The best way to do this is to [follow my Instagram](http://www.instagram.com/live.deep.lee) and [subscribe to my Youtube channel](https://www.youtube.com/channel/UCHD_5jgPCegnPVZq3cZd-dw), the two platforms I'll mostly be using to share my life journey. </p>
+<p> This is where I am on my journey. And, I hope you'll support me and my offering to you. The best way to do this is to follow my Instagram (@LIVE.DEEP.LEE) and subscribe to my YouTube channel (Button at the top!), the two platforms I'll mostly be using to share my life journey. </p>
 
 <p>I really hope I'll see you connecting with me because even though I do this because it fulfills my self, it's full of purpose and service to all. Always.</p>
 
