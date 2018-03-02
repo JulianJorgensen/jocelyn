@@ -1,9 +1,17 @@
 ---
-title: Making an Impact (Podcast w/ Tao of Self-confidence)
+title: |-
+  My Journey to Self Confidence
+  (Podcast w/ Tao of Self-confidence)
 date: 2018-03-02 12:47:00 Z
+permalink: "/tao-of-self-confidence-podcast"
+categories:
+- videos
+image: "/uploads/jocelyn-DSC02038.png"
+video: "/_vO6vxtYx7g"
+layout: post-video
 ---
 
-I had the pleasure of being interviewed for a podcast called The Tao of Self-Confidence. I got to share my journey with my own self-confidence and what my thoughts are on what it really means to be confident.
+I had the pleasure of being interviewed by Sheena Yap Chan for her podcast called [The Tao of Self-Confidence](http://thetaoofselfconfidence.com/). I got to share my journey with my own self-confidence and what my thoughts are on what it really means to be confident.
 
 Here are some highlights of the talk below:
 
@@ -14,7 +22,7 @@ Self confidence is the continuous journey of exploring yourself.
 As a young child, I was rather shy, but I was always quite confident in myself. As a child many things came easy to me and I received a lot of praise, sometimes in front of other children and that made me very uncomfortable to see someone else’s confidence be stepped on with me as the tool!
 
 **The “AHA” Moment:**
-I was a bully in elementary school with no guidance.  There was one boy who I was mean to but one day the same boy confided in me that their family was on welfare.  I realized that the confidence is also something shared. 
+I was a bully in elementary school with no guidance.  There was one boy who I was mean to but one day the same boy confided in me that their family was on welfare.  I realized that the confidence is also something shared.
 
 I also then realized I can make an impact in the world.
 
