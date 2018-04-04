@@ -6,7 +6,7 @@ description: Jocelyn Lee is Live.Deep.Lee, an authentic source of deep living, l
   her vlogs and videos.
 image: "/uploads/Home-Page-Cropped.jpg"
 bottom_image: "/uploads/Homepage-Quote-Pic.jpg"
-video: xuVuRie9qF4
+video: PIMMZdBt5hE
 include_in_nav: true
 ---
 
