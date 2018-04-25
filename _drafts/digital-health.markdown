@@ -4,7 +4,7 @@ date: 2018-04-25 15:11:00 Z
 ---
 
 What is digital health?
-Digital health is our ability to have a balanced and harmonious lifestyle embedded with technology on a daily basis.
+Digital health is a measure of our ability to have a balanced and conscious lifestyle integrated with technology on a daily basis.
 
 If there is one area of lifestyle that people have yet to jump on a holistic health trend yet, it's our digital health. Humanity is merging and permeated with technology at an ever-increasing rate, and our public and private lives are becoming digitized, taking a whole new life of its own. Our entire well-being is tied to the fate of how we choose to live our lives with the possible miracles and dangers of technology. 
 
