@@ -4,15 +4,22 @@ date: 2018-04-25 15:11:00 Z
 ---
 
 What is digital health?
-Digital health is a measure of our ability to have a balanced and conscious lifestyle integrated with technology on a daily basis.
+It is our ability to maintain a conscious and balanced approach to living with technology, a holistic digital lifestyle.
 
-If there is one area of lifestyle that people have yet to jump on a holistic health trend yet, it's our digital health. Humanity is merging and permeated with technology at an ever-increasing rate, and our public and private lives are becoming digitized, taking a whole new life of its own. Our entire well-being is tied to the fate of how we choose to live our lives with the possible miracles and dangers of technology. 
+Humanity is exponentially merging into the digital realm, and it can be difficult to be aware of how to maintain a healthy lifestyle in the midst of this great change. While some changes have been positive, the negative effects require our attention and efforts to improve. Our physical body suffers from debilitating postures, our psychological health is fragmented across the world wide web, and what it means to be human is undergoing a revolution. Our complete well-being is tied to how we choose to live with the opportunities and challenges of technology. 
 
-There have been some positively amazing qualities a digital lifestyle has brought humanity, yet it is also obviously evident that it has also brought its equal (if not more) negative qualities to our lives as well. It is not simply the fault of the tech itself, but it is an interrelational give and take between it and us. We create them, they effect us, and we redefine them over and over again. 
+The only way to balance this relationship is to be conscious of our use, be aware of our motivations, how to proactively engage with the technology we use, live and communicate with.
 
-The only way to balance this relationship is to be as conscious of our use and motivations of use as much as possible, so that we do not lose ourselves physically, psychologically and spiritually. 
+Come experience and learn:
+• practical tools and tips on how to improve your physical experience with tech, including basic computer/cellphone ergonomics, better computer screen lighting and specific stretches for common computer strains. 
+• how to be more conscious, create boundaries and change our psychological relationship with social media into a positive experience that enhances our lives rather than detracts it. (ie. Knowing when Netflix & Chill is actually escapism)
+• how to empower yourself and others with the ever-changing dynamic of humanity & technology.  
 
-I personally am technology positive, I have high hopes and optimism for its use and elevation of our human evolution. But! In order for one to reach that, we must begin to improve our digital health so we may create such a future.
+Notes:
+• Please wear comfortable clothing to participate in some of the activities! Yes, you will be interacting with each other! :D
+• This is a free event for everyone
+
+Jocelyn has her degree in Communications & Sociology and has a passion for exploring ways technology and people can come together in mutually positive exchanges. She's also trained in the healing arts of Reiki, crystal healing, gong sound healing and yin yoga. Being a freelancer and a recent stint as a digital nomad, creating a healthy digital lifestyle is part of everyday life.
 
 PHYSICAL:
 • Long sitting hours: poor blood circulation, sedentary lifestyle
@@ -25,4 +32,4 @@ PSYCHOLOGICALLY:
 • Escapism: Though video games, netflix, mind-less scrolling
 
 SPIRITUALLY:
-• Desensitization: See so much on screen, can't relate to reality of problems. 
+• What we search for out there, we search for in here. 
