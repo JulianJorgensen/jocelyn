@@ -3,7 +3,7 @@ title: A Feminine Perspective on Artificial Intelligence
 date: 2017-11-28 07:16:00 Z
 categories:
 - videos
-image: "/uploads/Feminine%20Perspective%20on%20AI.jpg"
+image: "/uploads/Screen%20Shot%202018-05-19%20at%2010.54.18%20AM.png"
 video: BGFxkkHfJA0
 layout: post-video
 ---
