@@ -18,16 +18,17 @@ include_in_nav: true
 </section>
 
 <section class="pad" id="more">
+<div class="text-container">
 
-Live Deep Lee is a culmination of my life’s practices, personal experiences, and embodied wisdom into a platform of service.
+<p>Live Deep Lee is a culmination of my life’s practices, personal experiences, and embodied wisdom into a platform of service.</p>
 
-There is one common thread that has weaved it’s way through my multi-dimensional life, and it is to live deeply.
+<p>There is one common thread that has weaved it’s way through my multi-dimensional life, and it is to live deeply.</p>
 
-No matter the changes to where I was living, where I was going, or what I was doing - the constant was that I experienced life deeply in all it’s shapes and colours. No belief is left unchallenged, no feeling is left unfelt, no experience is left uncontemplated.
+<p>No matter the changes to where I was living, where I was going, or what I was doing - the constant was that I experienced life deeply in all it’s shapes and colours. No belief is left unchallenged, no feeling is left unfelt, no experience is left uncontemplated.</p>
 
-This deep living and loving is my path and I share it in the most authentic way as possible. I do so as a loving facilitator, inspired speaker, honest writer, and humble healer of the human spirit. But it is not as serious as it sounds! There is lots of room for joy, fun and pleasure!
+<p>This deep living and loving is my path and I share it in the most authentic way as possible. I do so as a loving facilitator, inspired speaker, honest writer, and humble healer of the human spirit. But it is not as serious as it sounds! There is lots of room for joy, fun and pleasure!</p>
 
-You can catch my love of creative media through this Facebook page, my [Instagram](http://instagram.com/live.deep.lee), and my [Youtube Channel](https://www.youtube.com/c/LiveDeepLee) where I create content on the wide range of what it’s like to live deeply.
+<p>You can catch my love of creative media through this Facebook page, my [Instagram](http://instagram.com/live.deep.lee), and my [Youtube Channel](https://www.youtube.com/c/LiveDeepLee) where I create content on the wide range of what it’s like to live deeply.</p>
 
 **Live** (both what is a-LIVE and to live)\
 **Deep** (how I experience living)\
@@ -35,12 +36,12 @@ You can catch my love of creative media through this Facebook page, my [Instagra
 
 **A little more about myself:**
 
-I am originally from Vancouver, BC Canada and have moved and travelled the last few years to Costa Rica, Bali, India and now I currently reside in Copenhagen, Denmark with my beloved Dane, Julian Jørgensen.
+<p>I am originally from Vancouver, BC Canada and have moved and travelled the last few years to Costa Rica, Bali, India and now I currently reside in Copenhagen, Denmark with my beloved Dane, Julian Jørgensen.</p>
 
-In Vancouver I had my own Reiki & Crystal healing practice where I held private sessions in spiritual guidance and mentorship coupled with the energy work. I would also hold regular events that brought body, mind, heart and spirit together. Such as Goddess Awakening, Art of Perception, Yin & Reiki, Guided Merkaba Meditations, Reiki Training, and Eye-gazing workshops.
+<p>In Vancouver I had my own Reiki & Crystal healing practice where I held private sessions in spiritual guidance and mentorship coupled with the energy work. I would also hold regular events that brought body, mind, heart and spirit together. Such as Goddess Awakening, Art of Perception, Yin & Reiki, Guided Merkaba Meditations, Reiki Training, and Eye-gazing workshops.</p>
 
-I am trained as a Shamballa Reiki Master, Crystal Healing practitioner, Yin Yoga Teacher, Gong Master, and my degree is in Communications with a minor in Sociology. Tantra is also where I feel deeply called to be a part of and share with others, but is not something I teach.
+<p>I am trained as a Shamballa Reiki Master, Crystal Healing practitioner, Yin Yoga Teacher, Gong Master, and my degree is in Communications with a minor in Sociology. Tantra is also where I feel deeply called to be a part of and share with others, but is not something I teach.</p>
 
-I'd love to collaborate with like-minded & hearted people with a vision, mission and devotion to the highest good of all. So please connect with me! 
-
+<p>I'd love to collaborate with like-minded & hearted people with a vision, mission and devotion to the highest good of all. So please connect with me!</p>
+</div>
 </section>
