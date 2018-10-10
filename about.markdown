@@ -11,7 +11,7 @@ include_in_nav: true
 <div class="inner-hero text-container">
 <div class="hero-text-container">
 <h1 class="editable">About</h1>
-<p class="subtext editable">Let's collaborate!  <br />Share yourself with me! <br />Don't be shy, let's connect!</p>
+<p class="subtext editable">Why Live Deep Lee</p>
 </div>
 </div>
 <div class="read-on"><a href="#more">Read more <span class="arrow">▼</span></a></div>
@@ -30,11 +30,11 @@ include_in_nav: true
 
 <p>You can catch my love of creative media through this Facebook page, my <a href="http://instagram.com/live.deep.lee" target="_new">Instagram</a>, and my <a href="https://www.youtube.com/c/LiveDeepLee" target="new">Youtube Channel</a> where I create content on the wide range of what it’s like to live deeply.</p>
 
-<strong>Live</strong> (both what is a-LIVE and to live)\
-<strong>Deep</strong> (how I experience living)\
-<strong>Lee</strong> (the expression of who I am, Jocelyn Lee)
+<strong>Live</strong> (both what is a-LIVE and to live)<br />
+<strong>Deep</strong> (how I experience living)<br />
+<strong>Lee</strong> (the expression of who I am, Jocelyn Lee)<br />
 
-<strong>A little more about myself:</strong>
+<h2>A little more about myself:</h2>
 
 <p>I am originally from Vancouver, BC Canada and have moved and travelled the last few years to Costa Rica, Bali, India and now I currently reside in Copenhagen, Denmark with my beloved Dane, Julian Jørgensen.</p>
 
