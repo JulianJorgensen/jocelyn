@@ -30,9 +30,9 @@ include_in_nav: true
 
 <p>You can catch my love of creative media through this Facebook page, my <a href="http://instagram.com/live.deep.lee" target="_new">Instagram</a>, and my <a href="https://www.youtube.com/c/LiveDeepLee" target="new">Youtube Channel</a> where I create content on the wide range of what it’s like to live deeply.</p>
 
-<strong>Live</strong> (both what is a-LIVE and to live)<br />
+<p><strong>Live</strong> (both what is a-LIVE and to live)<br />
 <strong>Deep</strong> (how I experience living)<br />
-<strong>Lee</strong> (the expression of who I am, Jocelyn Lee)<br />
+<strong>Lee</strong> (the expression of who I am, Jocelyn Lee)<br /></p>
 
 <h2>A little more about myself:</h2>
 
