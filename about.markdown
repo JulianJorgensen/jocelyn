@@ -28,13 +28,13 @@ include_in_nav: true
 
 <p>This deep living and loving is my path and I share it in the most authentic way as possible. I do so as a loving facilitator, inspired speaker, honest writer, and humble healer of the human spirit. But it is not as serious as it sounds! There is lots of room for joy, fun and pleasure!</p>
 
-<p>You can catch my love of creative media through this Facebook page, my [Instagram](http://instagram.com/live.deep.lee), and my [Youtube Channel](https://www.youtube.com/c/LiveDeepLee) where I create content on the wide range of what it’s like to live deeply.</p>
+<p>You can catch my love of creative media through this Facebook page, my <a href="http://instagram.com/live.deep.lee" target="_new">Instagram</a>, and my <a href="https://www.youtube.com/c/LiveDeepLee" target="new">Youtube Channel</a> where I create content on the wide range of what it’s like to live deeply.</p>
 
-**Live** (both what is a-LIVE and to live)\
-**Deep** (how I experience living)\
-**Lee** (the expression of who I am, Jocelyn Lee)
+<strong>Live</strong> (both what is a-LIVE and to live)\
+<strong>Deep</strong> (how I experience living)\
+<strong>Lee</strong> (the expression of who I am, Jocelyn Lee)
 
-**A little more about myself:**
+<strong>A little more about myself:</strong>
 
 <p>I am originally from Vancouver, BC Canada and have moved and travelled the last few years to Costa Rica, Bali, India and now I currently reside in Copenhagen, Denmark with my beloved Dane, Julian Jørgensen.</p>
 
