@@ -7,6 +7,18 @@ image: "/uploads/Connect-Picture.jpg"
 include_in_nav: true
 ---
 
+<section class="hero" style="background-image: url({% include relative-src.html src=page.image %})">
+<div class="inner-hero text-container">
+<div class="hero-text-container">
+<h1 class="editable">About</h1>
+<p class="subtext editable">Let's collaborate!  <br />Share yourself with me! <br />Don't be shy, let's connect!</p>
+</div>
+</div>
+<div class="read-on"><a href="#more">Read more <span class="arrow">▼</span></a></div>
+</section>
+
+<section class="pad" id="more">
+
 Live Deep Lee is a culmination of my life’s practices, personal experiences, and embodied wisdom into a platform of service.
 
 There is one common thread that has weaved it’s way through my multi-dimensional life, and it is to live deeply.
@@ -30,3 +42,5 @@ In Vancouver I had my own Reiki & Crystal healing practice where I held private 
 I am trained as a Shamballa Reiki Master, Crystal Healing practitioner, Yin Yoga Teacher, Gong Master, and my degree is in Communications with a minor in Sociology. Tantra is also where I feel deeply called to be a part of and share with others, but is not something I teach.
 
 I'd love to collaborate with like-minded & hearted people with a vision, mission and devotion to the highest good of all. So please connect with me! 
+
+</section>
